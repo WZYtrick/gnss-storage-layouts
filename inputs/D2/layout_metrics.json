@@ -1,0 +1,47 @@
+{
+  "W": {
+    "path": "historical/EXP-027/layouts/D2/W",
+    "files": 36,
+    "row_groups": 539,
+    "rows": 4266063,
+    "parquet_bytes": 402311250,
+    "total_bytes": 415012780,
+    "catalog_sha256": "c7b3489364ec9bac3e7c4c3115017c472cd0f2fd5993a0be61c867d2647b4ddd"
+  },
+  "C": {
+    "path": "historical/EXP-027/layouts/D2/C",
+    "files": 174,
+    "row_groups": 609,
+    "rows": 4266063,
+    "parquet_bytes": 390191059,
+    "total_bytes": 403015022,
+    "catalog_sha256": "444fd622fdc32ca5e4fac24a091a2246dbe42bc43541b93bd28d76758997d1ba"
+  },
+  "Cstar": {
+    "path": "historical/EXP-027/layouts/D2/Cstar",
+    "files": 174,
+    "row_groups": 609,
+    "rows": 4266063,
+    "parquet_bytes": 360806482,
+    "total_bytes": 373637757,
+    "catalog_sha256": "562546accc81d9f9ccb19195fbb885d605a5ad16158de0907816583c1111c284"
+  },
+  "T": {
+    "path": "historical/EXP-027/layouts/D2/T",
+    "files": 174,
+    "row_groups": 2084,
+    "rows": 4266063,
+    "parquet_bytes": 374242124,
+    "total_bytes": 387066441,
+    "catalog_sha256": "f15288b8ce71c896fa5615d7ecb04ebab239831ddeb5b9e5dd3ecfdfa3bfd133"
+  },
+  "F": {
+    "path": "historical/EXP-027/layouts/D2/F",
+    "files": 2084,
+    "row_groups": 2084,
+    "rows": 4266063,
+    "parquet_bytes": 383711643,
+    "total_bytes": 398886810,
+    "catalog_sha256": "5b81d67d0889124b91f8551337b4add4b997a296213d28137f47798fbe57d863"
+  }
+}

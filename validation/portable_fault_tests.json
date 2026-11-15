@@ -1,0 +1,81 @@
+{
+  "all_passed": true,
+  "purpose": "fault_injection_only",
+  "tests": 15,
+  "results": [
+    {
+      "test": "missing logical block primary",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "missing logical block independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "duplicate logical block primary",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "duplicate logical block independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "wrong input hash primary",
+      "rejected": true,
+      "exception": "ValueError"
+    },
+    {
+      "test": "wrong input hash independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "recovery group in formal stream primary",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "recovery group in formal stream independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "missing recovery group primary",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "missing recovery group independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "wrong authorized deadline primary",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "wrong authorized deadline independent",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "numerical corruption with refreshed primary hash request_medians.csv",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "numerical corruption with refreshed primary hash amortization_summary.csv",
+      "rejected": true,
+      "exception": "AssertionError"
+    },
+    {
+      "test": "ceiling and nonpositive saving in both independent formulas",
+      "passed": true
+    }
+  ]
+}

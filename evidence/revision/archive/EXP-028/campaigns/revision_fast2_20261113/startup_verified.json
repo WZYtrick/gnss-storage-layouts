@@ -1,0 +1,20 @@
+{
+  "utc": "2026-11-13T06:42:56.328116+00:00",
+  "state": "running",
+  "job": "baseline_D2_b00",
+  "committed_groups": 2,
+  "new_formal_calls": 0,
+  "new_planned_warmup_calls": 14,
+  "all_committed_results_passed": true,
+  "checkpoint_hashes_passed": true,
+  "controller_alive": true,
+  "worker_alive": true,
+  "worker_identity": {
+    "pid": 83108,
+    "created": 1794551983.1145144,
+    "executable": "external/python.exe"
+  },
+  "active_seconds": 1659.329117,
+  "measurements_started_utc": "2026-11-13T06:39:50.717846+00:00",
+  "frozen_code_and_inputs_passed": true
+}

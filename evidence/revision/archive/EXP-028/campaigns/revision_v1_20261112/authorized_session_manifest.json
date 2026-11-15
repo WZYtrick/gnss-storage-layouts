@@ -1,0 +1,33 @@
+{
+  "original_run": "revision_v1_20261112",
+  "original_design_sha256": "b853ad0fd56e2adad5475f3f7e5935cac770afb9288b69daaaabf128b5dcb602",
+  "independent_audit_sha256": "a493df2272c9ed492a99984095da0b9fb8260f40f7b0cd0ab6619741822a97b1",
+  "sessions": [
+    {
+      "session": "construction_one_hour_20261113_v2",
+      "authorization": {
+        "path": "evidence/revision/archive/EXP-028/sessions/construction_one_hour_20261113_v2/authorization.json",
+        "sha256": "003f7664b3968143f7776d3fa4cfb938ade360a2e4b72a6fa27c1562a06c2685"
+      },
+      "completed_jobs": [
+        "build_D0m_b00",
+        "build_D1_b00",
+        "build_D2_b00"
+      ]
+    },
+    {
+      "session": "construction_one_hour_20261113_v3",
+      "authorization": {
+        "path": "evidence/revision/archive/EXP-028/sessions/construction_one_hour_20261113_v3/authorization.json",
+        "sha256": "1a6a70be277d14821a6cd5690564e858cab25592b1afc117d8b34821c7012997"
+      },
+      "completed_jobs": [
+        "build_D2m_b00",
+        "build_D2_b01",
+        "build_D2m_b01",
+        "build_D1_b01",
+        "build_D0m_b01"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "implementation_started_utc": "2026-11-13T17:45:50+00:00",
+  "user_instruction": "修正恢复预热和区组的超时限制，延长总测量预算，现在从检查点恢复EXP-028。保留已有结果和聊天暂停、恢复功能，确认后台正常后汇报预计完成时间。",
+  "added_measurement_hours": 32,
+  "analysis_reserve_hours": 3
+}

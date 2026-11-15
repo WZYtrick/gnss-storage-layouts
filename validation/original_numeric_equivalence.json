@@ -1,0 +1,5 @@
+{
+  "all_passed": true,
+  "compared_cells": 298928,
+  "note": "Only original-local versus package-relative build path strings differ."
+}

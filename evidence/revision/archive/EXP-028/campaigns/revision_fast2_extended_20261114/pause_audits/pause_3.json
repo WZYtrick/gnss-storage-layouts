@@ -1,0 +1,67 @@
+{
+  "observed_utc": "2026-11-14T14:22:18.052299+00:00",
+  "state": "paused",
+  "control": {
+    "desired": "paused",
+    "revision": 3,
+    "received_utc": "2026-11-14T14:21:31.825520+00:00",
+    "user_instruction": "用户在聊天中要求暂停实验"
+  },
+  "paused_utc": "2026-11-14T14:22:17.130792+00:00",
+  "paused_Beijing": "2026-11-14T22:22:17.130792+08:00",
+  "all_workers_exited": true,
+  "controller_alive": true,
+  "controller_children": [],
+  "all_checkpoints_validated": true,
+  "jobs": [
+    {
+      "job": "baseline_D2_b00",
+      "committed_groups": 864,
+      "formal_calls": 4536,
+      "planned_warmup_calls": 1512,
+      "complete": true,
+      "checkpoint": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D2_b00/checkpoint.json",
+        "bytes": 287037,
+        "sha256": "65cbf2c625901f9345f75b0f8937a97ec8a30f12368f5afe278ab00f55932d10"
+      }
+    },
+    {
+      "job": "baseline_D2_b01",
+      "committed_groups": 864,
+      "formal_calls": 4536,
+      "planned_warmup_calls": 1512,
+      "complete": true,
+      "checkpoint": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D2_b01/checkpoint.json",
+        "bytes": 291258,
+        "sha256": "48bab69a0aa05da6609e30621e07d9ce17e997cac8fd2673c3593304fb40cc72"
+      }
+    },
+    {
+      "job": "baseline_D1_b01",
+      "committed_groups": 727,
+      "formal_calls": 3577,
+      "planned_warmup_calls": 1512,
+      "complete": false,
+      "checkpoint": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/checkpoint.json",
+        "bytes": 245088,
+        "sha256": "18b0c9ae58e96c2c8ee15d2f66861e41bfdaf62fca21a300609a455a307492c6"
+      }
+    }
+  ],
+  "active_seconds": 103599.549852,
+  "finish": {
+    "started_utc": "2026-11-14T07:04:48.161229+00:00",
+    "ended_utc": "2026-11-14T14:22:16.282207+00:00",
+    "process": {
+      "pid": 54180,
+      "created": 1794639886.850875,
+      "executable": "external/python.exe"
+    },
+    "returncode": 75,
+    "paused": true,
+    "next_group": 727
+  }
+}

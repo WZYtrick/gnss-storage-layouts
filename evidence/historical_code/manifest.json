@@ -1,0 +1,77 @@
+{
+  "files": [
+    {
+      "path": "frozen/development_v1_code/common.py",
+      "sha256": "6f2aab0cebe74180dcf64df24bdb08e23e300137fd2ed0f8af12ea96f4e18826"
+    },
+    {
+      "path": "frozen/development_v1_code/EXP-024__direct_reader.py",
+      "sha256": "b0183f466576892cafa1e29b194b3805c0f1563c066ffc9d788935c764248a71"
+    },
+    {
+      "path": "frozen/development_v1_code/EXP-024__storage.py",
+      "sha256": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d"
+    },
+    {
+      "path": "frozen/development_v1_code/protocol.md",
+      "sha256": "715948f6f12591a48a3d0ae465713113f25cbff8c79ddc902f75f3d324ab2efb"
+    },
+    {
+      "path": "frozen/development_v1_code/reader.py",
+      "sha256": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2"
+    },
+    {
+      "path": "frozen/development_v1_code/runner.py",
+      "sha256": "e83f78fdc99ee34691fd27142703d1d777c433c480f82cc243359b12d72acf58"
+    },
+    {
+      "path": "frozen/development_v1_code/tasks.py",
+      "sha256": "040405c92cbceb876bb45ed98b8df86c078022eaf39087870a8d627ac2962829"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/common.py",
+      "sha256": "6f2aab0cebe74180dcf64df24bdb08e23e300137fd2ed0f8af12ea96f4e18826"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/EXP-024__direct_reader.py",
+      "sha256": "b0183f466576892cafa1e29b194b3805c0f1563c066ffc9d788935c764248a71"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/EXP-024__storage.py",
+      "sha256": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/protocol.md",
+      "sha256": "715948f6f12591a48a3d0ae465713113f25cbff8c79ddc902f75f3d324ab2efb"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/reader.py",
+      "sha256": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/runner.py",
+      "sha256": "e83f78fdc99ee34691fd27142703d1d777c433c480f82cc243359b12d72acf58"
+    },
+    {
+      "path": "frozen/d2_confirmation_20261109_code/tasks.py",
+      "sha256": "040405c92cbceb876bb45ed98b8df86c078022eaf39087870a8d627ac2962829"
+    },
+    {
+      "path": "variants/daytime_20261108/runner.py",
+      "sha256": "ad7b083c737c1ba6d1df3aa2fcb3053490fbe9198f9eb8057d8635adf369f9e4"
+    },
+    {
+      "path": "variants/e5_tail_20261108/runner.py",
+      "sha256": "3b5a9071f7cf9f22ee10e005fc8390108528e835ab2cb717d66dfa1638d93f6b"
+    },
+    {
+      "path": "variants/d2_immediate_20261109/runner.py",
+      "sha256": "50fa20c7ae6987fbf8bc91beee0ac67071685560712ae1c9175bce00db4c074f"
+    },
+    {
+      "path": "variants/d2_extension_20261110/runner.py",
+      "sha256": "f975c903b8acb17f62016d3910d9ff3c35bb94ed39e3c0af68df6f95018e9162"
+    }
+  ],
+  "purpose": "Exact historical frozen code and batch-specific runner variants; use the root portable CLI for execution."
+}

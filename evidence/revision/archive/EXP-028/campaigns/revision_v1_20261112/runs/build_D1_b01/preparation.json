@@ -1,0 +1,296 @@
+{
+  "dataset": "D1",
+  "block": 1,
+  "decompress_seconds": 22.28526100004092,
+  "parse_seconds": 103.01674010016723,
+  "sources": [
+    {
+      "source_id": 1000,
+      "source": "ALIC_20241001",
+      "decompress_seconds": 1.0817900000256486,
+      "parse_seconds": 4.96702759998152,
+      "arrays_match_original": true,
+      "source_sha256": "ce10400f3644327f5c96b59f863877b4833b244e7e72c9506f69ba5a326054e7"
+    },
+    {
+      "source_id": 1001,
+      "source": "ALIC_20241002",
+      "decompress_seconds": 1.0240955000044778,
+      "parse_seconds": 4.776737900043372,
+      "arrays_match_original": true,
+      "source_sha256": "4169816b3ef5efdd86fe1efefbf5b7ed746493fa3b259f0b5cd6e141948fe902"
+    },
+    {
+      "source_id": 1002,
+      "source": "ALIC_20241003",
+      "decompress_seconds": 1.0407448999467306,
+      "parse_seconds": 4.823551400040742,
+      "arrays_match_original": true,
+      "source_sha256": "a1de4c3f1165cbb89174cde67dd6fc3a50b3e2a1e969b2921af0df1292221dd4"
+    },
+    {
+      "source_id": 1003,
+      "source": "ALIC_20241004",
+      "decompress_seconds": 1.0266353000188246,
+      "parse_seconds": 4.610666900000069,
+      "arrays_match_original": true,
+      "source_sha256": "d22da0c88781292c0b8d5a0fea1526bad3f510d13264b0de8364af68b499b344"
+    },
+    {
+      "source_id": 1004,
+      "source": "ALIC_20241005",
+      "decompress_seconds": 1.053004699992016,
+      "parse_seconds": 4.655372700013686,
+      "arrays_match_original": true,
+      "source_sha256": "b2c2ed2b18e673af0afd872859d110ade5561d6c8cd097c32c4cbb85966b6e6d"
+    },
+    {
+      "source_id": 1005,
+      "source": "ALIC_20241006",
+      "decompress_seconds": 1.027780999953393,
+      "parse_seconds": 4.590886899968609,
+      "arrays_match_original": true,
+      "source_sha256": "38c549f13df85f1a0f1ad0d3535732c800fb563cc679b3fb358d78241398f16c"
+    },
+    {
+      "source_id": 1006,
+      "source": "HOB2_20241001",
+      "decompress_seconds": 1.0058355000219308,
+      "parse_seconds": 4.478994500008412,
+      "arrays_match_original": true,
+      "source_sha256": "91a3f1496f1c6a87af29b257145a46ead6a148062049ec8c61ef36e858f384a8"
+    },
+    {
+      "source_id": 1007,
+      "source": "HOB2_20241002",
+      "decompress_seconds": 0.9523454000009224,
+      "parse_seconds": 4.3879459000309,
+      "arrays_match_original": true,
+      "source_sha256": "9ca3249d92993b14b330017bb80e619dc7139aab0c8830a2692c3383d59a71c1"
+    },
+    {
+      "source_id": 1008,
+      "source": "HOB2_20241003",
+      "decompress_seconds": 0.9633419999736361,
+      "parse_seconds": 4.448912099993322,
+      "arrays_match_original": true,
+      "source_sha256": "7ee43c114a32d31dbc54b0d0b023b4e71c9cf20952e2f216b7b894b970cc8074"
+    },
+    {
+      "source_id": 1009,
+      "source": "HOB2_20241004",
+      "decompress_seconds": 0.9668092000065371,
+      "parse_seconds": 4.491539600014221,
+      "arrays_match_original": true,
+      "source_sha256": "aee9be7731f082fb7d12bcc492d0d69a706e82036aec1bef8177d7c01fe5eef9"
+    },
+    {
+      "source_id": 1010,
+      "source": "HOB2_20241005",
+      "decompress_seconds": 0.966642800020054,
+      "parse_seconds": 4.87345000001369,
+      "arrays_match_original": true,
+      "source_sha256": "d16b3315ae84b39fb36da5b6c9453ea0350699307db6e7b24ac982f956ec46ad"
+    },
+    {
+      "source_id": 1011,
+      "source": "HOB2_20241006",
+      "decompress_seconds": 0.9654604999814183,
+      "parse_seconds": 4.447433100023773,
+      "arrays_match_original": true,
+      "source_sha256": "59c76ab0a8690b98f1c711e92d33a093deedb071897f57e85fbce42b5b7c5748"
+    },
+    {
+      "source_id": 1012,
+      "source": "DRAO_20241001",
+      "decompress_seconds": 0.4335611999849789,
+      "parse_seconds": 1.679859999974724,
+      "arrays_match_original": true,
+      "source_sha256": "e6921d0fa9fbd4b774d91d464f9ea8b4c6aa540c3f5aee004fafee6f3c1dc2b8"
+    },
+    {
+      "source_id": 1013,
+      "source": "DRAO_20241002",
+      "decompress_seconds": 0.38907360000303015,
+      "parse_seconds": 1.8291332999942824,
+      "arrays_match_original": true,
+      "source_sha256": "d1613e143dd40f061e74074d921175d82d3955b330810afe4bfdd6210b422ab3"
+    },
+    {
+      "source_id": 1014,
+      "source": "DRAO_20241003",
+      "decompress_seconds": 0.3874968999880366,
+      "parse_seconds": 1.6354358000098728,
+      "arrays_match_original": true,
+      "source_sha256": "f3ad7721899f181b8300e2d1ff474b4d781bcc1730f6fa412e9a40c836893a92"
+    },
+    {
+      "source_id": 1015,
+      "source": "DRAO_20241004",
+      "decompress_seconds": 0.4006882000248879,
+      "parse_seconds": 1.799184699950274,
+      "arrays_match_original": true,
+      "source_sha256": "a5310434f9955e59479661c233092b7a4e9aa6fcaf2b24f3eb0385fc73d5f57b"
+    },
+    {
+      "source_id": 1016,
+      "source": "DRAO_20241005",
+      "decompress_seconds": 0.4086110999924131,
+      "parse_seconds": 1.747126100002788,
+      "arrays_match_original": true,
+      "source_sha256": "2eb2c2577189c69fde85ecb9249e9190382ef3e857ef9199f6dbebe646a384ba"
+    },
+    {
+      "source_id": 1017,
+      "source": "DRAO_20241006",
+      "decompress_seconds": 0.3883873999584466,
+      "parse_seconds": 1.7680347000132315,
+      "arrays_match_original": true,
+      "source_sha256": "6dde6b9b1a5fbd09ab22f77441ff8a0dea6081a45b67bca4de80d0b6f338e2f7"
+    },
+    {
+      "source_id": 1018,
+      "source": "GRAZ_20241001",
+      "decompress_seconds": 0.577967900026124,
+      "parse_seconds": 2.982038600021042,
+      "arrays_match_original": true,
+      "source_sha256": "e1efb3c7f214052232204c30189131cdd6a5d5bd9f755b1c7e6fbe7d0aed8c43"
+    },
+    {
+      "source_id": 1019,
+      "source": "GRAZ_20241002",
+      "decompress_seconds": 0.5719280999619514,
+      "parse_seconds": 2.744925599952694,
+      "arrays_match_original": true,
+      "source_sha256": "a5f0642dffd263e135aebc0f4e2d2cfd86c12f9cea5b9f410e13262d804a88d9"
+    },
+    {
+      "source_id": 1020,
+      "source": "GRAZ_20241003",
+      "decompress_seconds": 0.564284400024917,
+      "parse_seconds": 2.774328500032425,
+      "arrays_match_original": true,
+      "source_sha256": "069198a5c217fd117f459832497e6b836632041dd7e5260b207ad306ee3044ad"
+    },
+    {
+      "source_id": 1021,
+      "source": "GRAZ_20241004",
+      "decompress_seconds": 0.5866957000107504,
+      "parse_seconds": 2.7898776000365615,
+      "arrays_match_original": true,
+      "source_sha256": "8f3f61a0cecdb8d7e2889705ba9f81a86fd6bab8320d50492e88d4c11f695667"
+    },
+    {
+      "source_id": 1022,
+      "source": "GRAZ_20241005",
+      "decompress_seconds": 0.5955083000008017,
+      "parse_seconds": 2.757941899995785,
+      "arrays_match_original": true,
+      "source_sha256": "2bb3d8c4f1fc17ada1bc129cd38705ceb3eaea4b205c82fa85909b0e3e515036"
+    },
+    {
+      "source_id": 1023,
+      "source": "GRAZ_20241006",
+      "decompress_seconds": 0.5928341000108048,
+      "parse_seconds": 3.0466341999708675,
+      "arrays_match_original": true,
+      "source_sha256": "82e95bc75dd4fb046e2a3fe8d5f97a79dab68deef14b54443d7c60a16c671b0a"
+    },
+    {
+      "source_id": 1024,
+      "source": "ZIMM_20241001",
+      "decompress_seconds": 0.09564710000995547,
+      "parse_seconds": 0.4437762000015937,
+      "arrays_match_original": true,
+      "source_sha256": "97176a588291a1f47bca2456bd9de500be60c954e03850a5f58a6208eba61432"
+    },
+    {
+      "source_id": 1025,
+      "source": "ZIMM_20241002",
+      "decompress_seconds": 0.09596730000339448,
+      "parse_seconds": 0.467689499957487,
+      "arrays_match_original": true,
+      "source_sha256": "48cc06b84f97f78e6388ac2e11a8634e1afa3cd5aadd962281ce7fad5b16e0a6"
+    },
+    {
+      "source_id": 1026,
+      "source": "ZIMM_20241003",
+      "decompress_seconds": 0.08690250001382083,
+      "parse_seconds": 0.49868309998419136,
+      "arrays_match_original": true,
+      "source_sha256": "d3663f7b8dea9b2ea3c0625b07c5be38042510da764331b9600eaecdec97ba5b"
+    },
+    {
+      "source_id": 1027,
+      "source": "ZIMM_20241004",
+      "decompress_seconds": 0.0946309000137262,
+      "parse_seconds": 0.5239971000119112,
+      "arrays_match_original": true,
+      "source_sha256": "ff022234af9bbebaceea8aa1a584b8aab43851833e9ca106e0b246b198d1cc3f"
+    },
+    {
+      "source_id": 1028,
+      "source": "ZIMM_20241005",
+      "decompress_seconds": 0.09293550002621487,
+      "parse_seconds": 0.4517323999898508,
+      "arrays_match_original": true,
+      "source_sha256": "22fc33ada8fc95c03775fcbdd4462d661abb3d7fbdabeb3064a6b3d696990a5d"
+    },
+    {
+      "source_id": 1029,
+      "source": "ZIMM_20241006",
+      "decompress_seconds": 0.09411480004200712,
+      "parse_seconds": 0.4359971000230871,
+      "arrays_match_original": true,
+      "source_sha256": "ab5264082694eecbd5c50b0f3c3cdf5cebc874c4a82330ad054c2e8ebb057001"
+    },
+    {
+      "source_id": 1030,
+      "source": "ONSA_20241001",
+      "decompress_seconds": 0.6795339999953285,
+      "parse_seconds": 2.757055499998387,
+      "arrays_match_original": true,
+      "source_sha256": "717a179093165c040a9f69e273cf60c629659c7ae921d999ba0a98dd16e17ea6"
+    },
+    {
+      "source_id": 1031,
+      "source": "ONSA_20241002",
+      "decompress_seconds": 0.6079543000087142,
+      "parse_seconds": 2.7527879000408575,
+      "arrays_match_original": true,
+      "source_sha256": "6ddd461cb086295abb125fb0a5e4931cdc49ee9b3fed4b5cde2b13b51dbbac29"
+    },
+    {
+      "source_id": 1032,
+      "source": "ONSA_20241003",
+      "decompress_seconds": 0.6109283000114374,
+      "parse_seconds": 2.810319399985019,
+      "arrays_match_original": true,
+      "source_sha256": "3e4e86247075b239bed399a3c4f3dd3486bf84c976c48ee497f8810cbea435ae"
+    },
+    {
+      "source_id": 1033,
+      "source": "ONSA_20241004",
+      "decompress_seconds": 0.6131580999935977,
+      "parse_seconds": 2.9331044999998994,
+      "arrays_match_original": true,
+      "source_sha256": "163444ad4b13409a51b69fffbcc7b26cf66c53f5d356fe52ab300a4f425fd42a"
+    },
+    {
+      "source_id": 1034,
+      "source": "ONSA_20241005",
+      "decompress_seconds": 0.6170583999482915,
+      "parse_seconds": 3.003247100044973,
+      "arrays_match_original": true,
+      "source_sha256": "39bef9edf8c8c94bc93495c8d30a6936a2543b8e70209752ce809d09a85cb156"
+    },
+    {
+      "source_id": 1035,
+      "source": "ONSA_20241006",
+      "decompress_seconds": 0.6249061000416987,
+      "parse_seconds": 2.8313107000431046,
+      "arrays_match_original": true,
+      "source_sha256": "cbd15b7d0c9ef85a3a32ff87a0473ded8a0cf40b8f435aa595dad78af56ef4ea"
+    }
+  ]
+}

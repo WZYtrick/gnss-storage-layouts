@@ -1,0 +1,200 @@
+{
+  "session": "construction_one_hour_20261113_v2",
+  "original_run": "revision_v1_20261112",
+  "created": "2026-11-12T16:12:38.806061+00:00",
+  "started_utc": "2026-11-12T16:12:38.806061+00:00",
+  "deadline_utc": "2026-11-12T17:10:18.748853+00:00",
+  "duration_seconds": 3459.942792,
+  "original_hour_started_utc": "2026-11-12T16:10:18.748853+00:00",
+  "time_policy": "explicit_user_one_hour_20261113",
+  "user_instruction": "立即测量一小时，记录时段调整；然后汇报状态，推迟其他测量。",
+  "original_design_sha256": "b853ad0fd56e2adad5475f3f7e5935cac770afb9288b69daaaabf128b5dcb602",
+  "wrapper_sha256": "118b9a684e40af4b102c37ae6010eac70b96366b01da119f9cfac39ccdfad4f9",
+  "unchanged_runtime_code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "layouts.py": "05a8445e5ef74ee72748f043d2667b747952bb4984bf5cd646c9551db99b82da",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "construction.py": "96b8cf54b9c9c489701d13860562b4c01344bfa88a7cb050034b737e6cc21747",
+    "campaign.py": "87464c99b274f3a307b8ebdc0334ee91b7eb3d293d4fd93f4e658621c81495a5"
+  },
+  "process": {
+    "pid": 81480,
+    "created": 1794499958.236364,
+    "executable": "external/python.exe"
+  },
+  "jobs": [
+    {
+      "id": "build_D0m_b00",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 0,
+      "scheduling_seconds": 697.399577040528
+    },
+    {
+      "id": "build_D1_b00",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 0,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D2_b00",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 0,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D2m_b00",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 0,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D2_b01",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 1,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D2m_b01",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 1,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D1_b01",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 1,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D0m_b01",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 1,
+      "scheduling_seconds": 697.399577040528
+    },
+    {
+      "id": "build_D0m_b02",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 2,
+      "scheduling_seconds": 697.399577040528
+    },
+    {
+      "id": "build_D1_b02",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 2,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D2_b02",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 2,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D2m_b02",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 2,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D2m_b03",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 3,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D2_b03",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 3,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D0m_b03",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 3,
+      "scheduling_seconds": 697.399577040528
+    },
+    {
+      "id": "build_D1_b03",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 3,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D1_b04",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 4,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D0m_b04",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 4,
+      "scheduling_seconds": 697.399577040528
+    },
+    {
+      "id": "build_D2m_b04",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 4,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D2_b04",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 4,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D2_b05",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 5,
+      "scheduling_seconds": 711.9067720797378
+    },
+    {
+      "id": "build_D2m_b05",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 5,
+      "scheduling_seconds": 517.8372715195874
+    },
+    {
+      "id": "build_D1_b05",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 5,
+      "scheduling_seconds": 891.3047674790025
+    },
+    {
+      "id": "build_D0m_b05",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 5,
+      "scheduling_seconds": 697.399577040528
+    }
+  ],
+  "scheduling_rule": "Keep the relative frozen order of construction jobs; start only a complete job whose reserved budget fits, with 30 seconds of closing reserve.",
+  "interpretation": "Post-review formal construction measurements under this explicit one-hour authorization. Original 01:00-08:00 authorization and job order are superseded only for this session. Baseline jobs remain deferred.",
+  "analysis_requirement": "A versioned analysis must validate this authorization before including these blocks; the old analyzer intentionally rejects the new time-policy label."
+}

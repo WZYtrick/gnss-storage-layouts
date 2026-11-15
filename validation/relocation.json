@@ -1,0 +1,70 @@
+{
+  "all_passed": true,
+  "completed": 6,
+  "planned": 6,
+  "steps": [
+    {
+      "command": [
+        "reproduce.py",
+        "analyze",
+        "--output",
+        "EXP-028\\validation\\relocation_v1_results\\original"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 2.8590000000040163,
+      "log": "step_1.log"
+    },
+    {
+      "command": [
+        "independent_review.py",
+        "--analysis-root",
+        "EXP-028\\validation\\relocation_v1_results\\original"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 11.015999999995984,
+      "log": "step_2.log"
+    },
+    {
+      "command": [
+        "reproduce.py",
+        "analyze-revision",
+        "--output",
+        "EXP-028\\validation\\relocation_v1_results\\revision"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 14.60899999999674,
+      "log": "step_3.log"
+    },
+    {
+      "command": [
+        "reproduce.py",
+        "verify-revision",
+        "--analysis-root",
+        "EXP-028\\validation\\relocation_v1_results\\revision"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 13.562000000005355,
+      "log": "step_4.log"
+    },
+    {
+      "command": [
+        "test_revision.py"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 1.360000000000582,
+      "log": "step_5.log"
+    },
+    {
+      "command": [
+        "plot_results.py",
+        "--analysis-root",
+        "EXP-028\\validation\\relocation_v1_results\\original",
+        "--output",
+        "EXP-028\\validation\\relocation_v1_results\\figures"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 3.2809999999954016,
+      "log": "step_6.log"
+    }
+  ]
+}

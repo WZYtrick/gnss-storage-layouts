@@ -1,0 +1,13 @@
+{
+  "utc": "2026-11-12T23:15:42.518508+00:00",
+  "pid": 78024,
+  "formal": 4536,
+  "warmup": 1512,
+  "total": 6048,
+  "query": "d278_q3_ONSA",
+  "method": "W",
+  "repeat": 2,
+  "elapsed_seconds": 18947.100849499984,
+  "execution_session": "resume_until_1100_20261113",
+  "time_policy": "explicit_user_until_1100_20261113"
+}

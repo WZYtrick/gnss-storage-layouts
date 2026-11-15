@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "composite_D2_confirm",
+  "run_id": "d2_combined_20261110",
+  "source_manifest": {
+    "path": "historical/EXP-027/validation/D2_complete_coverage_20261110.json",
+    "bytes": 1593354,
+    "sha256": "e373d3598196a3c11b05b6e4a56e16c616b460a035603897f58a9afbdef8206a"
+  },
+  "created": "2026-11-10T04:20:46.980369+00:00"
+}

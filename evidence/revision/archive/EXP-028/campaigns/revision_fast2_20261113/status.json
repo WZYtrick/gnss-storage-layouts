@@ -1,0 +1,9 @@
+{
+  "state": "interrupted",
+  "job": "baseline_D2_b00",
+  "traceback": "Traceback (most recent call last):\n  File \"EXP-028\\fast2_run.py\", line 270, in supervise\n    if total>=limit:kill_tree(child);raise TimeoutError('Frozen phase timeout')\n                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: Frozen phase timeout\n",
+  "active_seconds": 23045.200091000002,
+  "worker_exited": true,
+  "utc": "2026-11-13T13:02:29.878800+00:00",
+  "profile": "revision_fast2_20261113"
+}

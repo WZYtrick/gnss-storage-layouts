@@ -1,0 +1,86 @@
+{
+  "observed_utc": "2026-11-14T18:36:14.145104+00:00",
+  "observed_Beijing": "2026-11-15T02:36:14.145104+08:00",
+  "state": "running",
+  "phase": "recovery",
+  "controller_alive": true,
+  "worker_alive": true,
+  "worker_identity": {
+    "pid": 13808,
+    "created": 1794681106.0191364,
+    "executable": "external/python.exe"
+  },
+  "segment": "seg_0003",
+  "completed_recovery_groups": 8,
+  "completed_recovery_calls": 56,
+  "truth_verified": true,
+  "checkpoint_groups": 727,
+  "checkpoint_hashes_passed": true,
+  "checkpoint_unchanged_during_recovery": true,
+  "frozen_version_passed": true,
+  "failure_exists": false,
+  "pause": {
+    "paused_utc": "2026-11-14T14:22:17.130792+00:00",
+    "pause_command": {
+      "desired": "paused",
+      "revision": 3,
+      "received_utc": "2026-11-14T14:21:31.825520+00:00",
+      "user_instruction": "用户在聊天中要求暂停实验"
+    },
+    "resumed_utc": "2026-11-14T18:31:45.304832+00:00",
+    "resume_command": {
+      "desired": "running",
+      "revision": 4,
+      "received_utc": "2026-11-14T18:31:43.467004+00:00",
+      "user_instruction": "用户在聊天中要求恢复实验"
+    }
+  },
+  "active_seconds": 103865.654524,
+  "estimate": {
+    "path": "evidence/revision/archive/EXP-028/progress/fast2b_D1_tail_resume_20261115_023239.json",
+    "bytes": 1090,
+    "sha256": "daa4a1ad9a510c06e784857757ecd844e6bb7e275845e974619ff21c5fbac68a"
+  },
+  "recovery_evidence": [
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000000.json",
+      "bytes": 8465,
+      "sha256": "36fa8f36a023320215562c7c666f84c8152db93a142d1c06a3fbff686a9e3a2d"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000001.json",
+      "bytes": 8472,
+      "sha256": "7e1409b9b881d01805afeb3931cddf14fa7bcfb692beb538955bc8a0b46eeb8e"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000002.json",
+      "bytes": 8478,
+      "sha256": "aff0950f7bcfce7484d74f1e0836b8bdece626f0f7834de8c27a014a0a7d5f83"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000003.json",
+      "bytes": 8476,
+      "sha256": "69a15040e2e3d046fe98dc54c66e2da3896d9d3fc5bd882b7c5eadfb4ce602ea"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000004.json",
+      "bytes": 8476,
+      "sha256": "7090f55702790a63479fb0a12cab48b39e09a8425515b83cdd08ff37107f6cdb"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000005.json",
+      "bytes": 8471,
+      "sha256": "00fd7efc6ed62d01e94bc94e99bb117d18695c38192a3723ce12a05a312cdd38"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000006.json",
+      "bytes": 8471,
+      "sha256": "d4e9790b9adde0927786886def16527c025f4c7208056c74e5598e69a744cd0b"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/segments/seg_0003/recovery/g000007.json",
+      "bytes": 8476,
+      "sha256": "e714b67c5928e62a2df2d4679773c1e9a88dc5b61b1d18fb7e1b2fd5f90c2c8e"
+    }
+  ]
+}

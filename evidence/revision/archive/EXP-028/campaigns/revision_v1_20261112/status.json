@@ -1,0 +1,670 @@
+{
+  "state": "stopped_at_authorized_block_boundary",
+  "utc": "2026-11-13T00:29:02.130074+00:00",
+  "session": "resume_until_1100_20261113",
+  "deadline_utc": "2026-11-13T11:00:00+08:00",
+  "started_utc": "2026-11-12T17:59:47.635131+00:00",
+  "process": {
+    "pid": 79412,
+    "created": 1794506387.058728,
+    "executable": "external/python.exe"
+  },
+  "completed_here": [
+    {
+      "job": "baseline_D1_b00",
+      "kind": "baseline",
+      "dataset": "D1",
+      "block": 0,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/baseline_D1_b00/verification.json",
+        "bytes": 1782,
+        "sha256": "4f2ff6b0622b3736c8211752ba865a0553cfe9beb58bd72f9db79d307cfcf362"
+      },
+      "formal_calls": 4536,
+      "warmup_calls": 1512,
+      "layouts": 0
+    },
+    {
+      "job": "build_D0m_b02",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b02/verification.json",
+        "bytes": 35626,
+        "sha256": "9a8a5b81cb0a28364adfaf2f0bcd0ec452d98b18897a63eaaa8a786556790658"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b02",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b02/verification.json",
+        "bytes": 35970,
+        "sha256": "5ccd7c89a674c6af77cade6c1890aa9eea6e007f242ff58935517b702285a694"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2_b02",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b02/verification.json",
+        "bytes": 35975,
+        "sha256": "c0db9e400fb7ff0c7ff93bd7d2765c011bcfa615bb957faf61f3f0673f6cef44"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b02",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b02/verification.json",
+        "bytes": 35935,
+        "sha256": "ff75c8256f1bb43ed126cde7bd1a82925d445f65703709c7b3c75fe7b53a14e6"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2m_b03",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b03/verification.json",
+        "bytes": 35935,
+        "sha256": "4d7327c0aa929e623f5599452be5d7eacd9a37d69dae0b4706401c996d0f54bf"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2_b03",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b03/verification.json",
+        "bytes": 35974,
+        "sha256": "fca21d6f02aae66ea995ab9ff49310c9a709a46d228c8e1ec8e27514c0f9b918"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b03",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b03/verification.json",
+        "bytes": 35591,
+        "sha256": "61f6fbc5694466cabc03f8decd496075378f76c1af52faa6425e1fc9336d6809"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b03",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b03/verification.json",
+        "bytes": 35972,
+        "sha256": "f632f0fa3d34d606c1c9e9f3816252d0e75d728cc6863e3b0117eb86fa92ba47"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D1_b04",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b04/verification.json",
+        "bytes": 35972,
+        "sha256": "4305f4dac1a4f77b0b72cc0da983c8daac2a8d676e3e91062c1c541a95a65662"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b04",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b04/verification.json",
+        "bytes": 35603,
+        "sha256": "09b5ebefc0e9993e4817070ecc362fa13c1ad108bdb1d2876fd811163caba1e4"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2m_b04",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b04/verification.json",
+        "bytes": 35912,
+        "sha256": "7c4b414fd8835912c8f2b1ef79596dcb6b0656bb8972a86f4150a8cf1e053b94"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2_b04",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b04/verification.json",
+        "bytes": 35976,
+        "sha256": "77b97a25bae7b1edc33e137bf78d076855853186711bae45d68969313695c40c"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2_b05",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b05/verification.json",
+        "bytes": 35971,
+        "sha256": "d447dd7948438650575a56ef3771d3bd5826a253f08a0116c41450f4214ee9dd"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b05",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b05/verification.json",
+        "bytes": 35926,
+        "sha256": "0efcb7fd57d32c4c14f5b949acc3406ba09924ce0dbb01601282f5fefaab51b3"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b05",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b05/verification.json",
+        "bytes": 35973,
+        "sha256": "355e64504a55443d0a7bc774af462bb984970ac33bca92b620e66c5e7daa6b8d"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b05",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/verification.json",
+        "bytes": 35614,
+        "sha256": "4eb77b582c4f9b17428bb0efa5ecff8a9bf7f042ca9105d941859b3bebfd88e0"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    }
+  ],
+  "stop_reason": "No remaining complete block fits before the authorized 11:00 deadline",
+  "remaining_jobs": [
+    "baseline_D2_b00",
+    "baseline_D2_b01",
+    "baseline_D1_b01",
+    "baseline_D1_b02",
+    "baseline_D2_b02",
+    "baseline_D2_b03",
+    "baseline_D1_b03",
+    "baseline_D1_b04",
+    "baseline_D2_b04",
+    "baseline_D2_b05",
+    "baseline_D1_b05"
+  ],
+  "next_day_restart": false,
+  "authorization": {
+    "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/authorization.json",
+    "bytes": 11652,
+    "sha256": "276f43bdb8ba9746263db944871c24926c15d5949935b7a4172f7cfb29e9226b"
+  },
+  "completed_jobs": [
+    {
+      "job": "baseline_D1_b00",
+      "kind": "baseline",
+      "dataset": "D1",
+      "block": 0,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/baseline_D1_b00/verification.json",
+        "bytes": 1782,
+        "sha256": "4f2ff6b0622b3736c8211752ba865a0553cfe9beb58bd72f9db79d307cfcf362"
+      },
+      "formal_calls": 4536,
+      "warmup_calls": 1512,
+      "layouts": 0
+    },
+    {
+      "job": "build_D0m_b00",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 0,
+      "session": "construction_one_hour_20261113_v2",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b00/verification.json",
+        "bytes": 35582,
+        "sha256": "52df93e07eb781de68001003c18c37a0ca78208c5f56413a8fb8515ea33be98b"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b00",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 0,
+      "session": "construction_one_hour_20261113_v2",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b00/verification.json",
+        "bytes": 35984,
+        "sha256": "93101af1fc7cb5ee8c146a764ea658af3a8e002fbd53a18ab0c9b721c04e4615"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2_b00",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 0,
+      "session": "construction_one_hour_20261113_v2",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b00/verification.json",
+        "bytes": 35973,
+        "sha256": "55f75d0183b1aa53beab112f9635988d830e79aded36b9b3810c568a2da92bc1"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b00",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 0,
+      "session": "construction_one_hour_20261113_v3",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b00/verification.json",
+        "bytes": 35937,
+        "sha256": "4238a3d900d955aecc3c644bf7dbce0de0c3ee9a00c042554e976f6a2840404b"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2_b01",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 1,
+      "session": "construction_one_hour_20261113_v3",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b01/verification.json",
+        "bytes": 35978,
+        "sha256": "8d832c59e3a26e0441bf1a889ec30c15498c682e8ba4626cc5d8b48b68f3b195"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b01",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 1,
+      "session": "construction_one_hour_20261113_v3",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b01/verification.json",
+        "bytes": 35927,
+        "sha256": "c35aee295d28cac29f474feae24b9db8b8e98dc97dc7035bf79a03feb8a970df"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b01",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 1,
+      "session": "construction_one_hour_20261113_v3",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b01/verification.json",
+        "bytes": 35976,
+        "sha256": "6843074a5a89f316832e8b06e235c253ac67067673dafe3e30a1ae1874cfc2c1"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b01",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 1,
+      "session": "construction_one_hour_20261113_v3",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b01/verification.json",
+        "bytes": 35600,
+        "sha256": "9e5ce6475a778c3e0396423070e4e11b9998c15dfbe142190bb56c997b558e49"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D0m_b02",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b02/verification.json",
+        "bytes": 35626,
+        "sha256": "9a8a5b81cb0a28364adfaf2f0bcd0ec452d98b18897a63eaaa8a786556790658"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b02",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b02/verification.json",
+        "bytes": 35970,
+        "sha256": "5ccd7c89a674c6af77cade6c1890aa9eea6e007f242ff58935517b702285a694"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2_b02",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b02/verification.json",
+        "bytes": 35975,
+        "sha256": "c0db9e400fb7ff0c7ff93bd7d2765c011bcfa615bb957faf61f3f0673f6cef44"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b02",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 2,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b02/verification.json",
+        "bytes": 35935,
+        "sha256": "ff75c8256f1bb43ed126cde7bd1a82925d445f65703709c7b3c75fe7b53a14e6"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2m_b03",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b03/verification.json",
+        "bytes": 35935,
+        "sha256": "4d7327c0aa929e623f5599452be5d7eacd9a37d69dae0b4706401c996d0f54bf"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2_b03",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b03/verification.json",
+        "bytes": 35974,
+        "sha256": "fca21d6f02aae66ea995ab9ff49310c9a709a46d228c8e1ec8e27514c0f9b918"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b03",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b03/verification.json",
+        "bytes": 35591,
+        "sha256": "61f6fbc5694466cabc03f8decd496075378f76c1af52faa6425e1fc9336d6809"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b03",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 3,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b03/verification.json",
+        "bytes": 35972,
+        "sha256": "f632f0fa3d34d606c1c9e9f3816252d0e75d728cc6863e3b0117eb86fa92ba47"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D1_b04",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b04/verification.json",
+        "bytes": 35972,
+        "sha256": "4305f4dac1a4f77b0b72cc0da983c8daac2a8d676e3e91062c1c541a95a65662"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b04",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b04/verification.json",
+        "bytes": 35603,
+        "sha256": "09b5ebefc0e9993e4817070ecc362fa13c1ad108bdb1d2876fd811163caba1e4"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2m_b04",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b04/verification.json",
+        "bytes": 35912,
+        "sha256": "7c4b414fd8835912c8f2b1ef79596dcb6b0656bb8972a86f4150a8cf1e053b94"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D2_b04",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 4,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b04/verification.json",
+        "bytes": 35976,
+        "sha256": "77b97a25bae7b1edc33e137bf78d076855853186711bae45d68969313695c40c"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2_b05",
+      "kind": "construction",
+      "dataset": "D2",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b05/verification.json",
+        "bytes": 35971,
+        "sha256": "d447dd7948438650575a56ef3771d3bd5826a253f08a0116c41450f4214ee9dd"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D2m_b05",
+      "kind": "construction",
+      "dataset": "D2m",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b05/verification.json",
+        "bytes": 35926,
+        "sha256": "0efcb7fd57d32c4c14f5b949acc3406ba09924ce0dbb01601282f5fefaab51b3"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    },
+    {
+      "job": "build_D1_b05",
+      "kind": "construction",
+      "dataset": "D1",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b05/verification.json",
+        "bytes": 35973,
+        "sha256": "355e64504a55443d0a7bc774af462bb984970ac33bca92b620e66c5e7daa6b8d"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 5
+    },
+    {
+      "job": "build_D0m_b05",
+      "kind": "construction",
+      "dataset": "D0m",
+      "block": 5,
+      "session": "resume_until_1100_20261113",
+      "verification": {
+        "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/verification.json",
+        "bytes": 35614,
+        "sha256": "4eb77b582c4f9b17428bb0efa5ecff8a9bf7f042ca9105d941859b3bebfd88e0"
+      },
+      "formal_calls": 0,
+      "warmup_calls": 0,
+      "layouts": 12
+    }
+  ],
+  "completed_blocks": 25,
+  "formal_query_calls": 4536,
+  "warmup_query_calls": 1512,
+  "layout_builds": 204
+}

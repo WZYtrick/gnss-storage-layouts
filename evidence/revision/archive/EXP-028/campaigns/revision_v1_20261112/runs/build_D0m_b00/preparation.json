@@ -1,0 +1,104 @@
+{
+  "dataset": "D0m",
+  "block": 0,
+  "decompress_seconds": 7.756996600015555,
+  "parse_seconds": 36.2445930998656,
+  "sources": [
+    {
+      "source_id": 6,
+      "source": "ABMF_092",
+      "decompress_seconds": 0.5360088999732397,
+      "parse_seconds": 2.665528500045184,
+      "arrays_match_original": true,
+      "source_sha256": "95eb7a07e7e029213cf416b2667df92e1572265082fb0d979f04de945645e036"
+    },
+    {
+      "source_id": 7,
+      "source": "ALGO_092",
+      "decompress_seconds": 0.3763547000125982,
+      "parse_seconds": 1.6409106999635696,
+      "arrays_match_original": true,
+      "source_sha256": "35a222881c527ab1bb8819c6a7a1934fe43c51cbe5725d9d34cd3bbe281eb9aa"
+    },
+    {
+      "source_id": 8,
+      "source": "BRST_092",
+      "decompress_seconds": 0.45779470005072653,
+      "parse_seconds": 2.171965799992904,
+      "arrays_match_original": true,
+      "source_sha256": "b6eec05ae15395ed6fcff617a326553b5a57691555f3ade6350b35a7866bccce"
+    },
+    {
+      "source_id": 9,
+      "source": "CEDU_092",
+      "decompress_seconds": 0.6856915999669582,
+      "parse_seconds": 3.0688043999834917,
+      "arrays_match_original": true,
+      "source_sha256": "618cef35b6401a077404b738ecc0e2755971d871ff2fe922701130ba8d683e68"
+    },
+    {
+      "source_id": 10,
+      "source": "KIRU_092",
+      "decompress_seconds": 0.8521098000346683,
+      "parse_seconds": 3.925103100016713,
+      "arrays_match_original": true,
+      "source_sha256": "9f948e7ef5686c5f8be10295aa44dba3a216b746971de6ce4070e8b70677baf0"
+    },
+    {
+      "source_id": 11,
+      "source": "MIZU_092",
+      "decompress_seconds": 1.0145850999979302,
+      "parse_seconds": 4.856661500001792,
+      "arrays_match_original": true,
+      "source_sha256": "e24bfe1d21d0743508cc0a50831b01e48d22edf46d41b8ad9f3a7678e5441a35"
+    },
+    {
+      "source_id": 24,
+      "source": "ABMF_183",
+      "decompress_seconds": 0.5502756999921985,
+      "parse_seconds": 2.6513812999473885,
+      "arrays_match_original": true,
+      "source_sha256": "3c508fe51913d5bda6701dbef31bb5bd04e496cd157255a51cdc7ed32a63328f"
+    },
+    {
+      "source_id": 25,
+      "source": "ALGO_183",
+      "decompress_seconds": 0.37219640001421794,
+      "parse_seconds": 1.6977088999701664,
+      "arrays_match_original": true,
+      "source_sha256": "86e10d002e36d625f2a41ad5d7d55e1517ce48ec69d9463427cecaa5d012469c"
+    },
+    {
+      "source_id": 26,
+      "source": "BRST_183",
+      "decompress_seconds": 0.43863789999159053,
+      "parse_seconds": 2.267823199974373,
+      "arrays_match_original": true,
+      "source_sha256": "8de07e35449aec5c013fe449326824ea6fcebfdd55f5f14bf677e2c6a4264cfa"
+    },
+    {
+      "source_id": 27,
+      "source": "CEDU_183",
+      "decompress_seconds": 0.6717125999857672,
+      "parse_seconds": 3.0306955000269227,
+      "arrays_match_original": true,
+      "source_sha256": "0cd4cdd96538537765db1a74d9865f95ed87d8242e50673127d7194004722548"
+    },
+    {
+      "source_id": 28,
+      "source": "KIRU_183",
+      "decompress_seconds": 0.7957969999988563,
+      "parse_seconds": 3.7549888999783434,
+      "arrays_match_original": true,
+      "source_sha256": "23ec87c5ecd4d82b37b4e4cae6570acf65903802d103f401ce02dee8e6119d48"
+    },
+    {
+      "source_id": 29,
+      "source": "MIZU_183",
+      "decompress_seconds": 1.005832199996803,
+      "parse_seconds": 4.513021299964748,
+      "arrays_match_original": true,
+      "source_sha256": "8cfede119bc0abc6db3ea615860c1c740005d544d77d28b7925ddecc381f8c56"
+    }
+  ]
+}

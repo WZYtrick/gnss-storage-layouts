@@ -1,0 +1,11 @@
+{
+  "directory": "evidence/revision/archive/EXP-028/validation/all_487ce42bd660",
+  "version": "487ce42bd660",
+  "code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "validate_baseline.py": "5e075c1631ee461074f6cb2b95f791ee38ca77dbefcf577acf6ab034d26536e7"
+  }
+}

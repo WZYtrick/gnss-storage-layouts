@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite this research software and evidence archive."
+type: software
+title: "Storage Layouts and Query Costs for Global Navigation Satellite System Observations"
+version: 1.0.0
+date-released: 2026-11-15
+doi: 10.5281/zenodo.24241891
+url: https://zenodo.org/records/24241891
+repository-code: https://github.com/WZYtrick/gnss-storage-layouts
+authors:
+  - family-names: Wang
+    given-names: Ziyou
+    affiliation: "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+  - family-names: Zhao
+    given-names: Daiyan
+    affiliation: "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+  - family-names: Liu
+    given-names: Lei
+    affiliation: "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+    email: 1679636965@qq.com
+license: MIT
+keywords:
+  - GNSS
+  - RINEX
+  - Parquet
+  - reproducibility

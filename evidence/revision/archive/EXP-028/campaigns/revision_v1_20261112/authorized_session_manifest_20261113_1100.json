@@ -1,0 +1,75 @@
+{
+  "original_run": "revision_v1_20261112",
+  "original_design": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/design.json",
+    "bytes": 50628,
+    "sha256": "b853ad0fd56e2adad5475f3f7e5935cac770afb9288b69daaaabf128b5dcb602"
+  },
+  "audit": {
+    "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/post_deadline_independent_audit.json",
+    "bytes": 12400,
+    "sha256": "08b8caca9d7a2abe3f5c242455fe48145dd17703a709c09745140ebf2a0a1410"
+  },
+  "audit_program": {
+    "path": "evidence/revision/archive/EXP-028/audit_resume_1100_20261113.py",
+    "bytes": 15427,
+    "sha256": "275f417e228706c456e2e51aa58b7b75776f622664dbf2cfe66308afa770ea00"
+  },
+  "sessions": [
+    {
+      "session": "construction_one_hour_20261113_v2",
+      "authorization": {
+        "path": "evidence/revision/archive/EXP-028/sessions/construction_one_hour_20261113_v2/authorization.json",
+        "bytes": 6141,
+        "sha256": "003f7664b3968143f7776d3fa4cfb938ade360a2e4b72a6fa27c1562a06c2685"
+      },
+      "completed_jobs": [
+        "build_D0m_b00",
+        "build_D1_b00",
+        "build_D2_b00"
+      ]
+    },
+    {
+      "session": "construction_one_hour_20261113_v3",
+      "authorization": {
+        "path": "evidence/revision/archive/EXP-028/sessions/construction_one_hour_20261113_v3/authorization.json",
+        "bytes": 5646,
+        "sha256": "1a6a70be277d14821a6cd5690564e858cab25592b1afc117d8b34821c7012997"
+      },
+      "completed_jobs": [
+        "build_D0m_b01",
+        "build_D1_b01",
+        "build_D2_b01",
+        "build_D2m_b00",
+        "build_D2m_b01"
+      ]
+    },
+    {
+      "session": "resume_until_1100_20261113",
+      "authorization": {
+        "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/authorization.json",
+        "bytes": 11652,
+        "sha256": "276f43bdb8ba9746263db944871c24926c15d5949935b7a4172f7cfb29e9226b"
+      },
+      "completed_jobs": [
+        "baseline_D1_b00",
+        "build_D0m_b02",
+        "build_D0m_b03",
+        "build_D0m_b04",
+        "build_D0m_b05",
+        "build_D1_b02",
+        "build_D1_b03",
+        "build_D1_b04",
+        "build_D1_b05",
+        "build_D2_b02",
+        "build_D2_b03",
+        "build_D2_b04",
+        "build_D2_b05",
+        "build_D2m_b02",
+        "build_D2m_b03",
+        "build_D2m_b04",
+        "build_D2m_b05"
+      ]
+    }
+  ]
+}

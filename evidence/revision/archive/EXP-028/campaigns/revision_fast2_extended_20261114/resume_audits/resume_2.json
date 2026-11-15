@@ -1,0 +1,38 @@
+{
+  "observed_utc": "2026-11-14T07:06:56.364851+00:00",
+  "observed_Beijing": "2026-11-14T15:06:56.364851+08:00",
+  "state": "running",
+  "phase": "recovery",
+  "controller_alive": true,
+  "worker_alive": true,
+  "worker_identity": {
+    "pid": 54180,
+    "created": 1794639886.850875,
+    "executable": "external/python.exe"
+  },
+  "segment": "seg_0002",
+  "completed_recovery_groups": 4,
+  "completed_recovery_calls": 28,
+  "truth_verified": true,
+  "checkpoint_groups": 118,
+  "checkpoint_hashes_passed": true,
+  "checkpoint_unchanged_during_recovery": true,
+  "failure_exists": false,
+  "pause": {
+    "paused_utc": "2026-11-14T04:07:32.337583+00:00",
+    "pause_command": {
+      "desired": "paused",
+      "revision": 1,
+      "received_utc": "2026-11-14T04:07:18.454365+00:00",
+      "user_instruction": "用户在聊天中要求暂停实验"
+    },
+    "resumed_utc": "2026-11-14T07:04:45.242440+00:00",
+    "resume_command": {
+      "desired": "running",
+      "revision": 2,
+      "received_utc": "2026-11-14T07:04:44.808826+00:00",
+      "user_instruction": "用户在聊天中要求恢复实验"
+    }
+  },
+  "active_seconds": 77478.785224
+}

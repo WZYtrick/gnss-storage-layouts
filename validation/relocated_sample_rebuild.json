@@ -1,0 +1,245 @@
+{
+  "all_passed": true,
+  "sample": true,
+  "reports": [
+    {
+      "dataset": "D0m",
+      "method": "W_packed",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "Tperm_time",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "C",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "Cstar",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "W",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "T",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "Tperm_blocksv",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "T_time",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "C_2048",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "C_full",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "F",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D0m",
+      "method": "C_32768",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D1",
+      "method": "C",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D1",
+      "method": "W",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D1",
+      "method": "F",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D1",
+      "method": "Cstar",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D1",
+      "method": "T",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2",
+      "method": "W",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2",
+      "method": "F",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2",
+      "method": "C",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2",
+      "method": "Cstar",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2",
+      "method": "T",
+      "checked_queries": 30,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "C_2048",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "C_full",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "W",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "Cstar",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "T_time",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "T",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "F",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "W_packed",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "Tperm_time",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "Tperm_blocksv",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "C_32768",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    },
+    {
+      "dataset": "D2m",
+      "method": "C",
+      "checked_queries": 12,
+      "data_file_hashes_match": true,
+      "all_passed": true
+    }
+  ],
+  "utc": "2026-11-15T06:56:48.225023+00:00"
+}

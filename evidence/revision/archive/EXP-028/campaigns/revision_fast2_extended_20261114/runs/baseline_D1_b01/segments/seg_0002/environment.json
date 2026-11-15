@@ -1,0 +1,36 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "versions": {
+    "numpy": "2.3.5",
+    "pyarrow": "25.0.1",
+    "georinex": "1.16.2",
+    "xarray": "2026.9.0",
+    "hatanaka": "2.8.1"
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "process": {
+    "pid": 54180,
+    "created": 1794639886.850875,
+    "executable": "external/python.exe"
+  },
+  "cpu_pool": 1,
+  "io_pool": 4,
+  "thread_env": {
+    "PYTHONIOENCODING": "utf-8",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "reader_init_seconds": {
+    "W": 0.15711800003191456,
+    "C": 0.08481910004047677,
+    "Cstar": 0.08774789999006316,
+    "T": 0.14276789996074513,
+    "F": 0.7105628999997862,
+    "GeoRinex_R": 2.300017513334751e-06,
+    "GeoRinex_H": 5.999463610351086e-07
+  },
+  "offline_enforced": true
+}

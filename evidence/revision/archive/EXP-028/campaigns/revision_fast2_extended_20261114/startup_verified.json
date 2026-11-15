@@ -1,0 +1,22 @@
+{
+  "observed_utc": "2026-11-13T18:01:19.130078+00:00",
+  "observed_Beijing": "2026-11-14T02:01:19.130078+08:00",
+  "state": "running",
+  "phase": "recovery",
+  "controller_alive": true,
+  "worker_alive": true,
+  "worker_identity": {
+    "pid": 41304,
+    "created": 1794592725.4375708,
+    "executable": "external/python.exe"
+  },
+  "complete_recovery_groups": 2,
+  "complete_recovery_calls": 14,
+  "truth_verified": true,
+  "checkpoint_groups": 469,
+  "inherited_checkpoint_unchanged": true,
+  "removed_phase_limits": true,
+  "measurement_hours_remaining": 31.74190803361111,
+  "total_hours_remaining": 34.74190803361111,
+  "failures": []
+}

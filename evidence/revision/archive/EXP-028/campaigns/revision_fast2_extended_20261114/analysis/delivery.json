@@ -1,0 +1,92 @@
+{
+  "all_passed": true,
+  "purpose": "formal",
+  "utc": "2026-11-14T20:10:15.697312+00:00",
+  "files": {
+    "amortization_query_blocks.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/amortization_query_blocks.csv",
+      "bytes": 1432672,
+      "sha256": "ffe149431943e8556f8f2d564e7947fbc3c6a81fdc07a406aec4bdae7e6a28d8"
+    },
+    "amortization_summary.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/amortization_summary.csv",
+      "bytes": 861626,
+      "sha256": "e8d50454b21520cd9af7f3bdd2fe1707a3451b63615581b00900aa99443d3351"
+    },
+    "block_costs.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/block_costs.csv",
+      "bytes": 22624,
+      "sha256": "c684a2ccefe1bb97d5f9b36b1c57f50aa7fb82f9c03bc65c55ef08b2a02e4b2f"
+    },
+    "build_blocks.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/build_blocks.csv",
+      "bytes": 76695,
+      "sha256": "ab2f15cdd2005a2277cc6077cd75b900cc6be2fdf5e19a3df7131d3fb56ed267"
+    },
+    "build_summary.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/build_summary.csv",
+      "bytes": 35838,
+      "sha256": "ad96dcc4a3eef10e1327c08e5972da1abe08786999aed825bc0c5ff2153f077b"
+    },
+    "construction_costs.pdf": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/construction_costs.pdf",
+      "bytes": 20832,
+      "sha256": "000544a8e5f73600b3c56d8fb583138cfcfca29761f3ed0296d9c8c9893f8f56"
+    },
+    "construction_costs.png": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/construction_costs.png",
+      "bytes": 77096,
+      "sha256": "5eda72e268aa7839d1376f6da4c88f4b72ab2c5fd46a41c4b1510a4ecf0bc9ee"
+    },
+    "independent_verification.json": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/independent_verification.json",
+      "bytes": 1346,
+      "sha256": "2937ea0708b2eb7909ebc66c7701311314c926a43d1c071291ac0c14119cfb9f"
+    },
+    "paired_ratios.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/paired_ratios.csv",
+      "bytes": 58562,
+      "sha256": "2307f2c6f34bc38b761ee3593a8dbd0001936aa69b405fd8a1f3bc6c9cfc7d49"
+    },
+    "query_costs.pdf": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/query_costs.pdf",
+      "bytes": 25813,
+      "sha256": "6ce361bdda0ebbbc84df7a0f62ee55283ae0cbac0a2419fe4c5ceac98762edf8"
+    },
+    "query_costs.png": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/query_costs.png",
+      "bytes": 74012,
+      "sha256": "8655f88488bb53aa1f7a6f4065178e78d6b331ea201f8403ccf90dec546d5446"
+    },
+    "query_summary.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/query_summary.csv",
+      "bytes": 51642,
+      "sha256": "d88f9a58fc9506bec5af89c699bbb25da0e89ead6b0d70a86c6170c0fcbe0d0e"
+    },
+    "request_medians.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/request_medians.csv",
+      "bytes": 800022,
+      "sha256": "59b41aa7699e9bfe6e5a7465bf346b7c96ecf629473534992c62ec04d2433b9d"
+    },
+    "source_sizes.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/source_sizes.csv",
+      "bytes": 157,
+      "sha256": "eda606c3207cd297204ab3dec38f0706a82fd682cb17b829b30be41718ee822d"
+    },
+    "storage_footprint.csv": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/storage_footprint.csv",
+      "bytes": 2355,
+      "sha256": "b0bfe1f5e1962e2226796de1acc3cb051a79ffb45f902e2ecb0a29e7c26e6887"
+    },
+    "verification.json": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/verification.json",
+      "bytes": 277943,
+      "sha256": "46a9980560d59422ca86c31ca924ff91183695aa098de33daff030ef2239e97d"
+    },
+    "结果报告.md": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/结果报告.md",
+      "bytes": 4660,
+      "sha256": "c583051565820c76920a2f17cbde772011523bb69198e9f7469866e8c3450e8c"
+    }
+  }
+}

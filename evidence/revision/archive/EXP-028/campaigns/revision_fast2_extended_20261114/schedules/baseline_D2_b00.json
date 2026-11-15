@@ -1,0 +1,12098 @@
+[
+  {
+    "index": 0,
+    "query": "d093_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 1,
+    "query": "d092_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 2,
+    "query": "d095_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 3,
+    "query": "d095_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 4,
+    "query": "d095_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 5,
+    "query": "d091_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 6,
+    "query": "d093_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 7,
+    "query": "d091_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 8,
+    "query": "d095_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 9,
+    "query": "d093_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "C",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 10,
+    "query": "d091_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 11,
+    "query": "d094_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 12,
+    "query": "d095_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 13,
+    "query": "d094_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 14,
+    "query": "d095_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 15,
+    "query": "d091_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 16,
+    "query": "d093_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 17,
+    "query": "d091_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 18,
+    "query": "d092_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 19,
+    "query": "d095_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 20,
+    "query": "d093_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 21,
+    "query": "d096_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 22,
+    "query": "d094_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 23,
+    "query": "d091_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 24,
+    "query": "d092_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 25,
+    "query": "d095_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 26,
+    "query": "d096_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 27,
+    "query": "d092_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 28,
+    "query": "d092_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 29,
+    "query": "d091_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 30,
+    "query": "d094_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 31,
+    "query": "d091_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 32,
+    "query": "d093_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 33,
+    "query": "d092_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 34,
+    "query": "d094_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 35,
+    "query": "d093_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 36,
+    "query": "d094_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 37,
+    "query": "d092_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 38,
+    "query": "d093_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 39,
+    "query": "d096_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 40,
+    "query": "d092_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 41,
+    "query": "d093_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 42,
+    "query": "d096_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 43,
+    "query": "d095_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 44,
+    "query": "d093_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 45,
+    "query": "d093_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 46,
+    "query": "d094_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 47,
+    "query": "d094_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 48,
+    "query": "d094_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 49,
+    "query": "d094_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 50,
+    "query": "d095_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 51,
+    "query": "d096_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 52,
+    "query": "d093_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 53,
+    "query": "d094_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 54,
+    "query": "d094_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 55,
+    "query": "d094_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 56,
+    "query": "d091_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 57,
+    "query": "d094_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 58,
+    "query": "d094_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 59,
+    "query": "d093_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 60,
+    "query": "d093_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 61,
+    "query": "d092_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 62,
+    "query": "d096_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 63,
+    "query": "d092_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 64,
+    "query": "d092_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 65,
+    "query": "d096_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 66,
+    "query": "d096_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 67,
+    "query": "d091_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 68,
+    "query": "d095_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 69,
+    "query": "d094_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 70,
+    "query": "d095_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 71,
+    "query": "d092_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 72,
+    "query": "d091_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 73,
+    "query": "d092_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 74,
+    "query": "d094_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "T",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 75,
+    "query": "d091_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 76,
+    "query": "d095_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 77,
+    "query": "d092_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 78,
+    "query": "d094_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 79,
+    "query": "d096_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 80,
+    "query": "d093_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 81,
+    "query": "d093_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 82,
+    "query": "d096_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 83,
+    "query": "d091_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 84,
+    "query": "d096_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 85,
+    "query": "d092_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 86,
+    "query": "d096_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 87,
+    "query": "d091_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 88,
+    "query": "d095_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 89,
+    "query": "d091_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 90,
+    "query": "d096_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 91,
+    "query": "d096_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 92,
+    "query": "d095_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 93,
+    "query": "d094_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 94,
+    "query": "d096_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 95,
+    "query": "d095_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 96,
+    "query": "d091_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 97,
+    "query": "d094_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 98,
+    "query": "d092_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "Cstar",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 99,
+    "query": "d091_q5_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 100,
+    "query": "d095_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 101,
+    "query": "d096_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 102,
+    "query": "d093_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 103,
+    "query": "d093_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 104,
+    "query": "d091_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 105,
+    "query": "d096_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 106,
+    "query": "d094_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 107,
+    "query": "d092_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 108,
+    "query": "d096_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 109,
+    "query": "d091_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 110,
+    "query": "d094_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 111,
+    "query": "d093_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 112,
+    "query": "d093_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 113,
+    "query": "d093_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 114,
+    "query": "d096_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 115,
+    "query": "d095_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 116,
+    "query": "d092_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 117,
+    "query": "d096_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 118,
+    "query": "d093_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 119,
+    "query": "d091_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 120,
+    "query": "d094_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 121,
+    "query": "d094_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 122,
+    "query": "d094_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 123,
+    "query": "d094_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "T",
+      "Cstar",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 124,
+    "query": "d094_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 125,
+    "query": "d093_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 126,
+    "query": "d091_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 127,
+    "query": "d095_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 128,
+    "query": "d094_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 129,
+    "query": "d095_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 130,
+    "query": "d094_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 131,
+    "query": "d095_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 132,
+    "query": "d095_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 133,
+    "query": "d096_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 134,
+    "query": "d092_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "Cstar",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 135,
+    "query": "d091_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 136,
+    "query": "d095_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 137,
+    "query": "d091_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 138,
+    "query": "d094_q6_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 139,
+    "query": "d095_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "T",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 140,
+    "query": "d091_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 141,
+    "query": "d096_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 142,
+    "query": "d093_q5_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 143,
+    "query": "d096_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 144,
+    "query": "d095_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 145,
+    "query": "d095_q2_ALBH",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 146,
+    "query": "d092_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 147,
+    "query": "d091_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 148,
+    "query": "d096_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 149,
+    "query": "d095_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 150,
+    "query": "d093_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 151,
+    "query": "d091_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 152,
+    "query": "d092_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 153,
+    "query": "d093_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 154,
+    "query": "d093_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 155,
+    "query": "d095_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 156,
+    "query": "d093_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 157,
+    "query": "d093_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 158,
+    "query": "d092_q4_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 159,
+    "query": "d096_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 160,
+    "query": "d095_q6_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 161,
+    "query": "d092_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "W",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 162,
+    "query": "d091_q4_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 163,
+    "query": "d093_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 164,
+    "query": "d093_q6_MAS1",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 165,
+    "query": "d092_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 166,
+    "query": "d095_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 167,
+    "query": "d095_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 168,
+    "query": "d096_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 169,
+    "query": "d092_q1_REYK",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 170,
+    "query": "d095_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 171,
+    "query": "d094_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 172,
+    "query": "d091_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 173,
+    "query": "d091_q3_ALBH",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 174,
+    "query": "d094_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 175,
+    "query": "d096_q1_FAIR",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 176,
+    "query": "d092_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 177,
+    "query": "d092_q1_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 178,
+    "query": "d093_q2_REYK",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 179,
+    "query": "d096_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 180,
+    "query": "d092_q3_REYK",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 181,
+    "query": "d091_q5_FAIR",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 182,
+    "query": "d092_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 183,
+    "query": "d095_q5_REYK",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 184,
+    "query": "d091_q6_FAIR",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 185,
+    "query": "d096_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 186,
+    "query": "d096_q3_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 187,
+    "query": "d095_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 188,
+    "query": "d094_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 189,
+    "query": "d092_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 190,
+    "query": "d096_q3_DUBO",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 191,
+    "query": "d094_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "T",
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 192,
+    "query": "d091_q3_MAS1",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 193,
+    "query": "d093_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 194,
+    "query": "d093_q3_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 195,
+    "query": "d096_q1_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 196,
+    "query": "d093_q5_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 197,
+    "query": "d092_q4_ALBH",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 198,
+    "query": "d093_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 199,
+    "query": "d092_q2_FAIR",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 200,
+    "query": "d094_q1_DUBO",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 201,
+    "query": "d095_q6_NYA2",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 202,
+    "query": "d096_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 203,
+    "query": "d095_q4_DUBO",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 204,
+    "query": "d096_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 205,
+    "query": "d092_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 206,
+    "query": "d096_q4_REYK",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 207,
+    "query": "d091_q2_NYA2",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "T",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 208,
+    "query": "d092_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 209,
+    "query": "d092_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "W",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 210,
+    "query": "d094_q5_MAS1",
+    "repeat": -1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 211,
+    "query": "d096_q2_DUBO",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 212,
+    "query": "d092_q1_ALBH",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 213,
+    "query": "d091_q6_ALBH",
+    "repeat": -1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 214,
+    "query": "d091_q4_FAIR",
+    "repeat": -1,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 215,
+    "query": "d091_q2_MAS1",
+    "repeat": -1,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 216,
+    "query": "d092_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 217,
+    "query": "d092_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 218,
+    "query": "d096_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 219,
+    "query": "d094_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "Cstar",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 220,
+    "query": "d095_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 221,
+    "query": "d091_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 222,
+    "query": "d096_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 223,
+    "query": "d095_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 224,
+    "query": "d092_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 225,
+    "query": "d096_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 226,
+    "query": "d091_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 227,
+    "query": "d094_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 228,
+    "query": "d092_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 229,
+    "query": "d096_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 230,
+    "query": "d096_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 231,
+    "query": "d092_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 232,
+    "query": "d092_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 233,
+    "query": "d091_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 234,
+    "query": "d094_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 235,
+    "query": "d096_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 236,
+    "query": "d096_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 237,
+    "query": "d093_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 238,
+    "query": "d095_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 239,
+    "query": "d091_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 240,
+    "query": "d094_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 241,
+    "query": "d096_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 242,
+    "query": "d094_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 243,
+    "query": "d095_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 244,
+    "query": "d095_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 245,
+    "query": "d093_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 246,
+    "query": "d093_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 247,
+    "query": "d092_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 248,
+    "query": "d093_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 249,
+    "query": "d093_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 250,
+    "query": "d093_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 251,
+    "query": "d096_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 252,
+    "query": "d093_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 253,
+    "query": "d094_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 254,
+    "query": "d096_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 255,
+    "query": "d091_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 256,
+    "query": "d093_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 257,
+    "query": "d093_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 258,
+    "query": "d092_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 259,
+    "query": "d092_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 260,
+    "query": "d093_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 261,
+    "query": "d094_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 262,
+    "query": "d094_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 263,
+    "query": "d094_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 264,
+    "query": "d091_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 265,
+    "query": "d094_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 266,
+    "query": "d093_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 267,
+    "query": "d092_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 268,
+    "query": "d096_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 269,
+    "query": "d091_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 270,
+    "query": "d091_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 271,
+    "query": "d091_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 272,
+    "query": "d093_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "Cstar",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 273,
+    "query": "d095_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 274,
+    "query": "d093_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 275,
+    "query": "d092_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 276,
+    "query": "d095_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 277,
+    "query": "d096_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 278,
+    "query": "d095_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 279,
+    "query": "d092_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 280,
+    "query": "d092_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 281,
+    "query": "d094_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 282,
+    "query": "d091_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 283,
+    "query": "d094_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 284,
+    "query": "d094_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 285,
+    "query": "d096_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 286,
+    "query": "d091_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 287,
+    "query": "d095_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 288,
+    "query": "d092_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 289,
+    "query": "d096_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 290,
+    "query": "d093_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 291,
+    "query": "d092_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 292,
+    "query": "d095_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 293,
+    "query": "d092_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "C",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 294,
+    "query": "d094_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 295,
+    "query": "d092_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 296,
+    "query": "d093_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 297,
+    "query": "d096_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 298,
+    "query": "d091_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 299,
+    "query": "d094_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 300,
+    "query": "d095_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 301,
+    "query": "d093_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 302,
+    "query": "d096_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 303,
+    "query": "d093_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 304,
+    "query": "d093_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 305,
+    "query": "d091_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 306,
+    "query": "d094_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 307,
+    "query": "d093_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 308,
+    "query": "d095_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 309,
+    "query": "d092_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 310,
+    "query": "d095_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 311,
+    "query": "d094_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 312,
+    "query": "d094_q3_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 313,
+    "query": "d095_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 314,
+    "query": "d092_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "T",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 315,
+    "query": "d096_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 316,
+    "query": "d094_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 317,
+    "query": "d093_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 318,
+    "query": "d092_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 319,
+    "query": "d096_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 320,
+    "query": "d091_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 321,
+    "query": "d092_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 322,
+    "query": "d093_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 323,
+    "query": "d096_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 324,
+    "query": "d094_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 325,
+    "query": "d092_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 326,
+    "query": "d091_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 327,
+    "query": "d096_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 328,
+    "query": "d095_q1_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 329,
+    "query": "d096_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 330,
+    "query": "d096_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 331,
+    "query": "d091_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 332,
+    "query": "d093_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 333,
+    "query": "d095_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 334,
+    "query": "d092_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 335,
+    "query": "d095_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 336,
+    "query": "d094_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 337,
+    "query": "d092_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 338,
+    "query": "d096_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 339,
+    "query": "d092_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 340,
+    "query": "d096_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 341,
+    "query": "d094_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 342,
+    "query": "d096_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 343,
+    "query": "d094_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 344,
+    "query": "d091_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 345,
+    "query": "d091_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 346,
+    "query": "d091_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 347,
+    "query": "d091_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 348,
+    "query": "d096_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 349,
+    "query": "d092_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 350,
+    "query": "d094_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 351,
+    "query": "d091_q4_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 352,
+    "query": "d095_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 353,
+    "query": "d093_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "T",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 354,
+    "query": "d095_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 355,
+    "query": "d094_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 356,
+    "query": "d094_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 357,
+    "query": "d094_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 358,
+    "query": "d095_q3_DUBO",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 359,
+    "query": "d095_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 360,
+    "query": "d095_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 361,
+    "query": "d095_q3_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 362,
+    "query": "d095_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 363,
+    "query": "d095_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 364,
+    "query": "d091_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 365,
+    "query": "d096_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "W",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 366,
+    "query": "d091_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 367,
+    "query": "d091_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 368,
+    "query": "d095_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 369,
+    "query": "d095_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 370,
+    "query": "d093_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 371,
+    "query": "d096_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 372,
+    "query": "d092_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 373,
+    "query": "d095_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 374,
+    "query": "d093_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 375,
+    "query": "d095_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 376,
+    "query": "d093_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 377,
+    "query": "d094_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 378,
+    "query": "d096_q5_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "T",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 379,
+    "query": "d095_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "F",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 380,
+    "query": "d096_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 381,
+    "query": "d092_q1_DUBO",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 382,
+    "query": "d096_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 383,
+    "query": "d093_q1_NYA2",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 384,
+    "query": "d092_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 385,
+    "query": "d096_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 386,
+    "query": "d091_q2_REYK",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 387,
+    "query": "d091_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 388,
+    "query": "d091_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 389,
+    "query": "d094_q3_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "T",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 390,
+    "query": "d093_q5_NYA2",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 391,
+    "query": "d093_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 392,
+    "query": "d091_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 393,
+    "query": "d091_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 394,
+    "query": "d096_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 395,
+    "query": "d094_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 396,
+    "query": "d093_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 397,
+    "query": "d094_q5_ALBH",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 398,
+    "query": "d093_q2_NYA2",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 399,
+    "query": "d093_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 400,
+    "query": "d092_q6_REYK",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 401,
+    "query": "d094_q2_MAS1",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 402,
+    "query": "d092_q3_NYA2",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 403,
+    "query": "d092_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "W",
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 404,
+    "query": "d091_q1_REYK",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 405,
+    "query": "d092_q6_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 406,
+    "query": "d095_q3_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 407,
+    "query": "d091_q6_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 408,
+    "query": "d091_q6_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 409,
+    "query": "d095_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 410,
+    "query": "d093_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 411,
+    "query": "d094_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 412,
+    "query": "d094_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 413,
+    "query": "d094_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 414,
+    "query": "d093_q5_REYK",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 415,
+    "query": "d096_q4_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 416,
+    "query": "d091_q5_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 417,
+    "query": "d095_q4_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 418,
+    "query": "d095_q6_NYA2",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 419,
+    "query": "d095_q4_REYK",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 420,
+    "query": "d092_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 421,
+    "query": "d091_q2_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 422,
+    "query": "d092_q5_MAS1",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "T",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 423,
+    "query": "d093_q1_MAS1",
+    "repeat": 0,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 424,
+    "query": "d096_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 425,
+    "query": "d094_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 426,
+    "query": "d093_q6_MAS1",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 427,
+    "query": "d096_q1_ALBH",
+    "repeat": 0,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 428,
+    "query": "d092_q2_DUBO",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 429,
+    "query": "d095_q2_FAIR",
+    "repeat": 0,
+    "methods": [
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 430,
+    "query": "d091_q4_ALBH",
+    "repeat": 0,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 431,
+    "query": "d091_q4_FAIR",
+    "repeat": 0,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 432,
+    "query": "d095_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 433,
+    "query": "d093_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 434,
+    "query": "d094_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 435,
+    "query": "d092_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 436,
+    "query": "d095_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 437,
+    "query": "d096_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 438,
+    "query": "d091_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 439,
+    "query": "d096_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 440,
+    "query": "d095_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 441,
+    "query": "d091_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 442,
+    "query": "d091_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 443,
+    "query": "d093_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "T",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 444,
+    "query": "d092_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 445,
+    "query": "d094_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 446,
+    "query": "d094_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 447,
+    "query": "d096_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 448,
+    "query": "d095_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 449,
+    "query": "d094_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 450,
+    "query": "d094_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 451,
+    "query": "d091_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 452,
+    "query": "d096_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 453,
+    "query": "d092_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 454,
+    "query": "d095_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 455,
+    "query": "d092_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 456,
+    "query": "d094_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 457,
+    "query": "d096_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 458,
+    "query": "d091_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 459,
+    "query": "d094_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 460,
+    "query": "d094_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 461,
+    "query": "d092_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 462,
+    "query": "d092_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 463,
+    "query": "d091_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 464,
+    "query": "d094_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 465,
+    "query": "d092_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 466,
+    "query": "d094_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "C",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 467,
+    "query": "d092_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 468,
+    "query": "d094_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 469,
+    "query": "d095_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 470,
+    "query": "d096_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 471,
+    "query": "d096_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 472,
+    "query": "d094_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 473,
+    "query": "d092_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 474,
+    "query": "d091_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 475,
+    "query": "d094_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 476,
+    "query": "d095_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 477,
+    "query": "d096_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 478,
+    "query": "d096_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 479,
+    "query": "d092_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 480,
+    "query": "d095_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 481,
+    "query": "d093_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 482,
+    "query": "d093_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 483,
+    "query": "d095_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 484,
+    "query": "d092_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 485,
+    "query": "d095_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 486,
+    "query": "d091_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 487,
+    "query": "d095_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 488,
+    "query": "d093_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 489,
+    "query": "d091_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 490,
+    "query": "d093_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 491,
+    "query": "d095_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 492,
+    "query": "d094_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 493,
+    "query": "d094_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 494,
+    "query": "d092_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 495,
+    "query": "d094_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "W",
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 496,
+    "query": "d093_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 497,
+    "query": "d092_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 498,
+    "query": "d091_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 499,
+    "query": "d096_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 500,
+    "query": "d093_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 501,
+    "query": "d091_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 502,
+    "query": "d096_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 503,
+    "query": "d092_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 504,
+    "query": "d094_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 505,
+    "query": "d091_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 506,
+    "query": "d091_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 507,
+    "query": "d093_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 508,
+    "query": "d092_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 509,
+    "query": "d093_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 510,
+    "query": "d092_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "C",
+      "F",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 511,
+    "query": "d096_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 512,
+    "query": "d095_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 513,
+    "query": "d096_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 514,
+    "query": "d095_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 515,
+    "query": "d093_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 516,
+    "query": "d094_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 517,
+    "query": "d091_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 518,
+    "query": "d093_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 519,
+    "query": "d096_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 520,
+    "query": "d091_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 521,
+    "query": "d094_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 522,
+    "query": "d093_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 523,
+    "query": "d095_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 524,
+    "query": "d094_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 525,
+    "query": "d093_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 526,
+    "query": "d096_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 527,
+    "query": "d096_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 528,
+    "query": "d092_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 529,
+    "query": "d092_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 530,
+    "query": "d093_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 531,
+    "query": "d091_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 532,
+    "query": "d095_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 533,
+    "query": "d091_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 534,
+    "query": "d095_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 535,
+    "query": "d096_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 536,
+    "query": "d095_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 537,
+    "query": "d091_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 538,
+    "query": "d092_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 539,
+    "query": "d092_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 540,
+    "query": "d092_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 541,
+    "query": "d096_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 542,
+    "query": "d091_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 543,
+    "query": "d095_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 544,
+    "query": "d094_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 545,
+    "query": "d095_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 546,
+    "query": "d096_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 547,
+    "query": "d095_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 548,
+    "query": "d091_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 549,
+    "query": "d093_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 550,
+    "query": "d094_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 551,
+    "query": "d094_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 552,
+    "query": "d093_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 553,
+    "query": "d094_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "C",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 554,
+    "query": "d095_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 555,
+    "query": "d096_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 556,
+    "query": "d096_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 557,
+    "query": "d096_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 558,
+    "query": "d093_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 559,
+    "query": "d095_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 560,
+    "query": "d092_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 561,
+    "query": "d096_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 562,
+    "query": "d094_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 563,
+    "query": "d095_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 564,
+    "query": "d093_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 565,
+    "query": "d093_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 566,
+    "query": "d092_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 567,
+    "query": "d092_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 568,
+    "query": "d093_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 569,
+    "query": "d095_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 570,
+    "query": "d091_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 571,
+    "query": "d091_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 572,
+    "query": "d096_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 573,
+    "query": "d092_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "W",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 574,
+    "query": "d091_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 575,
+    "query": "d096_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 576,
+    "query": "d096_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 577,
+    "query": "d091_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 578,
+    "query": "d095_q3_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 579,
+    "query": "d093_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 580,
+    "query": "d093_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 581,
+    "query": "d093_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 582,
+    "query": "d095_q1_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 583,
+    "query": "d095_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 584,
+    "query": "d096_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 585,
+    "query": "d094_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 586,
+    "query": "d094_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 587,
+    "query": "d091_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 588,
+    "query": "d096_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 589,
+    "query": "d095_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 590,
+    "query": "d093_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 591,
+    "query": "d091_q3_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 592,
+    "query": "d096_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 593,
+    "query": "d092_q1_NYA2",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 594,
+    "query": "d091_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "W",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 595,
+    "query": "d093_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 596,
+    "query": "d091_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 597,
+    "query": "d092_q1_ALBH",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 598,
+    "query": "d093_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 599,
+    "query": "d096_q4_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 600,
+    "query": "d094_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 601,
+    "query": "d096_q3_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 602,
+    "query": "d092_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 603,
+    "query": "d096_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 604,
+    "query": "d092_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 605,
+    "query": "d091_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 606,
+    "query": "d094_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 607,
+    "query": "d095_q1_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 608,
+    "query": "d091_q6_REYK",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 609,
+    "query": "d091_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 610,
+    "query": "d093_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 611,
+    "query": "d093_q2_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 612,
+    "query": "d096_q2_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 613,
+    "query": "d093_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 614,
+    "query": "d093_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 615,
+    "query": "d091_q2_REYK",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 616,
+    "query": "d094_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "T",
+      "W",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 617,
+    "query": "d091_q5_ALBH",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 618,
+    "query": "d092_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 619,
+    "query": "d094_q4_ALBH",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 620,
+    "query": "d092_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 621,
+    "query": "d095_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 622,
+    "query": "d096_q5_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 623,
+    "query": "d094_q4_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 624,
+    "query": "d093_q6_DUBO",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 625,
+    "query": "d092_q3_NYA2",
+    "repeat": 1,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 626,
+    "query": "d092_q6_ALBH",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 627,
+    "query": "d096_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "C",
+      "W",
+      "F",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 628,
+    "query": "d093_q1_REYK",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 629,
+    "query": "d092_q6_MAS1",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 630,
+    "query": "d091_q4_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 631,
+    "query": "d091_q5_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 632,
+    "query": "d093_q2_DUBO",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 633,
+    "query": "d092_q3_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 634,
+    "query": "d095_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 635,
+    "query": "d092_q6_FAIR",
+    "repeat": 1,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 636,
+    "query": "d095_q1_FAIR",
+    "repeat": 1,
+    "methods": [
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 637,
+    "query": "d095_q5_DUBO",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "T",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 638,
+    "query": "d093_q6_NYA2",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 639,
+    "query": "d094_q5_FAIR",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 640,
+    "query": "d093_q2_NYA2",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "F",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 641,
+    "query": "d094_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 642,
+    "query": "d094_q2_FAIR",
+    "repeat": 1,
+    "methods": [
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 643,
+    "query": "d095_q5_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 644,
+    "query": "d091_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 645,
+    "query": "d095_q3_REYK",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "Cstar",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 646,
+    "query": "d096_q4_MAS1",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 647,
+    "query": "d094_q4_DUBO",
+    "repeat": 1,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 648,
+    "query": "d091_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 649,
+    "query": "d091_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 650,
+    "query": "d093_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "C",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 651,
+    "query": "d095_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 652,
+    "query": "d095_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 653,
+    "query": "d095_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 654,
+    "query": "d096_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 655,
+    "query": "d092_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "T",
+      "Cstar",
+      "F",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 656,
+    "query": "d094_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "T",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 657,
+    "query": "d095_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "W",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 658,
+    "query": "d093_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 659,
+    "query": "d093_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 660,
+    "query": "d094_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 661,
+    "query": "d096_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 662,
+    "query": "d094_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 663,
+    "query": "d095_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 664,
+    "query": "d093_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "C",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 665,
+    "query": "d096_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 666,
+    "query": "d091_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 667,
+    "query": "d093_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "W",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 668,
+    "query": "d096_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "C",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 669,
+    "query": "d095_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 670,
+    "query": "d095_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 671,
+    "query": "d093_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 672,
+    "query": "d094_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 673,
+    "query": "d096_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "F",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 674,
+    "query": "d094_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 675,
+    "query": "d094_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 676,
+    "query": "d092_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 677,
+    "query": "d091_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 678,
+    "query": "d093_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 679,
+    "query": "d092_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 680,
+    "query": "d094_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 681,
+    "query": "d093_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 682,
+    "query": "d095_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "T",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 683,
+    "query": "d093_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 684,
+    "query": "d095_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 685,
+    "query": "d096_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 686,
+    "query": "d091_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 687,
+    "query": "d095_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 688,
+    "query": "d096_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 689,
+    "query": "d096_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 690,
+    "query": "d096_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 691,
+    "query": "d095_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 692,
+    "query": "d091_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 693,
+    "query": "d094_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "W",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 694,
+    "query": "d092_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 695,
+    "query": "d095_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 696,
+    "query": "d091_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 697,
+    "query": "d092_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 698,
+    "query": "d095_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "F",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 699,
+    "query": "d092_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 700,
+    "query": "d094_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 701,
+    "query": "d091_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 702,
+    "query": "d096_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 703,
+    "query": "d092_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 704,
+    "query": "d092_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 705,
+    "query": "d096_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 706,
+    "query": "d091_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 707,
+    "query": "d096_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 708,
+    "query": "d094_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 709,
+    "query": "d092_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 710,
+    "query": "d094_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 711,
+    "query": "d096_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 712,
+    "query": "d095_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 713,
+    "query": "d095_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 714,
+    "query": "d091_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 715,
+    "query": "d092_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 716,
+    "query": "d092_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 717,
+    "query": "d092_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 718,
+    "query": "d091_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 719,
+    "query": "d094_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 720,
+    "query": "d094_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 721,
+    "query": "d092_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 722,
+    "query": "d096_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 723,
+    "query": "d092_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 724,
+    "query": "d093_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 725,
+    "query": "d092_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 726,
+    "query": "d092_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 727,
+    "query": "d096_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 728,
+    "query": "d094_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 729,
+    "query": "d095_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 730,
+    "query": "d091_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 731,
+    "query": "d095_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "F",
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 732,
+    "query": "d091_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 733,
+    "query": "d092_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 734,
+    "query": "d091_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 735,
+    "query": "d091_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 736,
+    "query": "d095_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 737,
+    "query": "d095_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "W",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 738,
+    "query": "d096_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "C"
+    ]
+  },
+  {
+    "index": 739,
+    "query": "d094_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "C",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 740,
+    "query": "d093_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 741,
+    "query": "d095_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 742,
+    "query": "d091_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 743,
+    "query": "d096_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "T",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 744,
+    "query": "d093_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 745,
+    "query": "d096_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 746,
+    "query": "d093_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 747,
+    "query": "d093_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 748,
+    "query": "d096_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 749,
+    "query": "d094_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 750,
+    "query": "d096_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 751,
+    "query": "d093_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "C",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 752,
+    "query": "d091_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "Cstar",
+      "W",
+      "F",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 753,
+    "query": "d093_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 754,
+    "query": "d093_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 755,
+    "query": "d091_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "C",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 756,
+    "query": "d092_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "W"
+    ]
+  },
+  {
+    "index": 757,
+    "query": "d094_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "F",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 758,
+    "query": "d096_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "T"
+    ]
+  },
+  {
+    "index": 759,
+    "query": "d093_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 760,
+    "query": "d093_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "F",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 761,
+    "query": "d096_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 762,
+    "query": "d092_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 763,
+    "query": "d096_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 764,
+    "query": "d092_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "F",
+      "Cstar",
+      "T",
+      "C",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 765,
+    "query": "d092_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "T",
+      "W"
+    ]
+  },
+  {
+    "index": 766,
+    "query": "d092_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 767,
+    "query": "d091_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 768,
+    "query": "d094_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "W",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 769,
+    "query": "d091_q6_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 770,
+    "query": "d095_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 771,
+    "query": "d093_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 772,
+    "query": "d094_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 773,
+    "query": "d091_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 774,
+    "query": "d095_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "C",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 775,
+    "query": "d095_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 776,
+    "query": "d096_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "T",
+      "C",
+      "F",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 777,
+    "query": "d094_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "GeoRinex_H",
+      "F",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 778,
+    "query": "d091_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W"
+    ]
+  },
+  {
+    "index": 779,
+    "query": "d093_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 780,
+    "query": "d095_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_R",
+      "F"
+    ]
+  },
+  {
+    "index": 781,
+    "query": "d092_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 782,
+    "query": "d091_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "F",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 783,
+    "query": "d093_q4_FAIR",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 784,
+    "query": "d092_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 785,
+    "query": "d093_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 786,
+    "query": "d093_q1_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "C",
+      "T",
+      "W",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 787,
+    "query": "d092_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "C",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 788,
+    "query": "d096_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "T",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 789,
+    "query": "d096_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "W",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 790,
+    "query": "d095_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 791,
+    "query": "d096_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "W",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 792,
+    "query": "d091_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 793,
+    "query": "d095_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "F",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 794,
+    "query": "d096_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 795,
+    "query": "d094_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 796,
+    "query": "d093_q2_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 797,
+    "query": "d094_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 798,
+    "query": "d091_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 799,
+    "query": "d091_q5_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 800,
+    "query": "d094_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 801,
+    "query": "d096_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 802,
+    "query": "d096_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 803,
+    "query": "d095_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 804,
+    "query": "d093_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 805,
+    "query": "d092_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "GeoRinex_H",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 806,
+    "query": "d094_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "F",
+      "Cstar",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 807,
+    "query": "d092_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R",
+      "C",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 808,
+    "query": "d094_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "C",
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 809,
+    "query": "d094_q1_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 810,
+    "query": "d093_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 811,
+    "query": "d096_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 812,
+    "query": "d096_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "T",
+      "W",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 813,
+    "query": "d091_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 814,
+    "query": "d091_q2_REYK",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "T",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 815,
+    "query": "d092_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 816,
+    "query": "d091_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "T",
+      "F",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 817,
+    "query": "d091_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "Cstar",
+      "W",
+      "T",
+      "F",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 818,
+    "query": "d096_q4_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "F",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 819,
+    "query": "d094_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T",
+      "F",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 820,
+    "query": "d093_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 821,
+    "query": "d094_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "F"
+    ]
+  },
+  {
+    "index": 822,
+    "query": "d092_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 823,
+    "query": "d094_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "F",
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 824,
+    "query": "d095_q6_DUBO",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "W",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "Cstar",
+      "F"
+    ]
+  },
+  {
+    "index": 825,
+    "query": "d095_q4_MAS1",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 826,
+    "query": "d093_q2_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "C",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 827,
+    "query": "d093_q5_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "F",
+      "C",
+      "T",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 828,
+    "query": "d094_q1_DUBO",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "C",
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 829,
+    "query": "d094_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_H",
+      "Cstar",
+      "W",
+      "C",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 830,
+    "query": "d096_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 831,
+    "query": "d091_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 832,
+    "query": "d091_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "C",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 833,
+    "query": "d091_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "W",
+      "T",
+      "C",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 834,
+    "query": "d094_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar",
+      "T"
+    ]
+  },
+  {
+    "index": 835,
+    "query": "d095_q5_REYK",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "C",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "GeoRinex_R",
+      "W"
+    ]
+  },
+  {
+    "index": 836,
+    "query": "d092_q4_NYA2",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "W",
+      "GeoRinex_R",
+      "T",
+      "F",
+      "Cstar",
+      "C"
+    ]
+  },
+  {
+    "index": 837,
+    "query": "d092_q6_REYK",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T"
+    ]
+  },
+  {
+    "index": 838,
+    "query": "d093_q6_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "C"
+    ]
+  },
+  {
+    "index": 839,
+    "query": "d092_q5_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "Cstar",
+      "W",
+      "C"
+    ]
+  },
+  {
+    "index": 840,
+    "query": "d095_q3_DUBO",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "C",
+      "Cstar",
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 841,
+    "query": "d091_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "GeoRinex_H",
+      "W",
+      "T"
+    ]
+  },
+  {
+    "index": 842,
+    "query": "d093_q1_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "Cstar",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 843,
+    "query": "d092_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "T",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 844,
+    "query": "d092_q6_MAS1",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "Cstar",
+      "F",
+      "C",
+      "T"
+    ]
+  },
+  {
+    "index": 845,
+    "query": "d095_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "C",
+      "T",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 846,
+    "query": "d091_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_R",
+      "W",
+      "GeoRinex_H",
+      "F",
+      "Cstar",
+      "T",
+      "C"
+    ]
+  },
+  {
+    "index": 847,
+    "query": "d093_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 848,
+    "query": "d096_q5_DUBO",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "Cstar",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "F"
+    ]
+  },
+  {
+    "index": 849,
+    "query": "d095_q2_ALBH",
+    "repeat": 2,
+    "methods": [
+      "F",
+      "GeoRinex_R",
+      "T",
+      "GeoRinex_H",
+      "Cstar",
+      "C",
+      "W"
+    ]
+  },
+  {
+    "index": 850,
+    "query": "d095_q1_MAS1",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "GeoRinex_H",
+      "F",
+      "W",
+      "Cstar",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 851,
+    "query": "d093_q2_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "C",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 852,
+    "query": "d091_q6_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "W",
+      "T",
+      "C",
+      "F"
+    ]
+  },
+  {
+    "index": 853,
+    "query": "d094_q3_NYA2",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "C",
+      "W",
+      "GeoRinex_R",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "index": 854,
+    "query": "d092_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "F",
+      "GeoRinex_R",
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "W"
+    ]
+  },
+  {
+    "index": 855,
+    "query": "d094_q2_DUBO",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "C",
+      "GeoRinex_H",
+      "GeoRinex_R",
+      "T",
+      "W",
+      "F"
+    ]
+  },
+  {
+    "index": 856,
+    "query": "d094_q5_MAS1",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "Cstar",
+      "GeoRinex_R",
+      "F",
+      "C",
+      "W",
+      "GeoRinex_H"
+    ]
+  },
+  {
+    "index": 857,
+    "query": "d093_q3_FAIR",
+    "repeat": 2,
+    "methods": [
+      "GeoRinex_H",
+      "F",
+      "W",
+      "T",
+      "Cstar",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 858,
+    "query": "d096_q4_ALBH",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "W",
+      "F",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 859,
+    "query": "d092_q1_FAIR",
+    "repeat": 2,
+    "methods": [
+      "C",
+      "F",
+      "W",
+      "T",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 860,
+    "query": "d095_q3_REYK",
+    "repeat": 2,
+    "methods": [
+      "T",
+      "W",
+      "Cstar",
+      "F",
+      "GeoRinex_H",
+      "C",
+      "GeoRinex_R"
+    ]
+  },
+  {
+    "index": 861,
+    "query": "d093_q4_REYK",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "T",
+      "F",
+      "C",
+      "Cstar"
+    ]
+  },
+  {
+    "index": 862,
+    "query": "d095_q3_ALBH",
+    "repeat": 2,
+    "methods": [
+      "W",
+      "T",
+      "Cstar",
+      "F",
+      "GeoRinex_R",
+      "GeoRinex_H",
+      "C"
+    ]
+  },
+  {
+    "index": 863,
+    "query": "d094_q3_MAS1",
+    "repeat": 2,
+    "methods": [
+      "Cstar",
+      "GeoRinex_H",
+      "T",
+      "GeoRinex_R",
+      "W",
+      "F",
+      "C"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*_analysis/
+*_figures/
+raw_sources/
+rebuilt/
+fresh_*/

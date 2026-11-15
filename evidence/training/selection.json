@@ -1,0 +1,714 @@
+{
+  "selected": {
+    "W": "W_time_8192",
+    "C": "C_time_8192",
+    "T": "T_120m",
+    "F": "F_120m"
+  },
+  "ranking": [
+    {
+      "name": "W_time_1024",
+      "family": "W",
+      "order": "time",
+      "rowgroup": 1024,
+      "build_seconds": 10.797715299995616,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 1.8787950999685563
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 2.1447905999957584
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 1.3960043000406586
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 1.8273853000137024
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 2.1529756999807432
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 1.3502394999959506
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 124206125,
+      "total_bytes": 126535340,
+      "row_groups": 890,
+      "physical_rows": 907759,
+      "score_seconds": 0.04319278523726879
+    },
+    {
+      "name": "W_time_8192",
+      "family": "W",
+      "order": "time",
+      "rowgroup": 8192,
+      "build_seconds": 6.4178221999900416,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 1.1279933999758214
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.289692499965895
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.8331960000214167
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 1.0846295000519603
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.2844703000155278
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.7514383000088856
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 92883826,
+      "total_bytes": 95213029,
+      "row_groups": 113,
+      "physical_rows": 907759,
+      "score_seconds": 0.02220629165570941
+    },
+    {
+      "name": "W_time_65536",
+      "family": "W",
+      "order": "time",
+      "rowgroup": 65536,
+      "build_seconds": 5.803117000032216,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.9927016000146978
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.1871555999969132
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.7582422000123188
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.9926284999819472
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.1421279999776743
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.6848911999841221
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 90508973,
+      "total_bytes": 92838166,
+      "row_groups": 18,
+      "physical_rows": 907759,
+      "score_seconds": 0.032429127245033836
+    },
+    {
+      "name": "W_entity_1024",
+      "family": "W",
+      "order": "entity",
+      "rowgroup": 1024,
+      "build_seconds": 10.061435899988282,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 1.7157659999793395
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 2.0409833999583498
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 1.3033412999939173
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 1.6389236999675632
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 2.0120568000129424
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 1.3038357999757864
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 112407436,
+      "total_bytes": 114736655,
+      "row_groups": 890,
+      "physical_rows": 907759,
+      "score_seconds": 0.10421561598619813
+    },
+    {
+      "name": "W_entity_8192",
+      "family": "W",
+      "order": "entity",
+      "rowgroup": 8192,
+      "build_seconds": 5.900418799952604,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 1.0126019000308588
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.216292799974326
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.7885447999578901
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.9912190000177361
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.1633462000172585
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.6855527999578044
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 86209991,
+      "total_bytes": 88539198,
+      "row_groups": 113,
+      "physical_rows": 907759,
+      "score_seconds": 0.040184724731327316
+    },
+    {
+      "name": "W_entity_65536",
+      "family": "W",
+      "order": "entity",
+      "rowgroup": 65536,
+      "build_seconds": 5.551508000004105,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.965066000004299
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.1325836000032723
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.7134499000385404
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.9317184000392444
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.1069277000497095
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.6573842000216246
+        }
+      ],
+      "files": 6,
+      "parquet_bytes": 82497992,
+      "total_bytes": 84827189,
+      "row_groups": 18,
+      "physical_rows": 907759,
+      "score_seconds": 0.0352993136424093
+    },
+    {
+      "name": "C_time_1024",
+      "family": "C",
+      "order": "time",
+      "rowgroup": 1024,
+      "build_seconds": 4.046312199963722,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.6730882999836467
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.8027965999790467
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.5360294999554753
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.673908400000073
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.8016228000051342
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.5140737000037916
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 97775989,
+      "total_bytes": 100133500,
+      "row_groups": 910,
+      "physical_rows": 907759,
+      "score_seconds": 0.025775866274500098
+    },
+    {
+      "name": "C_time_8192",
+      "family": "C",
+      "order": "time",
+      "rowgroup": 8192,
+      "build_seconds": 2.728019700036384,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.47255930001847446
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.5306524999905378
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.3505960000329651
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.47597739996854216
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.5219181000138633
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.3318624999956228
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 90303072,
+      "total_bytes": 92660527,
+      "row_groups": 129,
+      "physical_rows": 907759,
+      "score_seconds": 0.0205431801417284
+    },
+    {
+      "name": "C_time_65536",
+      "family": "C",
+      "order": "time",
+      "rowgroup": 65536,
+      "build_seconds": 2.587136799993459,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.4393032999942079
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.5116264999960549
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.34510400000726804
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.4356779999798164
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.48672360001364723
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.31698709999909624
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 89036193,
+      "total_bytes": 91393650,
+      "row_groups": 38,
+      "physical_rows": 907759,
+      "score_seconds": 0.028631538461191354
+    },
+    {
+      "name": "C_entity_1024",
+      "family": "C",
+      "order": "entity",
+      "rowgroup": 1024,
+      "build_seconds": 3.8545323999715038,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.6431563000078313
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.762894999992568
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.532595600001514
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.6447298999992199
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.7423347000149079
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.4821541999699548
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 95265077,
+      "total_bytes": 97622592,
+      "row_groups": 910,
+      "physical_rows": 907759,
+      "score_seconds": 0.05826536331645905
+    },
+    {
+      "name": "C_entity_8192",
+      "family": "C",
+      "order": "entity",
+      "rowgroup": 8192,
+      "build_seconds": 2.5815983000211418,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.43971020000753924
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.521353599964641
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.3349941999767907
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.41411820001667365
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.5109776000026613
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.31550999998580664
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 84052884,
+      "total_bytes": 86410343,
+      "row_groups": 129,
+      "physical_rows": 907759,
+      "score_seconds": 0.03030062565490431
+    },
+    {
+      "name": "C_entity_65536",
+      "family": "C",
+      "order": "entity",
+      "rowgroup": 65536,
+      "build_seconds": 2.3879758999682963,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.3887518999981694
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.4813914999831468
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.3154045999981463
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.38671140000224113
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.4685466000228189
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.2970913000172004
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 82134156,
+      "total_bytes": 84491617,
+      "row_groups": 38,
+      "physical_rows": 907759,
+      "score_seconds": 0.026578617229887185
+    },
+    {
+      "name": "T_30m",
+      "family": "T",
+      "order": "entity",
+      "minutes": 30,
+      "build_seconds": 5.582597200002056,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.9130660000373609
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.125203000032343
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.753070300037507
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.9086435999488458
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.103071200021077
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.7321312999702059
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 99132885,
+      "total_bytes": 101490413,
+      "row_groups": 1720,
+      "physical_rows": 907759,
+      "score_seconds": 0.030555384021134842
+    },
+    {
+      "name": "T_60m",
+      "family": "T",
+      "order": "entity",
+      "minutes": 60,
+      "build_seconds": 4.064275600016117,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.6721788999857381
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.7956349999876693
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.5408735999953933
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.6852000000071712
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.7839683999773115
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.5421974000055343
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 90343986,
+      "total_bytes": 92701510,
+      "row_groups": 865,
+      "physical_rows": 907759,
+      "score_seconds": 0.0229237174857011
+    },
+    {
+      "name": "T_120m",
+      "family": "T",
+      "order": "entity",
+      "minutes": 120,
+      "build_seconds": 3.2770820000441745,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.5442067999974824
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.6648734000045806
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.43206319998716936
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.5321908000041731
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.6328850000281818
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.4252597999875434
+        }
+      ],
+      "files": 38,
+      "parquet_bytes": 85870503,
+      "total_bytes": 88228027,
+      "row_groups": 436,
+      "physical_rows": 907759,
+      "score_seconds": 0.02062618678919533
+    },
+    {
+      "name": "F_30m",
+      "family": "F",
+      "order": "entity",
+      "minutes": 30,
+      "build_seconds": 10.010614999977406,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 1.5549486999516375
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.9366442000027746
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 1.4610111999791116
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 1.5726658999919891
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.9803117000265047
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 1.429880699957721
+        }
+      ],
+      "files": 1720,
+      "parquet_bytes": 107415791,
+      "total_bytes": 111807659,
+      "row_groups": 1720,
+      "physical_rows": 907759,
+      "score_seconds": 0.04382885283295528
+    },
+    {
+      "name": "F_60m",
+      "family": "F",
+      "order": "entity",
+      "minutes": 60,
+      "build_seconds": 6.261958200018853,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.9716708000050858
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 1.2407660000026226
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.8959387000068091
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 1.0010256000095978
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 1.1992002000333741
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.8946457999991253
+        }
+      ],
+      "files": 865,
+      "parquet_bytes": 94422090,
+      "total_bytes": 97782024,
+      "row_groups": 865,
+      "physical_rows": 907759,
+      "score_seconds": 0.029401382359697126
+    },
+    {
+      "name": "F_120m",
+      "family": "F",
+      "order": "entity",
+      "minutes": 120,
+      "build_seconds": 4.4485645000240766,
+      "source_costs": [
+        {
+          "source": "BRUX_020",
+          "seconds": 0.7181801999686286
+        },
+        {
+          "source": "POTS_020",
+          "seconds": 0.868582199967932
+        },
+        {
+          "source": "WTZR_020",
+          "seconds": 0.5927034000051208
+        },
+        {
+          "source": "BRUX_028",
+          "seconds": 0.774761899956502
+        },
+        {
+          "source": "POTS_028",
+          "seconds": 0.8661150999832898
+        },
+        {
+          "source": "WTZR_028",
+          "seconds": 0.5768016999936663
+        }
+      ],
+      "files": 436,
+      "parquet_bytes": 87835397,
+      "total_bytes": 90675611,
+      "row_groups": 436,
+      "physical_rows": 907759,
+      "score_seconds": 0.022308066029948153
+    }
+  ],
+  "test_data_not_used": true,
+  "selection_frozen_at_unix": 1793068767.1331327
+}

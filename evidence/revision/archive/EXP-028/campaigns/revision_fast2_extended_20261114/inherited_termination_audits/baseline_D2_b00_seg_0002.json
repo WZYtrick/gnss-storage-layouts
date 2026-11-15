@@ -1,0 +1,47 @@
+{
+  "kind": "controller_observed_termination",
+  "retrospective": true,
+  "recorded_utc": "2026-11-13T17:57:48.834619+00:00",
+  "started_utc": "2026-11-13T11:02:22.687566+00:00",
+  "ended_utc": "2026-11-13T13:02:30.320834+00:00",
+  "process": {
+    "pid": 68696,
+    "created": 1794567741.9355528,
+    "executable": "external/python.exe"
+  },
+  "worker_exited": true,
+  "returncode": null,
+  "reason": "Previous supervisor enforced the 7200-second recovery limit",
+  "observer": {
+    "pid": 74444,
+    "created": 1794551982.4985633,
+    "executable": "external/python.exe"
+  },
+  "evidence": [
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/status.json",
+      "bytes": 602,
+      "sha256": "54746bd40dc5a79b580f6f8596c335ef15ab40e2e06d963e22329a8b205e9622"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/controller_finished.json",
+      "bytes": 270,
+      "sha256": "3312898e50e7cbb557fbe5704119a35914adb86d1713cd0be2f05ccf42e8e8e2"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/progress.json",
+      "bytes": 499,
+      "sha256": "b2f991255457ec11f9295bbbda0724095fc909a0e5081c4a25cfc8891724bf82"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/segments/seg_0002/started.json",
+      "bytes": 363,
+      "sha256": "ffeecf902ba6f7a91ba9a7b1a9450618195713f218449d6ba1e8ca96002a3c30"
+    },
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/segments/seg_0002/environment.json",
+      "bytes": 1032,
+      "sha256": "33a35e963851768e7c6516271859249940385e58e0a7d7d70b84c68440911565"
+    }
+  ]
+}

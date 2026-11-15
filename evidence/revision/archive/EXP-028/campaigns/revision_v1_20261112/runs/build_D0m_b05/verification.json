@@ -1,0 +1,1022 @@
+{
+  "all_passed": true,
+  "purpose": "formal",
+  "dataset": "D0m",
+  "block": 5,
+  "methods": [
+    "T",
+    "Tperm_time",
+    "T_time",
+    "C_32768",
+    "Tperm_blocksv",
+    "W_packed",
+    "W",
+    "C_2048",
+    "C",
+    "C_full",
+    "Cstar",
+    "F"
+  ],
+  "sources": 12,
+  "elapsed_seconds": 250.22142189997248,
+  "results": [
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "T",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 4.962461499962956,
+      "init_seconds": 0.054303099983371794,
+      "from_rnx_seconds": 34.050207399996,
+      "from_crx_seconds": 41.30814839992672,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/T",
+      "files": 66,
+      "row_groups": 791,
+      "rows": 1658423,
+      "parquet_bytes": 131897892,
+      "total_bytes": 136383103,
+      "catalog_sha256": "1cf93df3e0c59f1a01676367c671738b66f9ee2c37935ff1d51025a2b5930b98"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "Tperm_time",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 5.334720999991987,
+      "init_seconds": 0.05391850002342835,
+      "from_rnx_seconds": 34.422082300065085,
+      "from_crx_seconds": 41.68002329999581,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/Tperm_time",
+      "files": 66,
+      "row_groups": 791,
+      "rows": 1658423,
+      "parquet_bytes": 141144945,
+      "total_bytes": 145727579,
+      "catalog_sha256": "2ec0187c143fab683165955bcab69133f357743c96dd9c762e37c2d78de3bae9"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "T_time",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 5.275091900024563,
+      "init_seconds": 0.052282000018749386,
+      "from_rnx_seconds": 34.36081670009298,
+      "from_crx_seconds": 41.61875770002371,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/T_time",
+      "files": 66,
+      "row_groups": 791,
+      "rows": 1658423,
+      "parquet_bytes": 141101204,
+      "total_bytes": 145589197,
+      "catalog_sha256": "2f634e9932812e53e3a104efc1bfc3b65cc7d02b7c6343dcad58d2dd6bf8eedc"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "C_32768",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 3.9467796999961138,
+      "init_seconds": 0.021648800000548363,
+      "from_rnx_seconds": 33.00187130004633,
+      "from_crx_seconds": 40.25981229997706,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/C_32768",
+      "files": 66,
+      "row_groups": 82,
+      "rows": 1658423,
+      "parquet_bytes": 135662198,
+      "total_bytes": 140150061,
+      "catalog_sha256": "571c08d967c9bff558d628fed112c33564ba225e46ef655106855584d497b4b3"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "Tperm_blocksv",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 4.995914600032847,
+      "init_seconds": 0.04637240001466125,
+      "from_rnx_seconds": 34.07572980009718,
+      "from_crx_seconds": 41.3336708000279,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/Tperm_blocksv",
+      "files": 66,
+      "row_groups": 791,
+      "rows": 1658423,
+      "parquet_bytes": 132976952,
+      "total_bytes": 137559701,
+      "catalog_sha256": "02117656d2d0488ef2260695f7b143fefeda85704da9b278b13a81c40ffd465b"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "W_packed",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 8.542801100003999,
+      "init_seconds": 0.02972970000701025,
+      "from_rnx_seconds": 37.60597360006068,
+      "from_crx_seconds": 44.8639145999914,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/W_packed",
+      "files": 12,
+      "row_groups": 236,
+      "rows": 1658423,
+      "parquet_bytes": 142029759,
+      "total_bytes": 146467686,
+      "catalog_sha256": "e834735805605b118ffa1b4aa27ba1310a0e500cfb4a3bfbe7210110b71a0476"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "W",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 9.382741799985524,
+      "init_seconds": 0.032107200007885695,
+      "from_rnx_seconds": 38.44829180004308,
+      "from_crx_seconds": 45.706232799973805,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/W",
+      "files": 12,
+      "row_groups": 208,
+      "rows": 1658423,
+      "parquet_bytes": 142930232,
+      "total_bytes": 147368141,
+      "catalog_sha256": "80a4c34014e932c38d3ef73a0e66f3ab5704374d3e5e1b0c3768a260573ce3c6"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "C_2048",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 4.85187410004437,
+      "init_seconds": 0.04779109999071807,
+      "from_rnx_seconds": 33.93310800008476,
+      "from_crx_seconds": 41.19104900001548,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/C_2048",
+      "files": 66,
+      "row_groups": 844,
+      "rows": 1658423,
+      "parquet_bytes": 141965156,
+      "total_bytes": 146453115,
+      "catalog_sha256": "b7b2df495ea4b35450b43caf78c4f432254670c34f330e2d8d090db19b4c866f"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "C",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 4.098939299990889,
+      "init_seconds": 0.026297899952623993,
+      "from_rnx_seconds": 33.15867999999318,
+      "from_crx_seconds": 40.41662099992391,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/C",
+      "files": 66,
+      "row_groups": 236,
+      "rows": 1658423,
+      "parquet_bytes": 138004284,
+      "total_bytes": 142489363,
+      "catalog_sha256": "0fb6f0b0f5a3c6faf2775ac9d4977c3efbbabac54e11f8c04c93ac7a3d0cf1e7"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "C_full",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 8.765092800022103,
+      "init_seconds": 0.07106270000804216,
+      "from_rnx_seconds": 37.869598300079815,
+      "from_crx_seconds": 45.12753930001054,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/C_full",
+      "files": 66,
+      "row_groups": 236,
+      "rows": 1658423,
+      "parquet_bytes": 142966714,
+      "total_bytes": 147550699,
+      "catalog_sha256": "ac4041eb8fe0ddb0bba9c7aee2b29d7a87e5ecff4709160164b05320fa0b1e6f"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "Cstar",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 4.313989699992817,
+      "init_seconds": 0.028980600007344037,
+      "from_rnx_seconds": 33.37641310004983,
+      "from_crx_seconds": 40.634354099980555,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/Cstar",
+      "files": 66,
+      "row_groups": 236,
+      "rows": 1658423,
+      "parquet_bytes": 127122781,
+      "total_bytes": 131610640,
+      "catalog_sha256": "52177cc605978e985860649c3a8d019e12b073044f9a02e6365f102f2f0599bf"
+    },
+    {
+      "dataset": "D0m",
+      "block": 5,
+      "method": "F",
+      "decompress_seconds": 7.2579409999307245,
+      "parse_seconds": 29.03344280004967,
+      "build_seconds": 6.56539880001219,
+      "init_seconds": 0.2913700999924913,
+      "from_rnx_seconds": 35.89021170005435,
+      "from_crx_seconds": 43.148152699985076,
+      "verified_rows": 1658423,
+      "full_source_hashes": [
+        {
+          "source_id": 6,
+          "rows": 124721,
+          "sha256": "c93caed2a35238950cdbba8339b9cb5ef7f915e2ca354db6fbdaf45fa71dec62"
+        },
+        {
+          "source_id": 7,
+          "rows": 71460,
+          "sha256": "f074c3a0569c3e667f8633d6720af6c643dea432ab983a5ebac65c34973d5e45"
+        },
+        {
+          "source_id": 8,
+          "rows": 117915,
+          "sha256": "a44d19c8c6f908961745aa967abdf4863dd325d3e7a570a234072bd89a6228a2"
+        },
+        {
+          "source_id": 9,
+          "rows": 163081,
+          "sha256": "c00550bef86bed7362677e50e9abeafa08c9dc8c591880e8e734772e7996d038"
+        },
+        {
+          "source_id": 10,
+          "rows": 155027,
+          "sha256": "24c66c458fe3de6b470c637498a4a548f843a99038f35c3a06ed9fd4581f5cb3"
+        },
+        {
+          "source_id": 11,
+          "rows": 203745,
+          "sha256": "91cdf02d97387973b59c72e914af24e1a190a5a18382abe3fe5c964e9e0cc48f"
+        },
+        {
+          "source_id": 24,
+          "rows": 123534,
+          "sha256": "12916e752c6d572371203ee80a6ced0ad8ec64fdfeb3986f3066eb1105edeb86"
+        },
+        {
+          "source_id": 25,
+          "rows": 72814,
+          "sha256": "832c48fc3b39d70c2fd0cc446a0c7969e9d8049ae44115dd95475c6c815e17d5"
+        },
+        {
+          "source_id": 26,
+          "rows": 120803,
+          "sha256": "14a70f886c3fd1860f3867533f4d7cf415146c50b59062c55bf1c2b7c3613759"
+        },
+        {
+          "source_id": 27,
+          "rows": 159395,
+          "sha256": "b5ef454267cc2b28e6eafc3a084b54d452a27ec1158d20ebc6b758d97dfafa89"
+        },
+        {
+          "source_id": 28,
+          "rows": 148591,
+          "sha256": "6901505cbb500cdf833da89dcb2425f2797cff56b5039519a053adb63ed4ad33"
+        },
+        {
+          "source_id": 29,
+          "rows": 197337,
+          "sha256": "25e778c8f68f08b25d2c9adaa641382f20c324ed06ee36f4a5f78e0e073792a9"
+        }
+      ],
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05/layouts/F",
+      "files": 791,
+      "row_groups": 791,
+      "rows": 1658423,
+      "parquet_bytes": 135312091,
+      "total_bytes": 140658062,
+      "catalog_sha256": "81a880e5ccfb3de49a927c7567de3746fad556d66e7e34b6bc77892f6c1a9f8d"
+    }
+  ],
+  "code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "layouts.py": "05a8445e5ef74ee72748f043d2667b747952bb4984bf5cd646c9551db99b82da",
+    "construction.py": "96b8cf54b9c9c489701d13860562b4c01344bfa88a7cb050034b737e6cc21747"
+  },
+  "ended_utc": "2026-11-13T00:28:59.854092+00:00",
+  "time_policy": "explicit_user_until_1100_20261113",
+  "execution_session": "resume_until_1100_20261113",
+  "authorization": {
+    "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/authorization.json",
+    "bytes": 11652,
+    "sha256": "276f43bdb8ba9746263db944871c24926c15d5949935b7a4172f7cfb29e9226b"
+  },
+  "session_wrapper": {
+    "path": "evidence/revision/archive/EXP-028/resume_until_1100_20261113.py",
+    "bytes": 19748,
+    "sha256": "edfa721cd4ad93a318352076fef52b60d30056699d16cd1bf3cc334b14a0bed9"
+  },
+  "started_utc": "2026-11-13T00:24:46.335505+00:00",
+  "process": {
+    "pid": 75544,
+    "created": 1794529485.7815895,
+    "executable": "external/python.exe"
+  }
+}

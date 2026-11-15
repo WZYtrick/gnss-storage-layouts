@@ -1,0 +1,385 @@
+{
+  "created": "2026-11-10T04:28:30.994831+00:00",
+  "all_passed": true,
+  "inputs": [
+    {
+      "path": "historical/EXP-027/analysis/development_combined_20261109/summary.json",
+      "bytes": 37148769,
+      "sha256": "a79cc3a1600f1ffc60180c8080ff195f357459b8488ca6006f7bd3a1e10ea1c8"
+    },
+    {
+      "path": "historical/EXP-027/analysis/development_combined_20261109/independent_verification.json",
+      "bytes": 18295,
+      "sha256": "49959f3656a8e28e23d1000e9444aeabd4e67b46f9745c3c6b360d22e8f56afd"
+    },
+    {
+      "path": "historical/EXP-027/analysis/development_combined_20261109/normal_phase_blocks.csv",
+      "bytes": 1501226,
+      "sha256": "bc489c8daece21c38417dcc2a254bcfe78d2c1fa4529667993012b8a912a1f55"
+    },
+    {
+      "path": "historical/EXP-027/analysis/d2_combined_20261110/summary.json",
+      "bytes": 29042812,
+      "sha256": "88c4b962bbc633bc0139a2bde685a78859755600463d94097f767e2b3722fb62"
+    },
+    {
+      "path": "historical/EXP-027/analysis/d2_combined_20261110/independent_verification.json",
+      "bytes": 18129,
+      "sha256": "28a4d7d24e631b0288c95d4e6100419c768d5dfe2e2b83e175590f9ffb9cac3b"
+    },
+    {
+      "path": "historical/EXP-027/analysis/d2_combined_20261110/normal_phase_blocks.csv",
+      "bytes": 1282931,
+      "sha256": "b22771535c35f5fee1da36b0a5db71b233bb20b30bce74364985d9930ba09524"
+    },
+    {
+      "path": "historical/EXP-027/frozen/D2_predictions.json",
+      "bytes": 5900628,
+      "sha256": "506dd580d29f6a994481c600fab3bae59a18c61728ac64db25b59fd1eeb621ed"
+    },
+    {
+      "path": "historical/EXP-027/frozen/development_v1.json",
+      "bytes": 1309740,
+      "sha256": "18630de0d3bdbb239d8d5ffe244bc903caea411c8c4592ad258f8f57c4126ccf"
+    },
+    {
+      "path": "historical/EXP-027/synthesize_d2_20261110.py",
+      "bytes": 24490,
+      "sha256": "cc8780e2180f7cd7aa829f92035d26616a1cdea33a5fa0a37200dd146e6eae15"
+    }
+  ],
+  "table_rows": {
+    "costs": 1090,
+    "rankings": 4140,
+    "mechanism_contrasts": 132,
+    "contract_effects": 540,
+    "thread_effects": 300,
+    "task_layout_effects": 360,
+    "strategy_summary": 456,
+    "phases": 250,
+    "frozen_rule_weights": 4260,
+    "frozen_threshold_scenarios": 12780,
+    "frozen_threshold_summary": 72,
+    "policy_context_comparison": 24,
+    "layout_storage": 34,
+    "query_features": 12
+  },
+  "figures": [
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig01_layout_contracts.png",
+      "bytes": 134901,
+      "sha256": "852c6f051ca5662ef3f7ef89c3b719ed0b13de570d14cbc4ad92d2b79644fef0"
+    },
+    {
+      "path": "external/fig01_layout_contracts.png",
+      "bytes": 134901,
+      "sha256": "852c6f051ca5662ef3f7ef89c3b719ed0b13de570d14cbc4ad92d2b79644fef0"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig01_layout_contracts.svg",
+      "bytes": 82795,
+      "sha256": "5acd1cc9f683be772b3eed2a980e3719176425f817cd60ceaf9e2b0d06b5fc8e"
+    },
+    {
+      "path": "external/fig01_layout_contracts.svg",
+      "bytes": 82795,
+      "sha256": "5acd1cc9f683be772b3eed2a980e3719176425f817cd60ceaf9e2b0d06b5fc8e"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig01_layout_contracts.pdf",
+      "bytes": 31355,
+      "sha256": "c0b8644c62b744fcd86c38a0a590c6e88e15da48ee8bfcfcf4b0e8b138064333"
+    },
+    {
+      "path": "external/fig01_layout_contracts.pdf",
+      "bytes": 31355,
+      "sha256": "c0b8644c62b744fcd86c38a0a590c6e88e15da48ee8bfcfcf4b0e8b138064333"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig02_contract_phases.png",
+      "bytes": 99539,
+      "sha256": "a07303329c6aef41f80c5c04abc9ddb95f2c43483fc320a3fb6264ee6a9ba8a5"
+    },
+    {
+      "path": "external/fig02_contract_phases.png",
+      "bytes": 99539,
+      "sha256": "a07303329c6aef41f80c5c04abc9ddb95f2c43483fc320a3fb6264ee6a9ba8a5"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig02_contract_phases.svg",
+      "bytes": 49976,
+      "sha256": "c6c6f37a04d08c0aa68b9d14e01598e1124d18ce635414e62252e902c1dc73ef"
+    },
+    {
+      "path": "external/fig02_contract_phases.svg",
+      "bytes": 49976,
+      "sha256": "c6c6f37a04d08c0aa68b9d14e01598e1124d18ce635414e62252e902c1dc73ef"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig02_contract_phases.pdf",
+      "bytes": 27178,
+      "sha256": "591f32a31d624859f8de9830ad926a5a024bab7c4c6f9374b12eb056747b3c32"
+    },
+    {
+      "path": "external/fig02_contract_phases.pdf",
+      "bytes": 27178,
+      "sha256": "591f32a31d624859f8de9830ad926a5a024bab7c4c6f9374b12eb056747b3c32"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig03_mechanism_contrasts.png",
+      "bytes": 134057,
+      "sha256": "1080e24b7cc10e220e9c4610d04e538fff6115629073bb28d7cd88260a7f12e4"
+    },
+    {
+      "path": "external/fig03_mechanism_contrasts.png",
+      "bytes": 134057,
+      "sha256": "1080e24b7cc10e220e9c4610d04e538fff6115629073bb28d7cd88260a7f12e4"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig03_mechanism_contrasts.svg",
+      "bytes": 36769,
+      "sha256": "b39533bca6798e94889d598a1c192e1a0a2b57eceb7dc4e29b3de33ea9536990"
+    },
+    {
+      "path": "external/fig03_mechanism_contrasts.svg",
+      "bytes": 36769,
+      "sha256": "b39533bca6798e94889d598a1c192e1a0a2b57eceb7dc4e29b3de33ea9536990"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig03_mechanism_contrasts.pdf",
+      "bytes": 47808,
+      "sha256": "e76d6ae12caa8bf3de86bea9f3974c4168487c08b3e48f79b7215a595d832994"
+    },
+    {
+      "path": "external/fig03_mechanism_contrasts.pdf",
+      "bytes": 47808,
+      "sha256": "e76d6ae12caa8bf3de86bea9f3974c4168487c08b3e48f79b7215a595d832994"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig04_row_group_response.png",
+      "bytes": 253334,
+      "sha256": "2965ea86cd04cfac6c29815adb978cdcc2e964cac46831db14da1243652eadd8"
+    },
+    {
+      "path": "external/fig04_row_group_response.png",
+      "bytes": 253334,
+      "sha256": "2965ea86cd04cfac6c29815adb978cdcc2e964cac46831db14da1243652eadd8"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig04_row_group_response.svg",
+      "bytes": 49697,
+      "sha256": "2f662aa51682b97e0876691dc609276533c6609e1d3ff2518ac49d7137586754"
+    },
+    {
+      "path": "external/fig04_row_group_response.svg",
+      "bytes": 49697,
+      "sha256": "2f662aa51682b97e0876691dc609276533c6609e1d3ff2518ac49d7137586754"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig04_row_group_response.pdf",
+      "bytes": 28792,
+      "sha256": "10c3cb30915783348d66c471f74b1ec9d81e493f4435931bce1d540ad6aabbe8"
+    },
+    {
+      "path": "external/fig04_row_group_response.pdf",
+      "bytes": 28792,
+      "sha256": "10c3cb30915783348d66c471f74b1ec9d81e493f4435931bce1d540ad6aabbe8"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig05_tasks.png",
+      "bytes": 152434,
+      "sha256": "1c6557895016c61f8e4579dba144e7071c7fe62bf281e5b66f95fa58d08016a8"
+    },
+    {
+      "path": "external/fig05_tasks.png",
+      "bytes": 152434,
+      "sha256": "1c6557895016c61f8e4579dba144e7071c7fe62bf281e5b66f95fa58d08016a8"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig05_tasks.svg",
+      "bytes": 69981,
+      "sha256": "27322de07db8c3b94571d031f4a2c6419f58c50e6400f3f41a2543630dcc9d5d"
+    },
+    {
+      "path": "external/fig05_tasks.svg",
+      "bytes": 69981,
+      "sha256": "27322de07db8c3b94571d031f4a2c6419f58c50e6400f3f41a2543630dcc9d5d"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig05_tasks.pdf",
+      "bytes": 36074,
+      "sha256": "5f84a438e816308268465ff6157ba3ecdc3a6536d5db6afbe85b021d416973df"
+    },
+    {
+      "path": "external/fig05_tasks.pdf",
+      "bytes": 36074,
+      "sha256": "5f84a438e816308268465ff6157ba3ecdc3a6536d5db6afbe85b021d416973df"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06_frozen_policy_regret.png",
+      "bytes": 186877,
+      "sha256": "9f21564586fcc8a290e4498d3b8b985d5c691678610da59a17fddba15a4d1f8c"
+    },
+    {
+      "path": "external/fig06_frozen_policy_regret.png",
+      "bytes": 186877,
+      "sha256": "9f21564586fcc8a290e4498d3b8b985d5c691678610da59a17fddba15a4d1f8c"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06_frozen_policy_regret.svg",
+      "bytes": 57223,
+      "sha256": "d9ecfa481c47f2b0a38ca41738fecebbcb6f28ac166c46381bbbf9d7bb08c7f5"
+    },
+    {
+      "path": "external/fig06_frozen_policy_regret.svg",
+      "bytes": 57223,
+      "sha256": "d9ecfa481c47f2b0a38ca41738fecebbcb6f28ac166c46381bbbf9d7bb08c7f5"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06_frozen_policy_regret.pdf",
+      "bytes": 34228,
+      "sha256": "c139f76c9d6e812c21f55a041a350a48fb3649ac3f5bee5e3fe5896e55de4739"
+    },
+    {
+      "path": "external/fig06_frozen_policy_regret.pdf",
+      "bytes": 34228,
+      "sha256": "c139f76c9d6e812c21f55a041a350a48fb3649ac3f5bee5e3fe5896e55de4739"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06b_fixed_vs_frozen.png",
+      "bytes": 147682,
+      "sha256": "6eec232b519f184d4283a766166d9d947863d66e394b2df56f08820aadc0bb0a"
+    },
+    {
+      "path": "external/fig06b_fixed_vs_frozen.png",
+      "bytes": 147682,
+      "sha256": "6eec232b519f184d4283a766166d9d947863d66e394b2df56f08820aadc0bb0a"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06b_fixed_vs_frozen.svg",
+      "bytes": 28426,
+      "sha256": "1b197bdb87d702b1f7eb39d847b5db9be33a2bb40302755760b34ace87707dbd"
+    },
+    {
+      "path": "external/fig06b_fixed_vs_frozen.svg",
+      "bytes": 28426,
+      "sha256": "1b197bdb87d702b1f7eb39d847b5db9be33a2bb40302755760b34ace87707dbd"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig06b_fixed_vs_frozen.pdf",
+      "bytes": 33352,
+      "sha256": "ad141a1e3ff32e14348a613bbb9e8261ff8f6ad4398686224efbb9dc4b061e10"
+    },
+    {
+      "path": "external/fig06b_fixed_vs_frozen.pdf",
+      "bytes": 33352,
+      "sha256": "ad141a1e3ff32e14348a613bbb9e8261ff8f6ad4398686224efbb9dc4b061e10"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig07_profile_calibration.png",
+      "bytes": 116641,
+      "sha256": "d5a0a1c68a92b83c2a8dc84ac489a9a5d13d7b63c6544f037bb442b38f37aad0"
+    },
+    {
+      "path": "external/fig07_profile_calibration.png",
+      "bytes": 116641,
+      "sha256": "d5a0a1c68a92b83c2a8dc84ac489a9a5d13d7b63c6544f037bb442b38f37aad0"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig07_profile_calibration.svg",
+      "bytes": 16664,
+      "sha256": "a895dad4c4a516d19721e5938bc9ea61b5635128be46f15db1d1d168583a7e9b"
+    },
+    {
+      "path": "external/fig07_profile_calibration.svg",
+      "bytes": 16664,
+      "sha256": "a895dad4c4a516d19721e5938bc9ea61b5635128be46f15db1d1d168583a7e9b"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/fig07_profile_calibration.pdf",
+      "bytes": 26529,
+      "sha256": "13327782d06a1f544c0081e2665f114f9ee322712ed193f13ab5c80b8ee4e4f5"
+    },
+    {
+      "path": "external/fig07_profile_calibration.pdf",
+      "bytes": 26529,
+      "sha256": "13327782d06a1f544c0081e2665f114f9ee322712ed193f13ab5c80b8ee4e4f5"
+    }
+  ],
+  "tables": [
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/contract_effects.csv",
+      "bytes": 260871,
+      "sha256": "0f1b1ee5ef1bdc746099195fce3859ce9dce787dbd0c9bb375e9be22fa651334"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/costs.csv",
+      "bytes": 568902,
+      "sha256": "ae879f91ef5bffa9be0a0a843cbbbe9be6e3822e5b58f90417b10a94a1f5e472"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/frozen_rule_weights.csv",
+      "bytes": 947108,
+      "sha256": "c928f2683f1f85184dfbcd0188a1201215e9cfdae5ae1af955fcbf6087d20863"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/frozen_threshold_scenarios.csv",
+      "bytes": 1370020,
+      "sha256": "b06d20946d99e85d39c52885dd1f4e48e4707b4627d78aa2fa886b8b3ba91915"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/frozen_threshold_summary.csv",
+      "bytes": 9757,
+      "sha256": "542f474c6d11f0cb68d883fd2a3655e958b6106627835e8818b8f1ac91f5b67c"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/layout_storage.csv",
+      "bytes": 7810,
+      "sha256": "524f13f19d2eb161b6e4ce46a959b6c0f420eabe15e6750e88bd6adf657525aa"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/mechanism_contrasts.csv",
+      "bytes": 64140,
+      "sha256": "f7ad0b77707e7fb42543bfbfb8e76f8c37fd63a513468f0bbc24b2fccd61febd"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/phases.csv",
+      "bytes": 246513,
+      "sha256": "a93e82ab3f9a024f7ff51d01e621be5842605739e800b472cfe0ba9a89f85d98"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/policy_context_comparison.csv",
+      "bytes": 7615,
+      "sha256": "284de5f836246da2c9a6f8c234c6d411f03065309872d68d0e260c0f46eed188"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/query_features.csv",
+      "bytes": 489,
+      "sha256": "c1a0b688da8f2d053236aee2f0fa0712914fa7c5aa008089b49fd27182c06680"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/rankings.csv",
+      "bytes": 844742,
+      "sha256": "5daa203def7fba94be97294d23b029b3dac20eebf18c07e3174764562664f0f1"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/strategy_summary.csv",
+      "bytes": 59587,
+      "sha256": "375eea21b79ccd80f300cb72b65422ee744ecc21b8ad29eb249c07de642bf145"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/task_layout_effects.csv",
+      "bytes": 165528,
+      "sha256": "c2d0d28f575fa072b77c514116fca8f9cb7ca550af358c9d8f8ac05150a1db8a"
+    },
+    {
+      "path": "historical/EXP-027/analysis/synthesis_20261110/thread_effects.csv",
+      "bytes": 140329,
+      "sha256": "2bb41fcc2a5e423690021fb23d347456f8971bc59df18113da5ebaec46d16f1c"
+    }
+  ],
+  "plots_use_observed_data": true,
+  "intervals": "Observed ranges across six paired blocks, not confidence intervals.",
+  "phase_plot": "Arithmetic mean of six block phase fractions; phases from the same median-total call.",
+  "threshold_sensitivity": "Frozen D1 costs and D1 storage tie-breakers, evaluated on D2; no new parameter selection."
+}

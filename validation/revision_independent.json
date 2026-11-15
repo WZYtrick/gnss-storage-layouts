@@ -1,0 +1,25 @@
+{
+  "all_passed": true,
+  "purpose": "formal",
+  "raw_calls": 24192,
+  "formal_calls": 18144,
+  "warmup_calls": 6048,
+  "recovery_warmup_calls": 5453,
+  "median_calls": 6048,
+  "layout_builds": 204,
+  "checks": 142898,
+  "imports_primary_analyzer": false,
+  "source_manifest_sha256": "726c12d9eadb42f5e739a4dbbdafadf1b775af12648981e5ac84c697739fa59a",
+  "outputs": {
+    "amortization_query_blocks.csv": "ffe149431943e8556f8f2d564e7947fbc3c6a81fdc07a406aec4bdae7e6a28d8",
+    "amortization_summary.csv": "e8d50454b21520cd9af7f3bdd2fe1707a3451b63615581b00900aa99443d3351",
+    "block_costs.csv": "c684a2ccefe1bb97d5f9b36b1c57f50aa7fb82f9c03bc65c55ef08b2a02e4b2f",
+    "build_blocks.csv": "198d9852f7b2174b529071e3a09d579ced9e727e6f24afa474d5a1097c43c30c",
+    "build_summary.csv": "ad96dcc4a3eef10e1327c08e5972da1abe08786999aed825bc0c5ff2153f077b",
+    "paired_ratios.csv": "2307f2c6f34bc38b761ee3593a8dbd0001936aa69b405fd8a1f3bc6c9cfc7d49",
+    "query_summary.csv": "d88f9a58fc9506bec5af89c699bbb25da0e89ead6b0d70a86c6170c0fcbe0d0e",
+    "request_medians.csv": "59b41aa7699e9bfe6e5a7465bf346b7c96ecf629473534992c62ec04d2433b9d",
+    "source_sizes.csv": "eda606c3207cd297204ab3dec38f0706a82fd682cb17b829b30be41718ee822d",
+    "storage_footprint.csv": "b0bfe1f5e1962e2226796de1acc3cb051a79ffb45f902e2ecb0a29e7c26e6887"
+  }
+}

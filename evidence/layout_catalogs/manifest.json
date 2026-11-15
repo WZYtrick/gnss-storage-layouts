@@ -1,0 +1,206 @@
+[
+  {
+    "dataset": "D0m",
+    "method": "W",
+    "path": "evidence/layout_catalogs/D0m/W.json",
+    "sha256": "80a4c34014e932c38d3ef73a0e66f3ab5704374d3e5e1b0c3768a260573ce3c6"
+  },
+  {
+    "dataset": "D0m",
+    "method": "C",
+    "path": "evidence/layout_catalogs/D0m/C.json",
+    "sha256": "0fb6f0b0f5a3c6faf2775ac9d4977c3efbbabac54e11f8c04c93ac7a3d0cf1e7"
+  },
+  {
+    "dataset": "D0m",
+    "method": "Cstar",
+    "path": "evidence/layout_catalogs/D0m/Cstar.json",
+    "sha256": "db0a345687208f1052033ca53ebb7e41c8fce044fdf0c6b37d433de18cb48ff8"
+  },
+  {
+    "dataset": "D0m",
+    "method": "T",
+    "path": "evidence/layout_catalogs/D0m/T.json",
+    "sha256": "1cf93df3e0c59f1a01676367c671738b66f9ee2c37935ff1d51025a2b5930b98"
+  },
+  {
+    "dataset": "D0m",
+    "method": "F",
+    "path": "evidence/layout_catalogs/D0m/F.json",
+    "sha256": "81a880e5ccfb3de49a927c7567de3746fad556d66e7e34b6bc77892f6c1a9f8d"
+  },
+  {
+    "dataset": "D0m",
+    "method": "T_time",
+    "path": "evidence/layout_catalogs/D0m/T_time.json",
+    "sha256": "2f634e9932812e53e3a104efc1bfc3b65cc7d02b7c6343dcad58d2dd6bf8eedc"
+  },
+  {
+    "dataset": "D0m",
+    "method": "Tperm_time",
+    "path": "evidence/layout_catalogs/D0m/Tperm_time.json",
+    "sha256": "2ec0187c143fab683165955bcab69133f357743c96dd9c762e37c2d78de3bae9"
+  },
+  {
+    "dataset": "D0m",
+    "method": "Tperm_blocksv",
+    "path": "evidence/layout_catalogs/D0m/Tperm_blocksv.json",
+    "sha256": "02117656d2d0488ef2260695f7b143fefeda85704da9b278b13a81c40ffd465b"
+  },
+  {
+    "dataset": "D0m",
+    "method": "C_2048",
+    "path": "evidence/layout_catalogs/D0m/C_2048.json",
+    "sha256": "b7b2df495ea4b35450b43caf78c4f432254670c34f330e2d8d090db19b4c866f"
+  },
+  {
+    "dataset": "D0m",
+    "method": "C_32768",
+    "path": "evidence/layout_catalogs/D0m/C_32768.json",
+    "sha256": "571c08d967c9bff558d628fed112c33564ba225e46ef655106855584d497b4b3"
+  },
+  {
+    "dataset": "D0m",
+    "method": "C_full",
+    "path": "evidence/layout_catalogs/D0m/C_full.json",
+    "sha256": "ac4041eb8fe0ddb0bba9c7aee2b29d7a87e5ecff4709160164b05320fa0b1e6f"
+  },
+  {
+    "dataset": "D0m",
+    "method": "W_packed",
+    "path": "evidence/layout_catalogs/D0m/W_packed.json",
+    "sha256": "e834735805605b118ffa1b4aa27ba1310a0e500cfb4a3bfbe7210110b71a0476"
+  },
+  {
+    "dataset": "D1",
+    "method": "W",
+    "path": "evidence/layout_catalogs/D1/W.json",
+    "sha256": "48c36bcc4f82693577f6c656d88471e33aaf18af9c3b65eecf405458715feb2d"
+  },
+  {
+    "dataset": "D1",
+    "method": "C",
+    "path": "evidence/layout_catalogs/D1/C.json",
+    "sha256": "a828c864f362a94a80adaaa01a0aaeab2d99c560f3e4c3a45f88512d94f6e368"
+  },
+  {
+    "dataset": "D1",
+    "method": "T",
+    "path": "evidence/layout_catalogs/D1/T.json",
+    "sha256": "854f5012653ca76a625522b64bec167fef547082d141e6f52a396b3d9d08d0cf"
+  },
+  {
+    "dataset": "D1",
+    "method": "F",
+    "path": "evidence/layout_catalogs/D1/F.json",
+    "sha256": "07460991a3b04296ed3c87d4cb7f751ebde63d3eb366b4cc8d3be76c817b2a3e"
+  },
+  {
+    "dataset": "D1",
+    "method": "Cstar",
+    "path": "evidence/layout_catalogs/D1/Cstar.json",
+    "sha256": "22b9f3c1ab01fc74e9b564ec605185e2c22d11dc0ff887afee18354742f9edaf"
+  },
+  {
+    "dataset": "D2",
+    "method": "W",
+    "path": "evidence/layout_catalogs/D2/W.json",
+    "sha256": "c7b3489364ec9bac3e7c4c3115017c472cd0f2fd5993a0be61c867d2647b4ddd"
+  },
+  {
+    "dataset": "D2",
+    "method": "C",
+    "path": "evidence/layout_catalogs/D2/C.json",
+    "sha256": "444fd622fdc32ca5e4fac24a091a2246dbe42bc43541b93bd28d76758997d1ba"
+  },
+  {
+    "dataset": "D2",
+    "method": "Cstar",
+    "path": "evidence/layout_catalogs/D2/Cstar.json",
+    "sha256": "562546accc81d9f9ccb19195fbb885d605a5ad16158de0907816583c1111c284"
+  },
+  {
+    "dataset": "D2",
+    "method": "T",
+    "path": "evidence/layout_catalogs/D2/T.json",
+    "sha256": "f15288b8ce71c896fa5615d7ecb04ebab239831ddeb5b9e5dd3ecfdfa3bfd133"
+  },
+  {
+    "dataset": "D2",
+    "method": "F",
+    "path": "evidence/layout_catalogs/D2/F.json",
+    "sha256": "5b81d67d0889124b91f8551337b4add4b997a296213d28137f47798fbe57d863"
+  },
+  {
+    "dataset": "D2m",
+    "method": "W",
+    "path": "evidence/layout_catalogs/D2m/W.json",
+    "sha256": "f4c6642a6e7d758fdc74410f09da35305504ad9c91896bab502fafa2ef74269f"
+  },
+  {
+    "dataset": "D2m",
+    "method": "C",
+    "path": "evidence/layout_catalogs/D2m/C.json",
+    "sha256": "7168ee02c116bac6aa6ad8e1f9b5cfda95e8a440882339dee412affecf8304ea"
+  },
+  {
+    "dataset": "D2m",
+    "method": "Cstar",
+    "path": "evidence/layout_catalogs/D2m/Cstar.json",
+    "sha256": "0f927cc3dafb900644e04dce37b56ad2264c8abb942ed07031fbcea376dd33cb"
+  },
+  {
+    "dataset": "D2m",
+    "method": "T",
+    "path": "evidence/layout_catalogs/D2m/T.json",
+    "sha256": "1fb9f36b1241badd78d81c26e7637f97f5337c31596478f908c1dec00d9def4c"
+  },
+  {
+    "dataset": "D2m",
+    "method": "F",
+    "path": "evidence/layout_catalogs/D2m/F.json",
+    "sha256": "7d8ba02c1b11a3b3df1db428c64e228aa3b3d4756c73f2a0d9f08f17a8d6a780"
+  },
+  {
+    "dataset": "D2m",
+    "method": "T_time",
+    "path": "evidence/layout_catalogs/D2m/T_time.json",
+    "sha256": "4fe85d17c31b2b097f09700fa2456c5457df630e01c7e895dd68cbe26686ab79"
+  },
+  {
+    "dataset": "D2m",
+    "method": "Tperm_time",
+    "path": "evidence/layout_catalogs/D2m/Tperm_time.json",
+    "sha256": "6632cc67ddcf004bafbac161a7c765656e9627781a46b1c517ae8d9500bf3511"
+  },
+  {
+    "dataset": "D2m",
+    "method": "Tperm_blocksv",
+    "path": "evidence/layout_catalogs/D2m/Tperm_blocksv.json",
+    "sha256": "cbde8e92be8c07a5ece4f2afea2d6d7286a6b57ba0b65d81ca7615bd60796240"
+  },
+  {
+    "dataset": "D2m",
+    "method": "C_2048",
+    "path": "evidence/layout_catalogs/D2m/C_2048.json",
+    "sha256": "d15e825985bdcdab9f27330fc66455d5c7f38cbd7ff3a0a7e7ad0b3d36e8601d"
+  },
+  {
+    "dataset": "D2m",
+    "method": "C_32768",
+    "path": "evidence/layout_catalogs/D2m/C_32768.json",
+    "sha256": "5d2c7f843c0391c89bc5c669695a401eb8f6b25095dbd0559d00a75a48e7b847"
+  },
+  {
+    "dataset": "D2m",
+    "method": "C_full",
+    "path": "evidence/layout_catalogs/D2m/C_full.json",
+    "sha256": "d2526e95bb06a35ab1d5a152ddf4fed50b61eaf65bee53efd52ab8351e4195fd"
+  },
+  {
+    "dataset": "D2m",
+    "method": "W_packed",
+    "path": "evidence/layout_catalogs/D2m/W_packed.json",
+    "sha256": "f7b20752d3a34e2912d24e9f8b6f26264cf5051d6ec4dc072218202b6740b2cc"
+  }
+]

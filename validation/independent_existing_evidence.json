@@ -1,0 +1,18 @@
+{
+  "all_passed": true,
+  "imports_primary_analysis": false,
+  "checks": 2071008,
+  "raw_calls_checked": 743040,
+  "median_calls_checked": 185760,
+  "threshold_scenarios_checked": 12780,
+  "output_hashes": {
+    "candidate_sensitivity_cells.csv": "f5621ef69397022d5d97549cda8794b957968dc23027c2e2e36edb2f1cd22638",
+    "candidate_sensitivity_summary.csv": "9eb1ae47d3eaefe34b14f32e4c6e8a0cd50ffb20fa6fcf9412920bd18e895f7c",
+    "D1_thread_costs.csv": "1032e70b29b2ddc7cd6b621125c9b833e9add58d7f66b025c400a0d94b013231",
+    "dataset_roles.csv": "cb265923669e02a75edd8bde96c4906ca86352ca468ea30cec3fde55ae957d0e",
+    "layout_storage.csv": "7c640800b200f3ff49844778ed93c59320c0dce1d4b3c37913589177a149375b",
+    "rule_replay.csv": "e28c16f2938a4137e08a27fac9e1ae9d5fe16d570db5f40aa2a76422dfd6d3ea",
+    "rule_sensitivity.csv": "e6ee1c4afd17dc60910da3d3d964ca22621388547938f55a535b65a94cab75e8",
+    "source_inventory.csv": "b13ad07120f0c23f2491ab0bdb4daf05fa2558364ecde1d3037edd991a18dc43"
+  }
+}

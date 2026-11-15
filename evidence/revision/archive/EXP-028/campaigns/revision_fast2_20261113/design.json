@@ -1,0 +1,93 @@
+{
+  "profile": "revision_fast2_20261113",
+  "created_utc": "2026-11-13T06:39:25.481670+00:00",
+  "started_utc": "2026-11-13T06:15:17+00:00",
+  "old_design": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/design.json",
+    "bytes": 50628,
+    "sha256": "b853ad0fd56e2adad5475f3f7e5935cac770afb9288b69daaaabf128b5dcb602"
+  },
+  "prior_independent_audit": {
+    "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/post_deadline_independent_audit.json",
+    "bytes": 12400,
+    "sha256": "08b8caca9d7a2abe3f5c242455fe48145dd17703a709c09745140ebf2a0a1410"
+  },
+  "tests": {
+    "path": "evidence/revision/archive/EXP-028/validation/fast2_tests.json",
+    "bytes": 1745,
+    "sha256": "a0449eeb0c68ae2b08e64d2103f1186c6b12281782255b965c644d16a5ba455e"
+  },
+  "smoke": {
+    "path": "evidence/revision/archive/EXP-028/validation/fast2_smoke.json",
+    "bytes": 1059,
+    "sha256": "3a2c7347f8daa6448666f6374d1816d403481baae1de818c2a9422c48caf3938"
+  },
+  "source_manifest": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/source_manifest.json",
+    "bytes": 7329,
+    "sha256": "4f416c21bea05a2fbfc77c7e482ac4d3fd421f66b85490d5b95e420f1314496f"
+  },
+  "schedules": {
+    "baseline_D2_b00": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/schedules/baseline_D2_b00.json",
+      "bytes": 179821,
+      "sha256": "ffcc4175a0dd15b4e8948febaac712c390bf3b5e783de47332426de1e3e61f54"
+    },
+    "baseline_D2_b01": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/schedules/baseline_D2_b01.json",
+      "bytes": 179821,
+      "sha256": "a7a125a95f93be7d5c75366521f201626224c605eb45b38a810eb30aeed86c54"
+    },
+    "baseline_D1_b01": {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/schedules/baseline_D1_b01.json",
+      "bytes": 179821,
+      "sha256": "85ea79ce747085567abd2faf30e49d0b750fff46d3c06f95f010c13daed8e803"
+    }
+  },
+  "jobs": [
+    {
+      "id": "baseline_D2_b00",
+      "kind": "baseline",
+      "dataset": "D2",
+      "block": 0,
+      "scheduling_seconds": 23207.283399557695
+    },
+    {
+      "id": "baseline_D2_b01",
+      "kind": "baseline",
+      "dataset": "D2",
+      "block": 1,
+      "scheduling_seconds": 23207.283399557695
+    },
+    {
+      "id": "baseline_D1_b01",
+      "kind": "baseline",
+      "dataset": "D1",
+      "block": 1,
+      "scheduling_seconds": 23153.987511600542
+    }
+  ],
+  "fast_code": {
+    "fast2_support.py": "cb438b0918e6248a38031b99563b17a58f37e556cde3873d0cd0d0b3f3380ba1",
+    "fast2_run.py": "9618b44af5552f4eb6dcfab5c7d490d0b3716cc061a83e40b3d951ea624a252e",
+    "fast2_analysis.py": "cf929ab33f5c46dcc4ab27886cc01459d3f09f8f388f70f7e6972268484b7c84",
+    "fast2_verify.py": "3bdde1d347f7ea5d8e6d94862a3532977c3c53468b0ca8e45b109da150fa49ce",
+    "fast2_report.py": "d44734c0ebd295e4a4040fa557d196f484b7176876604f5ad8d14114645dda9c"
+  },
+  "time_policy": "explicit_user_fast2_24h_active",
+  "active_budget_seconds": 86400,
+  "measurement_budget_seconds": 75600,
+  "scheduled_block_limit": 25200,
+  "recovery_round_limit": 7200,
+  "original_runtime_code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "layouts.py": "05a8445e5ef74ee72748f043d2667b747952bb4984bf5cd646c9551db99b82da",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "construction.py": "96b8cf54b9c9c489701d13860562b4c01344bfa88a7cb050034b737e6cc21747",
+    "campaign.py": "87464c99b274f3a307b8ebdc0334ee91b7eb3d293d4fd93f4e658621c81495a5"
+  },
+  "instruction": "按全请求两区组方案追加三个区组；断网继续；暂停在当前七路径请求组完成后确认，暂停时间顺延；仅用户恢复命令恢复。",
+  "changed_scope": "Parser comparison has two logical paired blocks per dataset; existing layout experiments and builds retain six blocks."
+}

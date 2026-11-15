@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "composite_development",
+  "run_id": "development_combined_20261109",
+  "source_manifest": {
+    "path": "historical/EXP-027/validation/development_coverage_20261108.json",
+    "bytes": 1783543,
+    "sha256": "c871428eb9851795438ef5a246b2a523073c8dd4fa04467654c7a2dfe38e6fb5"
+  },
+  "created": "2026-11-09T06:17:11.863364+00:00"
+}

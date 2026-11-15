@@ -1,0 +1,11 @@
+{
+  "all_passed": true,
+  "formal_calls": 4536,
+  "warmup_calls": 1512,
+  "timings": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/baseline_D1_b00/timings.jsonl",
+    "bytes": 6308131,
+    "sha256": "88e9407e469f7ef17b35522a1b50654ca6e98df3119a38556bf76d10eeb0bb83"
+  },
+  "unique_call_keys": 6048
+}

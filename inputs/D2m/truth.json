@@ -1,0 +1,290 @@
+{
+  "d091_q1_FAIR": {
+    "rows": 2678,
+    "sha256": "a12a5df2ebdab669bace2205d110c72b5c602013eb835139c114ae51fcd8d11b"
+  },
+  "d091_q1_NYA2": {
+    "rows": 3154,
+    "sha256": "5092b8797b46a2e8957179f6aaa2f2c6db0b85e3abee1926f132db8fc532f377"
+  },
+  "d091_q1_REYK": {
+    "rows": 2856,
+    "sha256": "68c4ab60bd1bb082bda9228b62863e04820108db18e981c2c741502c45434583"
+  },
+  "d091_q1_DUBO": {
+    "rows": 1629,
+    "sha256": "c5edbd26b4d12b76674f64ba7278d3268e7cce24cc6e22c2e7f7e660b0855570"
+  },
+  "d091_q1_ALBH": {
+    "rows": 1598,
+    "sha256": "9f609b3c19921404c88490d937769d244e0e5b690e1dc11e03706875335fd43c"
+  },
+  "d091_q1_MAS1": {
+    "rows": 2996,
+    "sha256": "3a71b97b6a4071a963c34752d480a62f3842b0695135f145e45e07195af2e185"
+  },
+  "d091_q2_FAIR": {
+    "rows": 960,
+    "sha256": "69e2f64c48b430e03bc8deb00810e018823f9d4d06cfb41f118ae1be829671c3"
+  },
+  "d091_q2_NYA2": {
+    "rows": 1097,
+    "sha256": "0bc10283d91e862ba77d9bfbd6ae6815b52a299f0b7a0a6ba8abda5454803654"
+  },
+  "d091_q2_REYK": {
+    "rows": 977,
+    "sha256": "7b7aae464cc51eb8e3724c320dd07507c61a9d18ff6bbd0c3fc1b71af1346147"
+  },
+  "d091_q2_DUBO": {
+    "rows": 821,
+    "sha256": "d745c2d42ff79a1f99cfff0377491fea6a560a4dca5f1b59069a4fa20e6bf863"
+  },
+  "d091_q2_ALBH": {
+    "rows": 969,
+    "sha256": "62ebad6d896beb7d255b38cdd2483927046c3e2f5df7d1713ffbcbd77a280567"
+  },
+  "d091_q2_MAS1": {
+    "rows": 1080,
+    "sha256": "f731acbf7ec2ba0f801fbd62d59a221bdc19e604c621f0c1f0d883bc64582c80"
+  },
+  "d091_q3_FAIR": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d091_q3_NYA2": {
+    "rows": 170,
+    "sha256": "b98c9ca3b38e28b2346f71b325005c90fe53a668a692b027e7f109d35bc3a7ab"
+  },
+  "d091_q3_REYK": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d091_q3_DUBO": {
+    "rows": 228,
+    "sha256": "62f3cc470b2afe0df0d1209dd074898257e416455271ea3935ecc2ac7576714e"
+  },
+  "d091_q3_ALBH": {
+    "rows": 240,
+    "sha256": "80721e7002fa54e3599fc350d5b61a88a9d537af36926e6c43b63f72f233aae9"
+  },
+  "d091_q3_MAS1": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d091_q4_FAIR": {
+    "rows": 69498,
+    "sha256": "926d8aa8cb00028c6230ca27551383ec1b24515f2ff0653befa2d7c3dd3eb1e0"
+  },
+  "d091_q4_NYA2": {
+    "rows": 69954,
+    "sha256": "cf72447a74ef910140d60f1efa1f517591f4399ce75357fb0326026517a25bd4"
+  },
+  "d091_q4_REYK": {
+    "rows": 70130,
+    "sha256": "fd42da6c7f656d422ffd6e09995effcb73d16c917f366f777be50b9124fc7d47"
+  },
+  "d091_q4_DUBO": {
+    "rows": 48175,
+    "sha256": "7b1e6011ce911490d89fb40efe1f810938e6091b709601a99988fd133c04c4b4"
+  },
+  "d091_q4_ALBH": {
+    "rows": 50935,
+    "sha256": "77bc52439d38b0359ea4a4cf71afb561454ea7cdf3b95e823a73414d20b4b138"
+  },
+  "d091_q4_MAS1": {
+    "rows": 51899,
+    "sha256": "916ad4797fb5033126f5a20880c0aa57966a7ec7102b469794568203ced8b3e0"
+  },
+  "d091_q5_FAIR": {
+    "rows": 128649,
+    "sha256": "4b61137fa4f2f581ea068eec49fa93c9916f372ee01d35ba92bbbb965c2cc9af"
+  },
+  "d091_q5_NYA2": {
+    "rows": 149587,
+    "sha256": "ae0176d849adeb88d393ebe5f5bb05ece76428d4b9231f2e31fcb1a2d6f0fd5a"
+  },
+  "d091_q5_REYK": {
+    "rows": 134481,
+    "sha256": "145560caf549b7213040a0ca791b0a8c3ea5fa49a3f4ad903f20cfa01a377ffe"
+  },
+  "d091_q5_DUBO": {
+    "rows": 79378,
+    "sha256": "4bd80c02aa793732ec4324dcc3bac924430113bcfc3004679d05846366638928"
+  },
+  "d091_q5_ALBH": {
+    "rows": 80110,
+    "sha256": "5f9b8ec87280390fcdfa257313e833b3d7bed61b506d22f8f574b55505e79b42"
+  },
+  "d091_q5_MAS1": {
+    "rows": 137976,
+    "sha256": "b78ba3bcf6da3ac4166083ffd6024182a7ae1c62906eb1a293bd9d00042a334b"
+  },
+  "d091_q6_FAIR": {
+    "rows": 5322,
+    "sha256": "ad4ad2a11a368e3ed9c7b122d9195b7ef261b7f75e98b5b9f42d9ee7cb08cc5a"
+  },
+  "d091_q6_NYA2": {
+    "rows": 5459,
+    "sha256": "274c878099dc3e97871a850dc58f8d0f86e9d10f044c97216604b95bb6b2acc6"
+  },
+  "d091_q6_REYK": {
+    "rows": 4890,
+    "sha256": "a678da35455acdd280f4376b5082c91a43a8f5f018b018ff03f4826a835497b4"
+  },
+  "d091_q6_DUBO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d091_q6_ALBH": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d091_q6_MAS1": {
+    "rows": 4073,
+    "sha256": "f0d9b4ee7679a3030af23d1d3d4d47ac855ab59d9cadea0bc5bc1185972959aa"
+  },
+  "d094_q1_FAIR": {
+    "rows": 2843,
+    "sha256": "e390b608e89c881d44779d428581d402014281b3ee8aae30e58ab309023daa97"
+  },
+  "d094_q1_NYA2": {
+    "rows": 3294,
+    "sha256": "a699ca26cedb78e3990881eb55427abc00a9ba1b0e688bda086d0e85b3fc3657"
+  },
+  "d094_q1_REYK": {
+    "rows": 2897,
+    "sha256": "666b55ff08acc9b9ddd8c7538848713c90d6df91ad2a6daad0b45929dde92e7b"
+  },
+  "d094_q1_DUBO": {
+    "rows": 1584,
+    "sha256": "82ae25fe4550fc29df25a1ec6bd2f80e8855e8d85b5a35f08c0e36ac0543f25f"
+  },
+  "d094_q1_ALBH": {
+    "rows": 1706,
+    "sha256": "a20a9c2e56963e6dcdc41f7ef514cf3f2eb2e84c39955c7157bddf2e46cd097d"
+  },
+  "d094_q1_MAS1": {
+    "rows": 3287,
+    "sha256": "3adefcb659e494c58bd6361d0bae5cf59e13c6d225de6b264dba97578b179058"
+  },
+  "d094_q2_FAIR": {
+    "rows": 1015,
+    "sha256": "7119ad664167764586651936940343189d2435bf3b04d48582d57002cff24142"
+  },
+  "d094_q2_NYA2": {
+    "rows": 1106,
+    "sha256": "bf89261f05f028cec97edc40732df37b2bfe3197b90cfbd6e3a7a6f85d7a19c0"
+  },
+  "d094_q2_REYK": {
+    "rows": 969,
+    "sha256": "319902389bd1f32a050ddd5ff6c94493226f36499fad1c99e0e99b200b1d66dd"
+  },
+  "d094_q2_DUBO": {
+    "rows": 823,
+    "sha256": "68fb6186d96beaaa312761e1b3ce6b4215d2653721992f515a9322715205b5fc"
+  },
+  "d094_q2_ALBH": {
+    "rows": 957,
+    "sha256": "e0081495686bc066f90e61c799107a1943696e1328753a6aa3df9989e3722e3c"
+  },
+  "d094_q2_MAS1": {
+    "rows": 1065,
+    "sha256": "4d54b2c62eacfe75f1c70b4a30d132732cb464eafe8ce1cc0dc7edb24e9fcb07"
+  },
+  "d094_q3_FAIR": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d094_q3_NYA2": {
+    "rows": 146,
+    "sha256": "4506b2e7fe0905fea6ffda76a582ccd012e00b695ea857b34c20b2eb4ea3412a"
+  },
+  "d094_q3_REYK": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d094_q3_DUBO": {
+    "rows": 190,
+    "sha256": "378be2d3de28cf22789fe3cc3963e2b8731084f872af160b776a71dabad1ddf1"
+  },
+  "d094_q3_ALBH": {
+    "rows": 240,
+    "sha256": "85fc138e46c9dce2f57227cc63565548e4a33ef99974bc1b0725360cb0cf0a12"
+  },
+  "d094_q3_MAS1": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d094_q4_FAIR": {
+    "rows": 72167,
+    "sha256": "c6baa33067d775f0b994fda3134cb497cced385132ee0812aaf47c092a5b0fdf"
+  },
+  "d094_q4_NYA2": {
+    "rows": 71193,
+    "sha256": "616a8200360b612140ccac1ec88cdac7bab5f247f565fbc28926b3e6ed9a1fbe"
+  },
+  "d094_q4_REYK": {
+    "rows": 68716,
+    "sha256": "83955c00b0836d419fb95312482d55633a8d462940523c18468dab8311f56129"
+  },
+  "d094_q4_DUBO": {
+    "rows": 49123,
+    "sha256": "713153074c769da4f9c2e9bedf3e1d29016d45bf0cf5be43c39fe1b9415c5fe7"
+  },
+  "d094_q4_ALBH": {
+    "rows": 52953,
+    "sha256": "d5a27a91163d1cb12e17655f6f1c32cc83b9590c8b9eaf61fdc4532b0200fcbb"
+  },
+  "d094_q4_MAS1": {
+    "rows": 54126,
+    "sha256": "38e095367e7f7e123d18447dc32648aeacfb433f8c4fccd1ed377acf8423f4f4"
+  },
+  "d094_q5_FAIR": {
+    "rows": 129203,
+    "sha256": "04c645d6c93732288d5ac8d3fadbdb826e6141ad6a1b83e89587e6de47f54366"
+  },
+  "d094_q5_NYA2": {
+    "rows": 150526,
+    "sha256": "48fbe090f53ffe99d448dfcc029597f3edec87741be6bb6294f82523ff15875a"
+  },
+  "d094_q5_REYK": {
+    "rows": 136033,
+    "sha256": "89d3bf5cc527356c0cdfd8168d831b7d797be38044012e0851674376ed385910"
+  },
+  "d094_q5_DUBO": {
+    "rows": 78383,
+    "sha256": "75f58b76a49963319253dd52d30a0bbf7412a4951b3d5f5b14c0516db5cf4dc6"
+  },
+  "d094_q5_ALBH": {
+    "rows": 80148,
+    "sha256": "d8ab97f2494b31f0c15b26b003523021bfc8e1c7844682c2e5339bf5c2893c8a"
+  },
+  "d094_q5_MAS1": {
+    "rows": 143062,
+    "sha256": "3c36600557006ebe5647f26842896844bc24f18744a908bdf9f849903cd84bfe"
+  },
+  "d094_q6_FAIR": {
+    "rows": 5703,
+    "sha256": "296a8f91aa552724f86df224e6a02d1377887ff82361bd4e0b5a983f9595380e"
+  },
+  "d094_q6_NYA2": {
+    "rows": 5642,
+    "sha256": "e49d7dcf8d0eb56b591df24b25ebaa7b745ebb85af9454875e198279a3901c1c"
+  },
+  "d094_q6_REYK": {
+    "rows": 4627,
+    "sha256": "3fc39a2ef693936888abd6d6ee907e539a7c19af468298a46e0bcb21c8a0a6be"
+  },
+  "d094_q6_DUBO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d094_q6_ALBH": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d094_q6_MAS1": {
+    "rows": 5400,
+    "sha256": "a58cb19e17289b52b526e98a579c7476fc7e1848d042fb5654f12f84a3444136"
+  }
+}

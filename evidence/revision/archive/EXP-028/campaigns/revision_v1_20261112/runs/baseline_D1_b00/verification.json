@@ -1,0 +1,37 @@
+{
+  "all_passed": true,
+  "formal_calls": 4536,
+  "warmup_calls": 1512,
+  "elapsed_seconds": 18947.139897199988,
+  "code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "layouts.py": "05a8445e5ef74ee72748f043d2667b747952bb4984bf5cd646c9551db99b82da",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "construction.py": "96b8cf54b9c9c489701d13860562b4c01344bfa88a7cb050034b737e6cc21747",
+    "campaign.py": "87464c99b274f3a307b8ebdc0334ee91b7eb3d293d4fd93f4e658621c81495a5"
+  },
+  "ended_utc": "2026-11-12T23:15:42.560635+00:00",
+  "time_policy": "explicit_user_until_1100_20261113",
+  "execution_session": "resume_until_1100_20261113",
+  "authorization": {
+    "path": "evidence/revision/archive/EXP-028/sessions/resume_until_1100_20261113/authorization.json",
+    "bytes": 11652,
+    "sha256": "276f43bdb8ba9746263db944871c24926c15d5949935b7a4172f7cfb29e9226b"
+  },
+  "session_wrapper": {
+    "path": "evidence/revision/archive/EXP-028/resume_until_1100_20261113.py",
+    "bytes": 19748,
+    "sha256": "edfa721cd4ad93a318352076fef52b60d30056699d16cd1bf3cc334b14a0bed9"
+  },
+  "started_utc": "2026-11-12T17:59:48.208822+00:00",
+  "process": {
+    "pid": 78024,
+    "created": 1794506387.7026832,
+    "executable": "external/python.exe"
+  },
+  "dataset": "D1",
+  "block": 0,
+  "purpose": "formal"
+}

@@ -1,0 +1,39 @@
+{
+  "utc": "2026-11-13T13:02:30.309266+00:00",
+  "complete": false,
+  "checked_formal_calls": 6307,
+  "checked_planned_warmup_calls": 3024,
+  "prior_builds": 204,
+  "jobs": [
+    {
+      "job": "baseline_D2_b00",
+      "committed_groups": 469,
+      "formal": 1771,
+      "warmup": 1512,
+      "complete_block": false,
+      "checkpoint_hashes_passed": true
+    },
+    {
+      "job": "baseline_D2_b01",
+      "committed_groups": 0,
+      "formal": 0,
+      "warmup": 0,
+      "complete_block": false,
+      "checkpoint_hashes_passed": true
+    },
+    {
+      "job": "baseline_D1_b01",
+      "committed_groups": 0,
+      "formal": 0,
+      "warmup": 0,
+      "complete_block": false,
+      "checkpoint_hashes_passed": true
+    }
+  ],
+  "problem": {
+    "utc": "2026-11-13T13:02:29.871359+00:00",
+    "job": "baseline_D2_b00",
+    "traceback": "Traceback (most recent call last):\n  File \"EXP-028\\fast2_run.py\", line 270, in supervise\n    if total>=limit:kill_tree(child);raise TimeoutError('Frozen phase timeout')\n                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: Frozen phase timeout\n",
+    "active_seconds": 23045.200091000002
+  }
+}

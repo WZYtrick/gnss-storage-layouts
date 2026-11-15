@@ -1,0 +1,9 @@
+{
+  "all_passed": true,
+  "configurations": 34,
+  "note": "sources.json and catalog.json provide reader/source metadata; layout.json and boundary_plan.json retain construction/intervention provenance. Frozen selection costs include all retained files and are unchanged.",
+  "files": {
+    "metadata_breakdown.csv": "fc86f8e1ef9c6ace2ddaf71b447a23f13688e1ca20ec464241839cdc2a144052",
+    "metadata_files.csv": "23ddccc26f316a68383c29c4da769ec9b59db6648f3550c331836f8b15b48b50"
+  }
+}

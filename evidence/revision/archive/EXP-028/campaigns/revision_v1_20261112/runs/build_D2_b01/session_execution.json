@@ -1,0 +1,24 @@
+{
+  "all_passed": true,
+  "session": "construction_one_hour_20261113_v3",
+  "job": {
+    "id": "build_D2_b01",
+    "kind": "construction",
+    "dataset": "D2",
+    "block": 1,
+    "scheduling_seconds": 711.9067720797378
+  },
+  "started_utc": "2026-11-12T16:37:03.063572+00:00",
+  "ended_utc": "2026-11-12T16:43:31.518467+00:00",
+  "process": {
+    "pid": 74484,
+    "created": 1794501422.5091944,
+    "executable": "external/python.exe"
+  },
+  "time_policy": "explicit_user_one_hour_20261113",
+  "authorization": {
+    "path": "evidence/revision/archive/EXP-028/sessions/construction_one_hour_20261113_v3/authorization.json",
+    "bytes": 5646,
+    "sha256": "1a6a70be277d14821a6cd5690564e858cab25592b1afc117d8b34821c7012997"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "all_passed": true,
+  "started_utc": "2026-11-13T17:55:51.441799+00:00",
+  "ended_utc": "2026-11-13T17:55:58.387213+00:00",
+  "checks": 60,
+  "purpose": "Synthetic tests, not measured evidence",
+  "fixture_directory": "evidence/revision/archive/EXP-028/validation/fast2b_fixture_20261114_015551_441799",
+  "figure_directory": "evidence/revision/archive/EXP-028/validation/fast2b_fixture_20261114_015551_441799/statistics/analysis",
+  "fast_code": {
+    "fast2b_support.py": "505daf083264ac0cda79018077727bfe5ce7b1860e7b832fe784921f5da2baaa",
+    "fast2b_run.py": "eb2eadf8fc3795d04c41916f126db217a70952da54508066f792dbb6b224a056",
+    "fast2b_analysis.py": "c27e41bc63248fa510fd8b20108415ad86c4642ee960ff46e7a0f67128f21f62",
+    "fast2b_verify.py": "b94a7f3d78467b4e38f8a095a6d7f0eb9f31aba8705ea13c5db1e65995aa76e8",
+    "fast2b_report.py": "5ec3d5c33c630f45454da4abb07f4e2407e94a603f84e02d8bd81640e13942c9",
+    "exp028_control.py": "130e6692ceac0557c6b5d1280916fba8db4e0054ab23065a507dd5fabffd6d55"
+  },
+  "unchanged_timing_engine_ast": true,
+  "unchanged_statistics_ast": true,
+  "coverage": [
+    "seven-method pause boundaries",
+    "recovery does not advance formal checkpoint",
+    "duplicate controls and exclusive lock",
+    "cross-version identities and policies",
+    "retrospective controller-observed termination",
+    "missing or corrupted proof rejected",
+    "owned-worker kill records controller evidence without forging finished.json",
+    "old 2/7/21-hour boundaries no longer interrupt",
+    "new total deadline still enforced",
+    "offline full statistics, independent recomputation and report"
+  ]
+}

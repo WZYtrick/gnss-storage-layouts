@@ -1,0 +1,8 @@
+{
+  "instruction": "用户确认全请求两区组；允许昼夜运行；聊天暂停在请求组完成后生效，暂停时间顺延；恢复预热计入预算。",
+  "profile": "revision_fast2_20261113",
+  "state": "preparing",
+  "implementation_started_utc": "2026-11-13T06:15:17+00:00",
+  "measurement_budget_seconds": 75600,
+  "active_budget_seconds": 86400
+}

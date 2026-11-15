@@ -1,0 +1,14 @@
+{
+  "all_passed": true,
+  "utc": "2026-11-14T20:10:17.484098+00:00",
+  "independent": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/independent_verification.json",
+    "bytes": 1346,
+    "sha256": "2937ea0708b2eb7909ebc66c7701311314c926a43d1c071291ac0c14119cfb9f"
+  },
+  "report": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/结果报告.md",
+    "bytes": 4660,
+    "sha256": "c583051565820c76920a2f17cbde772011523bb69198e9f7469866e8c3450e8c"
+  }
+}

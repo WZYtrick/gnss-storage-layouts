@@ -1,0 +1,24 @@
+{
+  "all_passed": true,
+  "purpose": "Read-only audit of inherited real evidence; no measurements repeated",
+  "started_utc": "2026-11-13T17:57:50.598065+00:00",
+  "ended_utc": "2026-11-13T17:58:11.140754+00:00",
+  "committed_groups": 469,
+  "scheduled_calls": 3283,
+  "formal_calls": 1771,
+  "planned_warmup_calls": 1512,
+  "recovery_complete_group_calls": 1470,
+  "excluded_partial_groups": [
+    {
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/segments/seg_0002/recovery/g000210.partial.jsonl",
+      "bytes": 3739,
+      "sha256": "d37641b33d158274285e6be3701278fe517fa47f01aa5d8a19d4c369e05f5b8a",
+      "reason": "incomplete recovery warmup group; not a formal sample"
+    }
+  ],
+  "two_provenance_validators_passed": true,
+  "checkpoint_bytes_preserved": true,
+  "previous_worker_finished_file_fabricated": false,
+  "new_measurement_deadline_Beijing": "2026-11-15T09:45:50+08:00",
+  "new_total_deadline_Beijing": "2026-11-15T12:45:50+08:00"
+}

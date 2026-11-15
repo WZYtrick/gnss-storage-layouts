@@ -1,0 +1,30 @@
+{
+  "all_passed": true,
+  "formal_calls": 4536,
+  "warmup_calls": 1512,
+  "dataset": "D1",
+  "block": 1,
+  "time_policy": "explicit_user_fast2_extended_20261114",
+  "design": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/design.json",
+    "bytes": 462384,
+    "sha256": "8fadf1fc60164c6edcef1d0605e4c04b465735055b352102345872490481813d"
+  },
+  "checkpoint": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/runs/baseline_D1_b01/checkpoint.json",
+    "bytes": 291258,
+    "sha256": "1a0b15927c594fb50f32d1510945cd536bdae12b840eb763728c53434541a3cc"
+  },
+  "ended_utc": "2026-11-14T20:09:24.543729+00:00",
+  "scheduled_seconds": 24937.712774700016,
+  "segments": 3,
+  "core_code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "layouts.py": "05a8445e5ef74ee72748f043d2667b747952bb4984bf5cd646c9551db99b82da",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "construction.py": "96b8cf54b9c9c489701d13860562b4c01344bfa88a7cb050034b737e6cc21747",
+    "campaign.py": "87464c99b274f3a307b8ebdc0334ee91b7eb3d293d4fd93f4e658621c81495a5"
+  }
+}

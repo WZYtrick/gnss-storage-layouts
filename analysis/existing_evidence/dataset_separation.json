@@ -1,0 +1,20 @@
+{
+  "all_passed": true,
+  "training_source_hashes": [
+    "6bfef42e092b11ccbfac69a1ca370cb726dbd24feba078417193ff7a7db99fad",
+    "9712a91026db61b9c041caddc9557cda0b6223e473327663aed48b869677e763",
+    "97fd5bd2b984e760e6634dfd4b988375d0453df0b0f3500d490054d6cdad62c0",
+    "b2c93f6afd5de3253372e02288be9fb26ab804df48444ba8cf501486a6715a43",
+    "b7373131afbd21f07a65d84500995a4bd5aeee2e6e23f4cdd3ec7237df782739",
+    "dd112157bfb9b5df0abbe67910763bfca76f761c6a874a95024d0f492db796ee"
+  ],
+  "selection_sha256": "10585eddb96fdb097d1c9d308a24930d9dfa5333ab216ee45512abf099a14fb5",
+  "selection_frozen_utc": "2026-10-27T02:39:27.133133+00:00",
+  "disjoint_groups": [
+    "training",
+    "D0m",
+    "D1",
+    "D2"
+  ],
+  "D2m_is_D2_subset": true
+}

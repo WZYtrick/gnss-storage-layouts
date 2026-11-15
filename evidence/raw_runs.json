@@ -1,0 +1,4142 @@
+[
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu16_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu04_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu04_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu04_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E1",
+    "cell": "E1_D1_cpu16_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E1_D1_cpu16_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E2_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E2",
+    "cell": "E2_D0m_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E2_D0m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_v1",
+    "time_policy": "original_night_23_07",
+    "recorded_session": "2026-11-03",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E3_D0m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E3",
+    "cell": "E3_D0m_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E3_D0m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E3_D0m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E4_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E4_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu01_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E4_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E4_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E4",
+    "cell": "E4_D1_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E4_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E4_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b00_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 1,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b01_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b01_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 2,
+    "source_run_id": "development_day_20261108",
+    "time_policy": "explicit_user_authorized_daytime",
+    "recorded_session": "authorized_daytime_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b02_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b02_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b03_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b04_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_dense",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D1",
+    "module": "E5",
+    "cell": "E5_D1_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "development_e5_tail_20261108",
+    "time_policy": "explicit_user_authorized_e5_tail",
+    "recorded_session": "authorized_e5_tail_20261108",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D1\\b05_E5_D1_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D1\\b05_E5_D1_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_ordered_dense",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E1",
+    "cell": "E1_D2_cpu01_unordered_dense",
+    "block": 5,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E1_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_confirmation_immediate_20261109",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_immediate_20261109",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E2_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E2",
+    "cell": "E2_D2m_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E2_D2m_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E3_D2m_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E3",
+    "cell": "E3_D2m_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E3_D2m_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E3_D2m_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 0,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b00_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 1,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b01_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b01_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 2,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b02_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b02_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 3,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b03_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 4,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b04_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_ordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu01_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_ordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_dense\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu01_unordered_arrow",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_arrow\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_arrow\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_arrow\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu01_unordered_arrow\\design.json"
+    }
+  },
+  {
+    "evidence": "D2",
+    "module": "E5",
+    "cell": "E5_D2_cpu08_ordered_dense",
+    "block": 5,
+    "source_run_id": "d2_extension_20261110",
+    "time_policy": "authorized_initial_window",
+    "recorded_session": "authorized_d2_extension_20261110",
+    "files": {
+      "timings.jsonl": "evidence\\raw\\D2\\b05_E5_D2_cpu08_ordered_dense\\timings.jsonl",
+      "environment.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_ordered_dense\\environment.json",
+      "verification.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_ordered_dense\\verification.json",
+      "design.json": "evidence\\raw\\D2\\b05_E5_D2_cpu08_ordered_dense\\design.json"
+    }
+  }
+]

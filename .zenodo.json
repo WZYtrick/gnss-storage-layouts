@@ -1,0 +1,38 @@
+{
+  "title": "Storage Layouts and Query Costs for Global Navigation Satellite System Observations",
+  "upload_type": "software",
+  "publication_date": "2026-11-15",
+  "version": "1.0.0",
+  "doi": "10.5281/zenodo.24241891",
+  "description": "Version 1.0.0 reproducibility archive for the GNSS storage-layout study. Includes the original six-block layout, mechanism and downstream-task experiments; the completed two-block-per-dataset GeoRinex comparison; and 204 fresh construction measurements (34 dataset/layout combinations, six repetitions each). Exact requests, source URLs and hashes, truth summaries, raw timing logs, frozen predictions, processed tables, figures and independent replay programs are included. The query supplement contains 18,144 formal calls, 6,048 planned warm-ups and 5,453 separately recorded recovery warm-ups. The original replay distinguishes 3,036 primary workload scenarios from 1,224 historical alpha scenarios. Original numeric results and frozen decisions are preserved. Raw source GNSS files are not redistributed; download and reconstruction instructions are provided. Code is licensed under MIT; original timing and derived data under CC BY 4.0. Upstream software retains its own licenses. AI tools assisted with writing portions of the code.",
+  "creators": [
+    {
+      "name": "Wang, Ziyou",
+      "affiliation": "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+    },
+    {
+      "name": "Zhao, Daiyan",
+      "affiliation": "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+    },
+    {
+      "name": "Liu, Lei",
+      "affiliation": "The 15th Research Institute of China Electronics Technology Group Corporation, Beijing 100083, China"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "GNSS",
+    "RINEX",
+    "Parquet",
+    "storage layouts",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/WZYtrick/gnss-storage-layouts",
+      "scheme": "url",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

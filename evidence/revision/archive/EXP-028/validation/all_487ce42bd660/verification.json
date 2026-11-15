@@ -1,0 +1,5199 @@
+{
+  "all_passed": true,
+  "mode": "all",
+  "queries": 864,
+  "elapsed_seconds": 9981.11472079996,
+  "code": {
+    "common.py": "b26de7fc3719139898697b0650a78ba64305e6c4052e8866e3a47bec1988aac7",
+    "storage.py": "e6f8e26667b452cb61627755b1c2996737d0752413a96a02dcb6e0422056219d",
+    "reader.py": "d58be60374252702c22e369c33c936a055eda4399a54d4057b79854e3edc0aa2",
+    "georinex_reader.py": "623ce16c7bd8bed66c190bced848f69d5d89f5dc2094c5a9593c52879c2e90a6",
+    "validate_baseline.py": "5e075c1631ee461074f6cb2b95f791ee38ca77dbefcf577acf6ab034d26536e7"
+  },
+  "records": [
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_ALIC",
+      "seconds": 1.4225109000108205
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_HOB2",
+      "seconds": 1.4441588000045158
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_DRAO",
+      "seconds": 0.6597756000119261
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_GRAZ",
+      "seconds": 1.0020350000122562
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_ZIMM",
+      "seconds": 0.18406589998630807
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q1_ONSA",
+      "seconds": 1.2537871999666095
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_ALIC",
+      "seconds": 0.22335430001839995
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_HOB2",
+      "seconds": 0.30894320004153997
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_DRAO",
+      "seconds": 0.4145505999913439
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_GRAZ",
+      "seconds": 0.35105210001347587
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_ZIMM",
+      "seconds": 0.40534629998728633
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q2_ONSA",
+      "seconds": 0.46297280001454055
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_ALIC",
+      "seconds": 0.014676499995402992
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_HOB2",
+      "seconds": 0.02971360000083223
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_DRAO",
+      "seconds": 0.023178700008429587
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_GRAZ",
+      "seconds": 0.7203797999536619
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_ZIMM",
+      "seconds": 0.485730100015644
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q3_ONSA",
+      "seconds": 0.7293382000061683
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_ALIC",
+      "seconds": 22.574394900002517
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_HOB2",
+      "seconds": 23.207432999974117
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_DRAO",
+      "seconds": 23.032831999997143
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_GRAZ",
+      "seconds": 13.431838800024707
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_ZIMM",
+      "seconds": 13.080877000000328
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q4_ONSA",
+      "seconds": 13.31398649996845
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_ALIC",
+      "seconds": 76.47443539998494
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_HOB2",
+      "seconds": 73.63512319995789
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_DRAO",
+      "seconds": 28.573616200010292
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_GRAZ",
+      "seconds": 40.188886200019624
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_ZIMM",
+      "seconds": 8.25605019996874
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q5_ONSA",
+      "seconds": 52.752763400028925
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_ALIC",
+      "seconds": 1.1888063000515103
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_HOB2",
+      "seconds": 1.2438736000331119
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_DRAO",
+      "seconds": 0.02531009999802336
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_GRAZ",
+      "seconds": 1.0275895000086166
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_ZIMM",
+      "seconds": 0.01592109998455271
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d275_q6_ONSA",
+      "seconds": 1.0624654000275768
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_ALIC",
+      "seconds": 1.5278342999517918
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_HOB2",
+      "seconds": 1.3921039000269957
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_DRAO",
+      "seconds": 0.6527370000258088
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_GRAZ",
+      "seconds": 1.037301899981685
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_ZIMM",
+      "seconds": 0.18266699998639524
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q1_ONSA",
+      "seconds": 1.3161659000325017
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_ALIC",
+      "seconds": 0.22412940004142
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_HOB2",
+      "seconds": 0.31725570000708103
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_DRAO",
+      "seconds": 0.4122071999590844
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_GRAZ",
+      "seconds": 0.3416659000213258
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_ZIMM",
+      "seconds": 0.40142110001761466
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q2_ONSA",
+      "seconds": 0.4800449999747798
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_ALIC",
+      "seconds": 0.013595699972938746
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_HOB2",
+      "seconds": 0.031229499960318208
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_DRAO",
+      "seconds": 0.022727300005499274
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_GRAZ",
+      "seconds": 0.7015061000129208
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_ZIMM",
+      "seconds": 0.49725329998182133
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q3_ONSA",
+      "seconds": 0.7397146000294015
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_ALIC",
+      "seconds": 22.35957570001483
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_HOB2",
+      "seconds": 22.809836000029463
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_DRAO",
+      "seconds": 22.85566000000108
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_GRAZ",
+      "seconds": 13.329107999976259
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_ZIMM",
+      "seconds": 13.256729300017469
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q4_ONSA",
+      "seconds": 13.420168399985414
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_ALIC",
+      "seconds": 73.27286690002074
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_HOB2",
+      "seconds": 72.99948029994266
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_DRAO",
+      "seconds": 28.487059900013264
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_GRAZ",
+      "seconds": 40.04998329997761
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_ZIMM",
+      "seconds": 8.448783200001344
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q5_ONSA",
+      "seconds": 51.991212099965196
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_ALIC",
+      "seconds": 1.183343699958641
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_HOB2",
+      "seconds": 1.207562500028871
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_DRAO",
+      "seconds": 0.02545080002164468
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_GRAZ",
+      "seconds": 1.0157663999707438
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_ZIMM",
+      "seconds": 0.017036199977155775
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d276_q6_ONSA",
+      "seconds": 1.0908385000075214
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_ALIC",
+      "seconds": 1.558191700023599
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_HOB2",
+      "seconds": 1.5415626000030898
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_DRAO",
+      "seconds": 0.5896879000356421
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_GRAZ",
+      "seconds": 1.017396000039298
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_ZIMM",
+      "seconds": 0.19451499998103827
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q1_ONSA",
+      "seconds": 1.3124709000112489
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_ALIC",
+      "seconds": 0.23408690001815557
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_HOB2",
+      "seconds": 0.3172260000137612
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_DRAO",
+      "seconds": 0.41208320000441745
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_GRAZ",
+      "seconds": 0.3679043000447564
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_ZIMM",
+      "seconds": 0.4086692000273615
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q2_ONSA",
+      "seconds": 0.4636054000002332
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_ALIC",
+      "seconds": 0.012810099986381829
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_HOB2",
+      "seconds": 0.028850500006228685
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_DRAO",
+      "seconds": 0.026423800038173795
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_GRAZ",
+      "seconds": 0.7101306000258774
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_ZIMM",
+      "seconds": 0.5074186000274494
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q3_ONSA",
+      "seconds": 0.728683799970895
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_ALIC",
+      "seconds": 22.449674299976323
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_HOB2",
+      "seconds": 22.86764019995462
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_DRAO",
+      "seconds": 22.80964049999602
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_GRAZ",
+      "seconds": 13.184538000030443
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_ZIMM",
+      "seconds": 12.927584999997634
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q4_ONSA",
+      "seconds": 13.279370100004598
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_ALIC",
+      "seconds": 72.83708099997602
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_HOB2",
+      "seconds": 73.38382109999657
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_DRAO",
+      "seconds": 28.308299400028773
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_GRAZ",
+      "seconds": 39.90175989997806
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_ZIMM",
+      "seconds": 8.277425199979916
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q5_ONSA",
+      "seconds": 53.5839893000084
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_ALIC",
+      "seconds": 1.1941460000234656
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_HOB2",
+      "seconds": 1.2872622999711893
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_DRAO",
+      "seconds": 0.024370099999941885
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_GRAZ",
+      "seconds": 0.9810889000073075
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_ZIMM",
+      "seconds": 0.015525499999057502
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d277_q6_ONSA",
+      "seconds": 1.0672122000250965
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_ALIC",
+      "seconds": 1.4581390999956056
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_HOB2",
+      "seconds": 1.4879284999915399
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_DRAO",
+      "seconds": 0.6160566000035033
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_GRAZ",
+      "seconds": 0.9399641999625601
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_ZIMM",
+      "seconds": 0.14872390002710745
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q1_ONSA",
+      "seconds": 1.308294000045862
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_ALIC",
+      "seconds": 0.24924600002123043
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_HOB2",
+      "seconds": 0.3149288999848068
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_DRAO",
+      "seconds": 0.42599609994795173
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_GRAZ",
+      "seconds": 0.36366370000177994
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_ZIMM",
+      "seconds": 0.378831000009086
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q2_ONSA",
+      "seconds": 0.469438900006935
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_ALIC",
+      "seconds": 0.013636100047733635
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_HOB2",
+      "seconds": 0.0292159000528045
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_DRAO",
+      "seconds": 0.024028899963013828
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_GRAZ",
+      "seconds": 0.736393200000748
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_ZIMM",
+      "seconds": 0.5236698999651708
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q3_ONSA",
+      "seconds": 0.7577085000229999
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_ALIC",
+      "seconds": 23.212533999991138
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_HOB2",
+      "seconds": 23.147730099968612
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_DRAO",
+      "seconds": 23.186570700025186
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_GRAZ",
+      "seconds": 13.262429800000973
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_ZIMM",
+      "seconds": 13.133337900042534
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q4_ONSA",
+      "seconds": 13.242022299964447
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_ALIC",
+      "seconds": 73.06768929999089
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_HOB2",
+      "seconds": 73.6966866000439
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_DRAO",
+      "seconds": 28.640409899991937
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_GRAZ",
+      "seconds": 39.97296919999644
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_ZIMM",
+      "seconds": 8.192089699965436
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q5_ONSA",
+      "seconds": 52.103661499975715
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_ALIC",
+      "seconds": 1.1692356999847107
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_HOB2",
+      "seconds": 1.2174190999940038
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_DRAO",
+      "seconds": 0.026520200015511364
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_GRAZ",
+      "seconds": 1.0042092999792658
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_ZIMM",
+      "seconds": 0.01617640000768006
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d278_q6_ONSA",
+      "seconds": 1.031281500007026
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_ALIC",
+      "seconds": 1.424703299999237
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_HOB2",
+      "seconds": 1.4743805000325665
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_DRAO",
+      "seconds": 0.616603699978441
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_GRAZ",
+      "seconds": 0.933961000002455
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_ZIMM",
+      "seconds": 0.16622780001489446
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q1_ONSA",
+      "seconds": 1.3019438000046648
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_ALIC",
+      "seconds": 0.21498559997417033
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_HOB2",
+      "seconds": 0.29720710002584383
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_DRAO",
+      "seconds": 0.39559280005050823
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_GRAZ",
+      "seconds": 0.35725110000930727
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_ZIMM",
+      "seconds": 0.3886134999920614
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q2_ONSA",
+      "seconds": 0.4780159000074491
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_ALIC",
+      "seconds": 0.012683400011155754
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_HOB2",
+      "seconds": 0.027928800031077117
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_DRAO",
+      "seconds": 0.024331299995537847
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_GRAZ",
+      "seconds": 0.7029546999838203
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_ZIMM",
+      "seconds": 0.47589020000305027
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q3_ONSA",
+      "seconds": 0.7583466999931261
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_ALIC",
+      "seconds": 22.28221899998607
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_HOB2",
+      "seconds": 22.96004959999118
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_DRAO",
+      "seconds": 22.593763199984096
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_GRAZ",
+      "seconds": 13.351898099994287
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_ZIMM",
+      "seconds": 13.7912917000358
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q4_ONSA",
+      "seconds": 13.561990400019567
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_ALIC",
+      "seconds": 74.86712619999889
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_HOB2",
+      "seconds": 77.92217239999445
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_DRAO",
+      "seconds": 28.694473800016567
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_GRAZ",
+      "seconds": 40.06695559999207
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_ZIMM",
+      "seconds": 8.185488299990539
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q5_ONSA",
+      "seconds": 52.24304139998276
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_ALIC",
+      "seconds": 1.1511508999974467
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_HOB2",
+      "seconds": 1.2304895999841392
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_DRAO",
+      "seconds": 0.02478589996462688
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_GRAZ",
+      "seconds": 0.9818929000175558
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_ZIMM",
+      "seconds": 0.014646099996753037
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d279_q6_ONSA",
+      "seconds": 1.059801299998071
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_ALIC",
+      "seconds": 1.3659345000050962
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_HOB2",
+      "seconds": 1.552215400035493
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_DRAO",
+      "seconds": 0.5879983000340872
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_GRAZ",
+      "seconds": 0.978978700004518
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_ZIMM",
+      "seconds": 0.17267329996684566
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q1_ONSA",
+      "seconds": 1.4193368999985978
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_ALIC",
+      "seconds": 0.22190250002313405
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_HOB2",
+      "seconds": 0.2966147999977693
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_DRAO",
+      "seconds": 0.4107296000001952
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_GRAZ",
+      "seconds": 0.34565969998948276
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_ZIMM",
+      "seconds": 0.4003080000402406
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q2_ONSA",
+      "seconds": 0.48072719998890534
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_ALIC",
+      "seconds": 0.011581400001887232
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_HOB2",
+      "seconds": 0.027774900023359805
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_DRAO",
+      "seconds": 0.023933499993290752
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_GRAZ",
+      "seconds": 0.7171413999749348
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_ZIMM",
+      "seconds": 0.5141129000112414
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q3_ONSA",
+      "seconds": 0.7460525999777019
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_ALIC",
+      "seconds": 22.115656300040428
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_HOB2",
+      "seconds": 22.548430599970743
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_DRAO",
+      "seconds": 22.74987489997875
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_GRAZ",
+      "seconds": 13.434286000032444
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_ZIMM",
+      "seconds": 13.183579300006386
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q4_ONSA",
+      "seconds": 13.38157200004207
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_ALIC",
+      "seconds": 73.20248739997623
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_HOB2",
+      "seconds": 74.52876770001603
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_DRAO",
+      "seconds": 29.02682770002866
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_GRAZ",
+      "seconds": 41.292418299999554
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_ZIMM",
+      "seconds": 8.338590600003954
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q5_ONSA",
+      "seconds": 59.949413599970285
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_ALIC",
+      "seconds": 1.2369950999855064
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_HOB2",
+      "seconds": 1.3457074000034481
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_DRAO",
+      "seconds": 0.02419780002674088
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_GRAZ",
+      "seconds": 1.0645348000107333
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_ZIMM",
+      "seconds": 0.015690699976403266
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_R",
+      "query": "d280_q6_ONSA",
+      "seconds": 1.1470982999890111
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_ALIC",
+      "seconds": 2.5361562000471167
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_HOB2",
+      "seconds": 2.4898319999920204
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_DRAO",
+      "seconds": 1.0841541000409052
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_GRAZ",
+      "seconds": 1.628387099946849
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_ZIMM",
+      "seconds": 0.29530649998923764
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q1_ONSA",
+      "seconds": 1.8352884000050835
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_ALIC",
+      "seconds": 2.6109671000158414
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_HOB2",
+      "seconds": 2.606028900016099
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_DRAO",
+      "seconds": 2.6925961999804713
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_GRAZ",
+      "seconds": 1.5793848999892361
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_ZIMM",
+      "seconds": 1.7300413000048138
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q2_ONSA",
+      "seconds": 1.9207004000199959
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_ALIC",
+      "seconds": 1.0919348999741487
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_HOB2",
+      "seconds": 1.0332494999747723
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_DRAO",
+      "seconds": 0.4883168999804184
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_GRAZ",
+      "seconds": 1.603327899996657
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_ZIMM",
+      "seconds": 0.7565687999594957
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q3_ONSA",
+      "seconds": 1.3402972999610938
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_ALIC",
+      "seconds": 26.134662800002843
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_HOB2",
+      "seconds": 25.015657200012356
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_DRAO",
+      "seconds": 24.588237399992067
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_GRAZ",
+      "seconds": 14.144875800004229
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_ZIMM",
+      "seconds": 14.017233899969142
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q4_ONSA",
+      "seconds": 14.162328100006562
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_ALIC",
+      "seconds": 72.08609190001152
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_HOB2",
+      "seconds": 72.88188090000767
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_DRAO",
+      "seconds": 28.590892300009727
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_GRAZ",
+      "seconds": 39.676899900019635
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_ZIMM",
+      "seconds": 8.107520600024145
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q5_ONSA",
+      "seconds": 51.64647699997295
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_ALIC",
+      "seconds": 2.17133050004486
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_HOB2",
+      "seconds": 2.148481299984269
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_DRAO",
+      "seconds": 0.43386310001369566
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_GRAZ",
+      "seconds": 1.5858182000229135
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_ZIMM",
+      "seconds": 0.11086700001033023
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d275_q6_ONSA",
+      "seconds": 1.629631599993445
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_ALIC",
+      "seconds": 2.502437200048007
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_HOB2",
+      "seconds": 2.2756448999862187
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_DRAO",
+      "seconds": 1.0333493000362068
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_GRAZ",
+      "seconds": 1.5893787000095472
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_ZIMM",
+      "seconds": 0.275280500005465
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q1_ONSA",
+      "seconds": 1.8776459000073373
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_ALIC",
+      "seconds": 2.6831678000162356
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_HOB2",
+      "seconds": 2.6562583000049926
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_DRAO",
+      "seconds": 2.7215549999964423
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_GRAZ",
+      "seconds": 1.598320099990815
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_ZIMM",
+      "seconds": 1.6863976000458933
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q2_ONSA",
+      "seconds": 1.6894993999740109
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_ALIC",
+      "seconds": 1.0039075000095181
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_HOB2",
+      "seconds": 0.9540371000184678
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_DRAO",
+      "seconds": 0.41123750002589077
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_GRAZ",
+      "seconds": 1.2322747000143863
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_ZIMM",
+      "seconds": 0.5647153000463732
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q3_ONSA",
+      "seconds": 1.3241068999632262
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_ALIC",
+      "seconds": 24.39355209999485
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_HOB2",
+      "seconds": 24.79929950000951
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_DRAO",
+      "seconds": 25.069410099997185
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_GRAZ",
+      "seconds": 14.358138400013559
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_ZIMM",
+      "seconds": 14.214798200002406
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q4_ONSA",
+      "seconds": 14.330501999997068
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_ALIC",
+      "seconds": 73.32045759999892
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_HOB2",
+      "seconds": 72.06711909995647
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_DRAO",
+      "seconds": 28.275868199998513
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_GRAZ",
+      "seconds": 39.53980120003689
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_ZIMM",
+      "seconds": 8.247492700000294
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q5_ONSA",
+      "seconds": 51.27755669999169
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_ALIC",
+      "seconds": 2.2461143000400625
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_HOB2",
+      "seconds": 2.2012355999904685
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_DRAO",
+      "seconds": 0.43527169997105375
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_GRAZ",
+      "seconds": 1.5947456000139937
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_ZIMM",
+      "seconds": 0.10572429996682331
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d276_q6_ONSA",
+      "seconds": 1.667118199984543
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_ALIC",
+      "seconds": 2.513684799952898
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_HOB2",
+      "seconds": 2.421757299976889
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_DRAO",
+      "seconds": 0.9319581000017934
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_GRAZ",
+      "seconds": 1.533118800027296
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_ZIMM",
+      "seconds": 0.2811339999898337
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q1_ONSA",
+      "seconds": 1.819913599989377
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_ALIC",
+      "seconds": 2.55059140000958
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_HOB2",
+      "seconds": 2.585381100012455
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_DRAO",
+      "seconds": 2.696572099986952
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_GRAZ",
+      "seconds": 1.5549008999951184
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_ZIMM",
+      "seconds": 1.6317236000322737
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q2_ONSA",
+      "seconds": 1.6314788999734446
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_ALIC",
+      "seconds": 1.0268105000141077
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_HOB2",
+      "seconds": 0.9619722000206821
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_DRAO",
+      "seconds": 0.4077705999952741
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_GRAZ",
+      "seconds": 1.2339165000012144
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_ZIMM",
+      "seconds": 0.5758541999966837
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q3_ONSA",
+      "seconds": 1.3287842000136152
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_ALIC",
+      "seconds": 24.465473799966276
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_HOB2",
+      "seconds": 24.929249799984973
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_DRAO",
+      "seconds": 24.516196099983063
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_GRAZ",
+      "seconds": 14.037551100016572
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_ZIMM",
+      "seconds": 13.962904299958609
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q4_ONSA",
+      "seconds": 14.30583279998973
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_ALIC",
+      "seconds": 71.93894140003249
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_HOB2",
+      "seconds": 73.31406010000501
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_DRAO",
+      "seconds": 27.956254700024147
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_GRAZ",
+      "seconds": 39.346555199997965
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_ZIMM",
+      "seconds": 8.102996599976905
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q5_ONSA",
+      "seconds": 50.68458619999001
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_ALIC",
+      "seconds": 2.124281399999745
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_HOB2",
+      "seconds": 2.1359596000402234
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_DRAO",
+      "seconds": 0.41689440002664924
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_GRAZ",
+      "seconds": 1.5283879000344314
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_ZIMM",
+      "seconds": 0.10524740000255406
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d277_q6_ONSA",
+      "seconds": 1.6306847999803722
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_ALIC",
+      "seconds": 2.4855988000053912
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_HOB2",
+      "seconds": 2.376289399981033
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_DRAO",
+      "seconds": 0.971101000031922
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_GRAZ",
+      "seconds": 1.4472089000046253
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_ZIMM",
+      "seconds": 0.23499269998865202
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q1_ONSA",
+      "seconds": 1.7887898999615572
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_ALIC",
+      "seconds": 2.5806191999581642
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_HOB2",
+      "seconds": 2.6629070000490174
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_DRAO",
+      "seconds": 2.772390500002075
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_GRAZ",
+      "seconds": 1.5972936999751255
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_ZIMM",
+      "seconds": 1.6080099000246264
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q2_ONSA",
+      "seconds": 1.663249800039921
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_ALIC",
+      "seconds": 1.027968000038527
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_HOB2",
+      "seconds": 0.9544217999791726
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_DRAO",
+      "seconds": 0.40966999996453524
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_GRAZ",
+      "seconds": 1.2542820000089705
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_ZIMM",
+      "seconds": 0.5469729999895208
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q3_ONSA",
+      "seconds": 1.3005303000099957
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_ALIC",
+      "seconds": 24.374213899951428
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_HOB2",
+      "seconds": 24.75390679994598
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_DRAO",
+      "seconds": 25.035457299964037
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_GRAZ",
+      "seconds": 14.203675099997781
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_ZIMM",
+      "seconds": 14.050595199980307
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q4_ONSA",
+      "seconds": 14.278011999966111
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_ALIC",
+      "seconds": 72.52628900000127
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_HOB2",
+      "seconds": 71.94182780000847
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_DRAO",
+      "seconds": 29.18357079999987
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_GRAZ",
+      "seconds": 40.93247259996133
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_ZIMM",
+      "seconds": 8.231641300022602
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q5_ONSA",
+      "seconds": 52.53885919996537
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_ALIC",
+      "seconds": 2.167475900030695
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_HOB2",
+      "seconds": 2.139739800011739
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_DRAO",
+      "seconds": 0.4083898999961093
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_GRAZ",
+      "seconds": 1.5570863999892026
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_ZIMM",
+      "seconds": 0.1122734000091441
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d278_q6_ONSA",
+      "seconds": 1.624127299990505
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_ALIC",
+      "seconds": 2.442736800003331
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_HOB2",
+      "seconds": 2.4235000999760814
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_DRAO",
+      "seconds": 1.037758600024972
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_GRAZ",
+      "seconds": 1.458297599980142
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_ZIMM",
+      "seconds": 0.24854489997960627
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q1_ONSA",
+      "seconds": 1.8524102999945171
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_ALIC",
+      "seconds": 2.6118856000248343
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_HOB2",
+      "seconds": 2.692247300001327
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_DRAO",
+      "seconds": 2.7495733000105247
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_GRAZ",
+      "seconds": 1.607599399983883
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_ZIMM",
+      "seconds": 1.637397399987094
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q2_ONSA",
+      "seconds": 1.6952257999801077
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_ALIC",
+      "seconds": 1.0361883000005037
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_HOB2",
+      "seconds": 0.9791663000360131
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_DRAO",
+      "seconds": 0.4238107000128366
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_GRAZ",
+      "seconds": 1.2431011999724433
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_ZIMM",
+      "seconds": 0.563796199974604
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q3_ONSA",
+      "seconds": 1.321762999985367
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_ALIC",
+      "seconds": 24.292049599986058
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_HOB2",
+      "seconds": 24.72256790002575
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_DRAO",
+      "seconds": 24.70491759997094
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_GRAZ",
+      "seconds": 14.396177699964028
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_ZIMM",
+      "seconds": 14.402238300011959
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q4_ONSA",
+      "seconds": 14.226302600000054
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_ALIC",
+      "seconds": 72.20175810001092
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_HOB2",
+      "seconds": 73.0689031999791
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_DRAO",
+      "seconds": 28.480395700025838
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_GRAZ",
+      "seconds": 39.575148900039494
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_ZIMM",
+      "seconds": 8.152054199948907
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q5_ONSA",
+      "seconds": 52.50529209995875
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_ALIC",
+      "seconds": 2.1589052999624982
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_HOB2",
+      "seconds": 2.1445355000323616
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_DRAO",
+      "seconds": 0.4141795000177808
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_GRAZ",
+      "seconds": 1.5650547000113875
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_ZIMM",
+      "seconds": 0.10820240003522485
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d279_q6_ONSA",
+      "seconds": 1.6150689999922179
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_ALIC",
+      "seconds": 2.339361699996516
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_HOB2",
+      "seconds": 2.443818499974441
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_DRAO",
+      "seconds": 0.9487660999875516
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_GRAZ",
+      "seconds": 1.4157958999858238
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_ZIMM",
+      "seconds": 0.26589569996576756
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q1_ONSA",
+      "seconds": 1.9619851999450475
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_ALIC",
+      "seconds": 2.567595499975141
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_HOB2",
+      "seconds": 2.6136163999908604
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_DRAO",
+      "seconds": 2.7292828999925405
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_GRAZ",
+      "seconds": 1.6035974000114948
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_ZIMM",
+      "seconds": 1.6221359000192024
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q2_ONSA",
+      "seconds": 1.715898800001014
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_ALIC",
+      "seconds": 1.01272290002089
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_HOB2",
+      "seconds": 0.9693275000317954
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_DRAO",
+      "seconds": 0.4197169999824837
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_GRAZ",
+      "seconds": 1.2526050999877043
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_ZIMM",
+      "seconds": 0.5682222999748774
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q3_ONSA",
+      "seconds": 1.365326900035143
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_ALIC",
+      "seconds": 23.726496200019028
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_HOB2",
+      "seconds": 24.01495470001828
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_DRAO",
+      "seconds": 24.425194600014947
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_GRAZ",
+      "seconds": 14.208060399978422
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_ZIMM",
+      "seconds": 13.985384300001897
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q4_ONSA",
+      "seconds": 14.469083899981342
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_ALIC",
+      "seconds": 74.75576670002192
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_HOB2",
+      "seconds": 75.00527400005376
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_DRAO",
+      "seconds": 27.894755899964366
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_GRAZ",
+      "seconds": 39.39676650002366
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_ZIMM",
+      "seconds": 8.142819900007453
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q5_ONSA",
+      "seconds": 51.70945899997605
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_ALIC",
+      "seconds": 2.104139100003522
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_HOB2",
+      "seconds": 2.111833499977365
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_DRAO",
+      "seconds": 0.411226500000339
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_GRAZ",
+      "seconds": 1.5537811999674886
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_ZIMM",
+      "seconds": 0.10814849997404963
+    },
+    {
+      "dataset": "D1",
+      "method": "GeoRinex_H",
+      "query": "d280_q6_ONSA",
+      "seconds": 1.6585390000254847
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_FAIR",
+      "seconds": 0.9479213000158779
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_NYA2",
+      "seconds": 1.5265769000397995
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_REYK",
+      "seconds": 1.343503599986434
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_DUBO",
+      "seconds": 0.7067922999849543
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_ALBH",
+      "seconds": 0.6662108000018634
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q1_MAS1",
+      "seconds": 1.4814280000282452
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_FAIR",
+      "seconds": 0.21053619997110218
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_NYA2",
+      "seconds": 0.3061592999729328
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_REYK",
+      "seconds": 0.3892816000152379
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_DUBO",
+      "seconds": 0.3591343999723904
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_ALBH",
+      "seconds": 0.39057440002216026
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q2_MAS1",
+      "seconds": 0.44826080003986135
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_FAIR",
+      "seconds": 0.00874900002963841
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_NYA2",
+      "seconds": 0.7432120000012219
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_REYK",
+      "seconds": 0.032796200015582144
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_DUBO",
+      "seconds": 0.6225827999878675
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_ALBH",
+      "seconds": 0.6037992999772541
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q3_MAS1",
+      "seconds": 0.07704870001180097
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_FAIR",
+      "seconds": 21.72970670001814
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_NYA2",
+      "seconds": 22.10217470000498
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_REYK",
+      "seconds": 23.144756499968935
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_DUBO",
+      "seconds": 15.293999999994412
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_ALBH",
+      "seconds": 15.534361999947578
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q4_MAS1",
+      "seconds": 15.83489360002568
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_FAIR",
+      "seconds": 52.65247229998931
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_NYA2",
+      "seconds": 65.94991920003667
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_REYK",
+      "seconds": 55.608024399960414
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_DUBO",
+      "seconds": 28.95349390001502
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_ALBH",
+      "seconds": 29.152595999999903
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q5_MAS1",
+      "seconds": 61.93962460005423
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_FAIR",
+      "seconds": 0.9143974999897182
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_NYA2",
+      "seconds": 1.1005008000065573
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_REYK",
+      "seconds": 0.9627974000177346
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_DUBO",
+      "seconds": 0.031594300002325326
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_ALBH",
+      "seconds": 0.043836699973326176
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d091_q6_MAS1",
+      "seconds": 1.1574751999578439
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_FAIR",
+      "seconds": 0.9598424999858253
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_NYA2",
+      "seconds": 1.4180909999995492
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_REYK",
+      "seconds": 1.1605589999817312
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_DUBO",
+      "seconds": 0.6004010000033304
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_ALBH",
+      "seconds": 0.6705006999545731
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q1_MAS1",
+      "seconds": 1.5369387000100687
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_FAIR",
+      "seconds": 0.21136390004539862
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_NYA2",
+      "seconds": 0.28126140002859756
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_REYK",
+      "seconds": 0.3619128999998793
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_DUBO",
+      "seconds": 0.402233199973125
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_ALBH",
+      "seconds": 0.40559889998985454
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q2_MAS1",
+      "seconds": 0.4557185000157915
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_FAIR",
+      "seconds": 0.008287500008009374
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_NYA2",
+      "seconds": 0.7368671000003815
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_REYK",
+      "seconds": 0.03429149999283254
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_DUBO",
+      "seconds": 0.5851004000287503
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_ALBH",
+      "seconds": 0.5941134999739006
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q3_MAS1",
+      "seconds": 0.07946539996191859
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_FAIR",
+      "seconds": 22.077826199994888
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_NYA2",
+      "seconds": 22.41281299997354
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_REYK",
+      "seconds": 22.717860399978235
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_DUBO",
+      "seconds": 15.588703199988231
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_ALBH",
+      "seconds": 15.64188519999152
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q4_MAS1",
+      "seconds": 15.961858300026506
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_FAIR",
+      "seconds": 52.57900480000535
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_NYA2",
+      "seconds": 66.40037049999228
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_REYK",
+      "seconds": 55.38267239998095
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_DUBO",
+      "seconds": 28.71392269997159
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_ALBH",
+      "seconds": 28.977783199981786
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q5_MAS1",
+      "seconds": 62.47381759999553
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_FAIR",
+      "seconds": 0.9165149999898858
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_NYA2",
+      "seconds": 1.0972580999950878
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_REYK",
+      "seconds": 1.010740199999418
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_DUBO",
+      "seconds": 0.030994900036603212
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_ALBH",
+      "seconds": 0.04165430000284687
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d092_q6_MAS1",
+      "seconds": 1.1664257000084035
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_FAIR",
+      "seconds": 1.0866396000492387
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_NYA2",
+      "seconds": 1.363812199968379
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_REYK",
+      "seconds": 1.2832287999917753
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_DUBO",
+      "seconds": 0.6194354000035673
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_ALBH",
+      "seconds": 0.5973557999823242
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q1_MAS1",
+      "seconds": 1.74270850000903
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_FAIR",
+      "seconds": 0.21650639997096732
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_NYA2",
+      "seconds": 0.29190239997114986
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_REYK",
+      "seconds": 0.3733483999967575
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_DUBO",
+      "seconds": 0.36671009997371584
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_ALBH",
+      "seconds": 0.42137960001127794
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q2_MAS1",
+      "seconds": 0.46282380004413426
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_FAIR",
+      "seconds": 0.00931789999594912
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_NYA2",
+      "seconds": 0.7590881999931298
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_REYK",
+      "seconds": 0.035658400040119886
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_DUBO",
+      "seconds": 0.606818399974145
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_ALBH",
+      "seconds": 0.6123307000380009
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q3_MAS1",
+      "seconds": 0.08922299998812377
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_FAIR",
+      "seconds": 22.71694730001036
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_NYA2",
+      "seconds": 22.6588858999894
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_REYK",
+      "seconds": 22.527925599948503
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_DUBO",
+      "seconds": 15.772629200015217
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_ALBH",
+      "seconds": 16.098112700041384
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q4_MAS1",
+      "seconds": 15.95488849998219
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_FAIR",
+      "seconds": 52.65224240004318
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_NYA2",
+      "seconds": 66.34312120004324
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_REYK",
+      "seconds": 55.52705540001625
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_DUBO",
+      "seconds": 28.946908199985046
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_ALBH",
+      "seconds": 29.124634700012393
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q5_MAS1",
+      "seconds": 62.31482560001314
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_FAIR",
+      "seconds": 0.9456011999864131
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_NYA2",
+      "seconds": 1.0856720000156201
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_REYK",
+      "seconds": 0.9882772999699228
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_DUBO",
+      "seconds": 0.032410899992100894
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_ALBH",
+      "seconds": 0.040156900009606034
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d093_q6_MAS1",
+      "seconds": 1.1514549999847077
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_FAIR",
+      "seconds": 1.014415799989365
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_NYA2",
+      "seconds": 1.4461699000094086
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_REYK",
+      "seconds": 1.1734596000169404
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_DUBO",
+      "seconds": 0.6708853999734856
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_ALBH",
+      "seconds": 0.7042908000294119
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q1_MAS1",
+      "seconds": 1.6007709999685176
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_FAIR",
+      "seconds": 0.21330829994985834
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_NYA2",
+      "seconds": 0.3005843000137247
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_REYK",
+      "seconds": 0.36459420004393905
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_DUBO",
+      "seconds": 0.36604029999580234
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_ALBH",
+      "seconds": 0.4087928999797441
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q2_MAS1",
+      "seconds": 0.4680888000293635
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_FAIR",
+      "seconds": 0.00927480001701042
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_NYA2",
+      "seconds": 0.7521563000045717
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_REYK",
+      "seconds": 0.132345299993176
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_DUBO",
+      "seconds": 0.5954063999815844
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_ALBH",
+      "seconds": 0.614863199996762
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q3_MAS1",
+      "seconds": 0.09598430001642555
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_FAIR",
+      "seconds": 22.122178599995095
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_NYA2",
+      "seconds": 22.6698986000265
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_REYK",
+      "seconds": 22.67277299996931
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_DUBO",
+      "seconds": 15.641244800004642
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_ALBH",
+      "seconds": 16.072655999974813
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q4_MAS1",
+      "seconds": 16.13752230000682
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_FAIR",
+      "seconds": 52.140257699997164
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_NYA2",
+      "seconds": 64.7862667000154
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_REYK",
+      "seconds": 50.60149979998823
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_DUBO",
+      "seconds": 26.603606199962087
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_ALBH",
+      "seconds": 27.111946499964688
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q5_MAS1",
+      "seconds": 58.09218179999152
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_FAIR",
+      "seconds": 0.8638085999991745
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_NYA2",
+      "seconds": 1.020233100047335
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_REYK",
+      "seconds": 0.9439701000228524
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_DUBO",
+      "seconds": 0.03290480002760887
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_ALBH",
+      "seconds": 0.03779169998597354
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d094_q6_MAS1",
+      "seconds": 1.1428249000455253
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_FAIR",
+      "seconds": 0.9105311000021175
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_NYA2",
+      "seconds": 1.3329170000506565
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_REYK",
+      "seconds": 1.2960825999616645
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_DUBO",
+      "seconds": 0.6214396000141278
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_ALBH",
+      "seconds": 0.6567134999786504
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q1_MAS1",
+      "seconds": 1.5480778000201099
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_FAIR",
+      "seconds": 0.1904740000027232
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_NYA2",
+      "seconds": 0.26701329997740686
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_REYK",
+      "seconds": 0.34842669998761266
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_DUBO",
+      "seconds": 0.32509769999887794
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_ALBH",
+      "seconds": 0.38444699998945
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q2_MAS1",
+      "seconds": 0.43717130000004545
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_FAIR",
+      "seconds": 0.009307900036219507
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_NYA2",
+      "seconds": 0.7001723000430502
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_REYK",
+      "seconds": 0.03338759997859597
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_DUBO",
+      "seconds": 0.5537363999756053
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_ALBH",
+      "seconds": 0.5813812999986112
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q3_MAS1",
+      "seconds": 0.07179359998553991
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_FAIR",
+      "seconds": 20.762157399964053
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_NYA2",
+      "seconds": 21.020761499996297
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_REYK",
+      "seconds": 21.12729199999012
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_DUBO",
+      "seconds": 14.242663600016385
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_ALBH",
+      "seconds": 14.726278499991167
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q4_MAS1",
+      "seconds": 15.12364589999197
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_FAIR",
+      "seconds": 48.491730500012636
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_NYA2",
+      "seconds": 60.81632849999005
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_REYK",
+      "seconds": 51.21636819996638
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_DUBO",
+      "seconds": 26.41333999997005
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_ALBH",
+      "seconds": 26.56614950002404
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q5_MAS1",
+      "seconds": 57.367970399966
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_FAIR",
+      "seconds": 0.8876337000401691
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_NYA2",
+      "seconds": 0.9992201999993995
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_REYK",
+      "seconds": 0.9484341000206769
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_DUBO",
+      "seconds": 0.03148559998953715
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_ALBH",
+      "seconds": 0.03881769999861717
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d095_q6_MAS1",
+      "seconds": 1.0935865999781527
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_FAIR",
+      "seconds": 0.8333775000064634
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_NYA2",
+      "seconds": 1.3509187999879941
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_REYK",
+      "seconds": 1.1969697999884374
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_DUBO",
+      "seconds": 0.5366680999868549
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_ALBH",
+      "seconds": 0.5923827000078745
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q1_MAS1",
+      "seconds": 1.455260900023859
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_FAIR",
+      "seconds": 0.1952329000341706
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_NYA2",
+      "seconds": 0.2833620999590494
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_REYK",
+      "seconds": 0.32853549998253584
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_DUBO",
+      "seconds": 0.3353682000306435
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_ALBH",
+      "seconds": 0.39285130001371726
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q2_MAS1",
+      "seconds": 0.420110399951227
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_FAIR",
+      "seconds": 0.0096052999724634
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_NYA2",
+      "seconds": 0.6934497999609448
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_REYK",
+      "seconds": 0.03419719997327775
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_DUBO",
+      "seconds": 0.5649059999850579
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_ALBH",
+      "seconds": 0.5833467000047676
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q3_MAS1",
+      "seconds": 0.07589789998019114
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_FAIR",
+      "seconds": 20.680276400002185
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_NYA2",
+      "seconds": 20.878110499994364
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_REYK",
+      "seconds": 21.460126799996942
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_DUBO",
+      "seconds": 14.665013400022872
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_ALBH",
+      "seconds": 14.790092399984132
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q4_MAS1",
+      "seconds": 14.74783780000871
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_FAIR",
+      "seconds": 48.17725280002924
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_NYA2",
+      "seconds": 61.074989399989136
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_REYK",
+      "seconds": 51.07669299998088
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_DUBO",
+      "seconds": 26.314129500009585
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_ALBH",
+      "seconds": 26.24121589999413
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q5_MAS1",
+      "seconds": 57.534125400008634
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_FAIR",
+      "seconds": 0.8292863999959081
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_NYA2",
+      "seconds": 1.0105224999715574
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_REYK",
+      "seconds": 0.917528499965556
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_DUBO",
+      "seconds": 0.030705899989698082
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_ALBH",
+      "seconds": 0.04298729996662587
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_R",
+      "query": "d096_q6_MAS1",
+      "seconds": 1.0441770000034012
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_FAIR",
+      "seconds": 1.366512699984014
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_NYA2",
+      "seconds": 2.061901699984446
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_REYK",
+      "seconds": 1.7133742999867536
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_DUBO",
+      "seconds": 1.0506371999508701
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_ALBH",
+      "seconds": 0.9975963999750093
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q1_MAS1",
+      "seconds": 2.006303999980446
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_FAIR",
+      "seconds": 2.018715300015174
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_NYA2",
+      "seconds": 2.1190133999916725
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_REYK",
+      "seconds": 2.1912864000187255
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_DUBO",
+      "seconds": 1.772020699980203
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_ALBH",
+      "seconds": 1.8083405999932438
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q2_MAS1",
+      "seconds": 1.8771731000160798
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_FAIR",
+      "seconds": 0.5188415999873541
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_NYA2",
+      "seconds": 1.470321300032083
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_REYK",
+      "seconds": 0.5781900999718346
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_DUBO",
+      "seconds": 0.9651092999847606
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_ALBH",
+      "seconds": 0.9427418999839574
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q3_MAS1",
+      "seconds": 0.7277490000124089
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_FAIR",
+      "seconds": 22.552688899973873
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_NYA2",
+      "seconds": 22.28312640002696
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_REYK",
+      "seconds": 23.065883500035852
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_DUBO",
+      "seconds": 15.6503543999861
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_ALBH",
+      "seconds": 15.661023299966473
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q4_MAS1",
+      "seconds": 15.931192300049588
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_FAIR",
+      "seconds": 48.00548049999634
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_NYA2",
+      "seconds": 60.921466499974485
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_REYK",
+      "seconds": 50.85444439999992
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_DUBO",
+      "seconds": 26.566820300009567
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_ALBH",
+      "seconds": 26.36657449998893
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q5_MAS1",
+      "seconds": 57.27859200001694
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_FAIR",
+      "seconds": 1.3810464999987744
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_NYA2",
+      "seconds": 1.7956155000138097
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_REYK",
+      "seconds": 1.423183600010816
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_DUBO",
+      "seconds": 0.4313342999666929
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_ALBH",
+      "seconds": 0.4238430999685079
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d091_q6_MAS1",
+      "seconds": 1.7378687000018544
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_FAIR",
+      "seconds": 1.4107709000236355
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_NYA2",
+      "seconds": 2.1025319999898784
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_REYK",
+      "seconds": 1.62972989998525
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_DUBO",
+      "seconds": 0.9549168999656104
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_ALBH",
+      "seconds": 0.9855836000060663
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q1_MAS1",
+      "seconds": 2.0629251999780536
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_FAIR",
+      "seconds": 2.059775800036732
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_NYA2",
+      "seconds": 2.163824899995234
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_REYK",
+      "seconds": 2.214619299978949
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_DUBO",
+      "seconds": 1.791378199995961
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_ALBH",
+      "seconds": 1.7512531999964267
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q2_MAS1",
+      "seconds": 1.8570014999713749
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_FAIR",
+      "seconds": 0.5281332000158727
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_NYA2",
+      "seconds": 1.4625029999879189
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_REYK",
+      "seconds": 0.5919896999839693
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_DUBO",
+      "seconds": 0.9111960000009276
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_ALBH",
+      "seconds": 0.9317995000164956
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q3_MAS1",
+      "seconds": 0.7404526000027545
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_FAIR",
+      "seconds": 22.62961969996104
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_NYA2",
+      "seconds": 22.775123000028543
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_REYK",
+      "seconds": 22.782080799981486
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_DUBO",
+      "seconds": 15.948450999974739
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_ALBH",
+      "seconds": 16.107140400039498
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q4_MAS1",
+      "seconds": 16.133129800029565
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_FAIR",
+      "seconds": 48.3185247000074
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_NYA2",
+      "seconds": 61.34133250004379
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_REYK",
+      "seconds": 50.3546521999524
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_DUBO",
+      "seconds": 26.427846600010525
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_ALBH",
+      "seconds": 26.859471299976576
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q5_MAS1",
+      "seconds": 58.04675929999212
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_FAIR",
+      "seconds": 1.3504174000117928
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_NYA2",
+      "seconds": 1.7946560999844223
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_REYK",
+      "seconds": 1.4328502000425942
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_DUBO",
+      "seconds": 0.401973900035955
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_ALBH",
+      "seconds": 0.4325132999802008
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d092_q6_MAS1",
+      "seconds": 1.763581300037913
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_FAIR",
+      "seconds": 1.4818413999746554
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_NYA2",
+      "seconds": 2.0641293000080623
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_REYK",
+      "seconds": 1.6821756000281312
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_DUBO",
+      "seconds": 0.9465941999806091
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_ALBH",
+      "seconds": 0.909833499987144
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q1_MAS1",
+      "seconds": 2.235898700018879
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_FAIR",
+      "seconds": 2.051850399991963
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_NYA2",
+      "seconds": 2.119760099973064
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_REYK",
+      "seconds": 2.189311499998439
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_DUBO",
+      "seconds": 1.8166871000430547
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_ALBH",
+      "seconds": 1.831565500004217
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q2_MAS1",
+      "seconds": 1.9216962999780662
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_FAIR",
+      "seconds": 0.5114569999859668
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_NYA2",
+      "seconds": 1.47519420000026
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_REYK",
+      "seconds": 0.6006574999773875
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_DUBO",
+      "seconds": 0.933311800006777
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_ALBH",
+      "seconds": 0.9417969000060111
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q3_MAS1",
+      "seconds": 0.7649810999864712
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_FAIR",
+      "seconds": 22.82547360000899
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_NYA2",
+      "seconds": 22.821466399997007
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_REYK",
+      "seconds": 22.667285200033803
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_DUBO",
+      "seconds": 16.27882150001824
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_ALBH",
+      "seconds": 16.286323700041976
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q4_MAS1",
+      "seconds": 16.245304999989457
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_FAIR",
+      "seconds": 47.888743399991654
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_NYA2",
+      "seconds": 60.85710979998112
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_REYK",
+      "seconds": 51.177799299999606
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_DUBO",
+      "seconds": 26.74834180000471
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_ALBH",
+      "seconds": 26.714716500020586
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q5_MAS1",
+      "seconds": 58.08828470000299
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_FAIR",
+      "seconds": 1.36643140000524
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_NYA2",
+      "seconds": 1.7952065999852493
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_REYK",
+      "seconds": 1.494229300005827
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_DUBO",
+      "seconds": 0.42110540001885965
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_ALBH",
+      "seconds": 0.42589610000140965
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d093_q6_MAS1",
+      "seconds": 1.783028599980753
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_FAIR",
+      "seconds": 1.4119990000035614
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_NYA2",
+      "seconds": 2.1123876000056043
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_REYK",
+      "seconds": 1.6245531999738887
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_DUBO",
+      "seconds": 0.9780783000169322
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_ALBH",
+      "seconds": 1.01636900001904
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q1_MAS1",
+      "seconds": 2.128366399963852
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_FAIR",
+      "seconds": 2.070158899994567
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_NYA2",
+      "seconds": 2.092661099974066
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_REYK",
+      "seconds": 2.2280334000242874
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_DUBO",
+      "seconds": 1.795361700002104
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_ALBH",
+      "seconds": 1.8739835000014864
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q2_MAS1",
+      "seconds": 1.9144220000016503
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_FAIR",
+      "seconds": 0.5022662000264972
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_NYA2",
+      "seconds": 1.478742700011935
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_REYK",
+      "seconds": 0.590945899952203
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_DUBO",
+      "seconds": 0.9530068999738432
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_ALBH",
+      "seconds": 0.9849721000064164
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q3_MAS1",
+      "seconds": 0.7791623999946751
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_FAIR",
+      "seconds": 22.327335399982985
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_NYA2",
+      "seconds": 22.725472500023898
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_REYK",
+      "seconds": 22.7433320999844
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_DUBO",
+      "seconds": 15.829745099996217
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_ALBH",
+      "seconds": 16.22892610001145
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q4_MAS1",
+      "seconds": 16.090830700006336
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_FAIR",
+      "seconds": 47.8729315000237
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_NYA2",
+      "seconds": 61.464852200006135
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_REYK",
+      "seconds": 50.36830839997856
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_DUBO",
+      "seconds": 26.43104430002859
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_ALBH",
+      "seconds": 26.592486900044605
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q5_MAS1",
+      "seconds": 57.323272999958135
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_FAIR",
+      "seconds": 1.3777853000210598
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_NYA2",
+      "seconds": 1.7891559000127017
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_REYK",
+      "seconds": 1.4638418999966234
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_DUBO",
+      "seconds": 0.41942390002077445
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_ALBH",
+      "seconds": 0.4296100999927148
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d094_q6_MAS1",
+      "seconds": 1.7801658000098541
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_FAIR",
+      "seconds": 1.385516899987124
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_NYA2",
+      "seconds": 2.128142100002151
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_REYK",
+      "seconds": 1.7369366000057198
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_DUBO",
+      "seconds": 0.9586296000052243
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_ALBH",
+      "seconds": 0.9904489999753423
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q1_MAS1",
+      "seconds": 2.160293699998874
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_FAIR",
+      "seconds": 2.0335399999748915
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_NYA2",
+      "seconds": 2.1154919000109658
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_REYK",
+      "seconds": 2.177713700046297
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_DUBO",
+      "seconds": 1.765750200022012
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_ALBH",
+      "seconds": 1.8492185000213794
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q2_MAS1",
+      "seconds": 1.8503792999545112
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_FAIR",
+      "seconds": 0.5120881000184454
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_NYA2",
+      "seconds": 1.4658794999704696
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_REYK",
+      "seconds": 0.5896055999910459
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_DUBO",
+      "seconds": 0.9087162000359967
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_ALBH",
+      "seconds": 0.9679307999904267
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q3_MAS1",
+      "seconds": 0.7435468999901786
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_FAIR",
+      "seconds": 22.47842810000293
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_NYA2",
+      "seconds": 22.661513399973046
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_REYK",
+      "seconds": 22.81814420002047
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_DUBO",
+      "seconds": 15.543636299960781
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_ALBH",
+      "seconds": 15.859068799996749
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q4_MAS1",
+      "seconds": 16.172002999985125
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_FAIR",
+      "seconds": 48.44577340001706
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_NYA2",
+      "seconds": 60.69007780001266
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_REYK",
+      "seconds": 50.77177809999557
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_DUBO",
+      "seconds": 26.39983750000829
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_ALBH",
+      "seconds": 26.37345610000193
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q5_MAS1",
+      "seconds": 57.22243449999951
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_FAIR",
+      "seconds": 1.3586099999956787
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_NYA2",
+      "seconds": 1.7954356999835
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_REYK",
+      "seconds": 1.4888869000133127
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_DUBO",
+      "seconds": 0.40710609999950975
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_ALBH",
+      "seconds": 0.4301541000022553
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d095_q6_MAS1",
+      "seconds": 1.7626003000186756
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_FAIR",
+      "seconds": 1.3332510000327602
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_NYA2",
+      "seconds": 2.0865617999807
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_REYK",
+      "seconds": 1.709370399999898
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_DUBO",
+      "seconds": 0.9004591999691911
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_ALBH",
+      "seconds": 0.9446089999983087
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q1_MAS1",
+      "seconds": 2.0473060999647714
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_FAIR",
+      "seconds": 2.0767264000023715
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_NYA2",
+      "seconds": 2.1194896000088193
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_REYK",
+      "seconds": 2.2019710000022314
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_DUBO",
+      "seconds": 1.784902899991721
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_ALBH",
+      "seconds": 1.8603600999922492
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q2_MAS1",
+      "seconds": 1.842884799989406
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_FAIR",
+      "seconds": 0.5254292999743484
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_NYA2",
+      "seconds": 1.476279299997259
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_REYK",
+      "seconds": 0.5839769000303932
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_DUBO",
+      "seconds": 0.9127331000054255
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_ALBH",
+      "seconds": 0.9499998000101186
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q3_MAS1",
+      "seconds": 0.7594684000359848
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_FAIR",
+      "seconds": 22.42055799998343
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_NYA2",
+      "seconds": 22.49008000001777
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_REYK",
+      "seconds": 22.878014000016265
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_DUBO",
+      "seconds": 15.899880399985705
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_ALBH",
+      "seconds": 15.973652400018182
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q4_MAS1",
+      "seconds": 15.834974900004454
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_FAIR",
+      "seconds": 47.76698969997233
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_NYA2",
+      "seconds": 61.26213759998791
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_REYK",
+      "seconds": 51.06482229998801
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_DUBO",
+      "seconds": 26.595530999999028
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_ALBH",
+      "seconds": 26.18185239995364
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q5_MAS1",
+      "seconds": 57.066492199955974
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_FAIR",
+      "seconds": 1.3602587999776006
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_NYA2",
+      "seconds": 1.7612090000184253
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_REYK",
+      "seconds": 1.4588255999842659
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_DUBO",
+      "seconds": 0.40401170001132414
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_ALBH",
+      "seconds": 0.4190612999955192
+    },
+    {
+      "dataset": "D2",
+      "method": "GeoRinex_H",
+      "query": "d096_q6_MAS1",
+      "seconds": 1.7130997000494972
+    }
+  ]
+}

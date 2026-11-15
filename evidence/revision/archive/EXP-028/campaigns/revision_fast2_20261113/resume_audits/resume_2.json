@@ -1,0 +1,43 @@
+{
+  "observed_utc": "2026-11-13T11:06:13.522086+00:00",
+  "observed_Beijing": "2026-11-13T19:06:13.522086+08:00",
+  "state": "running",
+  "phase": "recovery",
+  "segment": "seg_0002",
+  "controller_alive": true,
+  "worker_alive": true,
+  "worker_identity": {
+    "pid": 68696,
+    "created": 1794567741.9355528,
+    "executable": "external/python.exe"
+  },
+  "completed_recovery_groups": 2,
+  "completed_recovery_calls": 14,
+  "recovery_truth_passed": true,
+  "scheduled_checkpoint_groups": 469,
+  "checkpoint": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/checkpoint.json",
+    "bytes": 153922,
+    "sha256": "b639d8f67af050a229421a3934e1a4b482f681dd5cbdb2c4b6990d3820dae247"
+  },
+  "checkpoint_validated": true,
+  "checkpoint_unchanged_during_recovery": true,
+  "failure_exists": false,
+  "pause": {
+    "paused_utc": "2026-11-13T10:39:14.148074+00:00",
+    "pause_command": {
+      "desired": "paused",
+      "revision": 1,
+      "received_utc": "2026-11-13T10:38:51.985791+00:00",
+      "user_instruction": "用户在聊天中要求暂停实验"
+    },
+    "resumed_utc": "2026-11-13T11:02:21.824157+00:00",
+    "resume_command": {
+      "desired": "running",
+      "revision": 2,
+      "received_utc": "2026-11-13T11:02:21.545506+00:00",
+      "user_instruction": "用户在聊天中要求恢复实验"
+    }
+  },
+  "active_seconds": 16068.848149
+}

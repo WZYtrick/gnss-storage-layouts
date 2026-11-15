@@ -1,0 +1,14 @@
+{
+  "W": "rebuilt/D0m/layouts/W",
+  "C": "rebuilt/D0m/layouts/C",
+  "Cstar": "rebuilt/D0m/layouts/Cstar",
+  "T": "rebuilt/D0m/layouts/T",
+  "F": "rebuilt/D0m/layouts/F",
+  "T_time": "rebuilt/D0m/layouts/T_time",
+  "Tperm_time": "rebuilt/D0m/layouts/Tperm_time",
+  "Tperm_blocksv": "rebuilt/D0m/layouts/Tperm_blocksv",
+  "C_2048": "rebuilt/D0m/layouts/C_2048",
+  "C_32768": "rebuilt/D0m/layouts/C_32768",
+  "C_full": "rebuilt/D0m/layouts/C_full",
+  "W_packed": "rebuilt/D0m/layouts/W_packed"
+}

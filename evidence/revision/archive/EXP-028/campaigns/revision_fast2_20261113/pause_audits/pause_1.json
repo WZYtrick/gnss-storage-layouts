@@ -1,0 +1,38 @@
+{
+  "observed_utc": "2026-11-13T10:39:28.546708+00:00",
+  "state": "paused",
+  "control": {
+    "desired": "paused",
+    "revision": 1,
+    "received_utc": "2026-11-13T10:38:51.985791+00:00",
+    "user_instruction": "用户在聊天中要求暂停实验"
+  },
+  "paused_utc": "2026-11-13T10:39:14.148074+00:00",
+  "paused_Beijing": "2026-11-13T18:39:14.148074+08:00",
+  "job": "baseline_D2_b00",
+  "committed_groups": 469,
+  "formal_calls": 1771,
+  "warmup_calls": 1512,
+  "checkpoint": {
+    "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00/checkpoint.json",
+    "bytes": 153922,
+    "sha256": "b639d8f67af050a229421a3934e1a4b482f681dd5cbdb2c4b6990d3820dae247"
+  },
+  "checkpoint_validated": true,
+  "worker_exited": true,
+  "controller_alive": true,
+  "controller_children": [],
+  "active_seconds": 15837.148073999999,
+  "finish": {
+    "started_utc": "2026-11-13T06:39:43.661560+00:00",
+    "ended_utc": "2026-11-13T10:39:13.349919+00:00",
+    "process": {
+      "pid": 83108,
+      "created": 1794551983.1145144,
+      "executable": "external/python.exe"
+    },
+    "returncode": 75,
+    "paused": true,
+    "next_group": 469
+  }
+}

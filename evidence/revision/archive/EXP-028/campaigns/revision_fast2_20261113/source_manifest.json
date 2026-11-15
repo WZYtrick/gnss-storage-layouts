@@ -1,0 +1,199 @@
+{
+  "purpose": "formal",
+  "profile": "revision_fast2_20261113",
+  "baselines": [
+    {
+      "id": "baseline_D1_b00",
+      "dataset": "D1",
+      "block": 0,
+      "origin": "legacy",
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/baseline_D1_b00"
+    },
+    {
+      "id": "baseline_D1_b01",
+      "dataset": "D1",
+      "block": 1,
+      "origin": "fast2",
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D1_b01"
+    },
+    {
+      "id": "baseline_D2_b00",
+      "dataset": "D2",
+      "block": 0,
+      "origin": "fast2",
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b00"
+    },
+    {
+      "id": "baseline_D2_b01",
+      "dataset": "D2",
+      "block": 1,
+      "origin": "fast2",
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_20261113/runs/baseline_D2_b01"
+    }
+  ],
+  "constructions": [
+    {
+      "id": "build_D0m_b00",
+      "dataset": "D0m",
+      "block": 0,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b00"
+    },
+    {
+      "id": "build_D1_b00",
+      "dataset": "D1",
+      "block": 0,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b00"
+    },
+    {
+      "id": "build_D2_b00",
+      "dataset": "D2",
+      "block": 0,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b00"
+    },
+    {
+      "id": "build_D2m_b00",
+      "dataset": "D2m",
+      "block": 0,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b00"
+    },
+    {
+      "id": "build_D2_b01",
+      "dataset": "D2",
+      "block": 1,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b01"
+    },
+    {
+      "id": "build_D2m_b01",
+      "dataset": "D2m",
+      "block": 1,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b01"
+    },
+    {
+      "id": "build_D1_b01",
+      "dataset": "D1",
+      "block": 1,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b01"
+    },
+    {
+      "id": "build_D0m_b01",
+      "dataset": "D0m",
+      "block": 1,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b01"
+    },
+    {
+      "id": "build_D0m_b02",
+      "dataset": "D0m",
+      "block": 2,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b02"
+    },
+    {
+      "id": "build_D1_b02",
+      "dataset": "D1",
+      "block": 2,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b02"
+    },
+    {
+      "id": "build_D2_b02",
+      "dataset": "D2",
+      "block": 2,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b02"
+    },
+    {
+      "id": "build_D2m_b02",
+      "dataset": "D2m",
+      "block": 2,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b02"
+    },
+    {
+      "id": "build_D2m_b03",
+      "dataset": "D2m",
+      "block": 3,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b03"
+    },
+    {
+      "id": "build_D2_b03",
+      "dataset": "D2",
+      "block": 3,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b03"
+    },
+    {
+      "id": "build_D0m_b03",
+      "dataset": "D0m",
+      "block": 3,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b03"
+    },
+    {
+      "id": "build_D1_b03",
+      "dataset": "D1",
+      "block": 3,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b03"
+    },
+    {
+      "id": "build_D1_b04",
+      "dataset": "D1",
+      "block": 4,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b04"
+    },
+    {
+      "id": "build_D0m_b04",
+      "dataset": "D0m",
+      "block": 4,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b04"
+    },
+    {
+      "id": "build_D2m_b04",
+      "dataset": "D2m",
+      "block": 4,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b04"
+    },
+    {
+      "id": "build_D2_b04",
+      "dataset": "D2",
+      "block": 4,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b04"
+    },
+    {
+      "id": "build_D2_b05",
+      "dataset": "D2",
+      "block": 5,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2_b05"
+    },
+    {
+      "id": "build_D2m_b05",
+      "dataset": "D2m",
+      "block": 5,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D2m_b05"
+    },
+    {
+      "id": "build_D1_b05",
+      "dataset": "D1",
+      "block": 5,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D1_b05"
+    },
+    {
+      "id": "build_D0m_b05",
+      "dataset": "D0m",
+      "block": 5,
+      "path": "evidence/revision/archive/EXP-028/campaigns/revision_v1_20261112/runs/build_D0m_b05"
+    }
+  ],
+  "query_blocks": [
+    0,
+    1
+  ],
+  "construction_blocks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "queries_per_dataset": 216,
+  "expected": {
+    "formal": 18144,
+    "warmup": 6048,
+    "builds": 204,
+    "medians": 6048
+  }
+}

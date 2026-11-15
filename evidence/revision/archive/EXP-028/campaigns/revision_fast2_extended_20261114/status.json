@@ -1,0 +1,10 @@
+{
+  "state": "complete",
+  "active_seconds": 109511.728119,
+  "report": "evidence/revision/archive/EXP-028/campaigns/revision_fast2_extended_20261114/analysis/结果报告.md",
+  "formal_calls": 18144,
+  "warmup_calls": 6048,
+  "layout_builds": 204,
+  "utc": "2026-11-14T20:10:17.483099+00:00",
+  "profile": "revision_fast2_extended_20261114"
+}

@@ -1,0 +1,290 @@
+{
+  "d092_q1_ABMF": {
+    "sha256": "370308c0389dbacb39d907ec901c3eb75eba53db51ac593d27c6b7010ee47dfe",
+    "rows": 2520
+  },
+  "d092_q1_ALGO": {
+    "sha256": "b9c98d8644f5f0b8ce8fa34a12d806f8a3e6353d894d76b8676660eefd38aa86",
+    "rows": 1324
+  },
+  "d092_q1_BRST": {
+    "sha256": "d9333221c65c1ba14591dde37f10800098f4b3b07ee16851127884d50073fd9a",
+    "rows": 2498
+  },
+  "d092_q1_CEDU": {
+    "sha256": "a91719b6a6f838874f152eca8935bdb04ecb9405ac10bbdda2b0ca2e995f5eb0",
+    "rows": 3496
+  },
+  "d092_q1_KIRU": {
+    "sha256": "f824973624ee8b5e16a211bdba1d01859c79305a9e18ba764f1a1b2c1f78d593",
+    "rows": 2785
+  },
+  "d092_q1_MIZU": {
+    "sha256": "2d71bd89e104304ab49960e76a9a541571f1bf22adeb25793d84a23f8bffa565",
+    "rows": 4098
+  },
+  "d092_q2_ABMF": {
+    "sha256": "e9b2ace67b615f96d7c33b48d3833cb2992970388838bd9c26e2962f44361269",
+    "rows": 984
+  },
+  "d092_q2_ALGO": {
+    "sha256": "f70bcb04a36531c9091330afe888a2307b825bfebecf3d59c0dba8b654a6dffb",
+    "rows": 964
+  },
+  "d092_q2_BRST": {
+    "sha256": "a90fb17c2f3c27abff2b3c9c37bf8f0e19d7706769960bfd1bc05e6d7a71a79b",
+    "rows": 932
+  },
+  "d092_q2_CEDU": {
+    "sha256": "033e62670834df1be626e23db005f4de7fbbef74f2cefade365eec36df075196",
+    "rows": 991
+  },
+  "d092_q2_KIRU": {
+    "sha256": "7f3bb159108cefacc35e3badc9b87d6ca0692a119621e9e83cf741fc652dce1f",
+    "rows": 934
+  },
+  "d092_q2_MIZU": {
+    "sha256": "2d6fda014443b2909bb2ba5563562a5cb8f77fe78066a71565850d4fe05d2d0c",
+    "rows": 932
+  },
+  "d092_q3_ABMF": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d092_q3_ALGO": {
+    "sha256": "f68f792193d0eb948d9ab63ad337f39b0a0debef988562bad54d1edfe32cc9ec",
+    "rows": 135
+  },
+  "d092_q3_BRST": {
+    "sha256": "6b4f29b9da49ba05b0bd7905c137a449ab51c29791fbfd39ffaf41bd0d78b8bb",
+    "rows": 75
+  },
+  "d092_q3_CEDU": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d092_q3_KIRU": {
+    "sha256": "fafe759df4423702ee069af93ffa391364aa06134aef0e1edfa13cf5b386e6fd",
+    "rows": 74
+  },
+  "d092_q3_MIZU": {
+    "sha256": "4f73f300947ec8cb7e386bbef400f05797b22c702a7c35a4b70b03c7d2eba249",
+    "rows": 240
+  },
+  "d092_q4_ABMF": {
+    "sha256": "e81f7b3b2f53efa8cdf72ee0f7ed6307a35f4abbe3df4009735a79fbb0b98f08",
+    "rows": 51563
+  },
+  "d092_q4_ALGO": {
+    "sha256": "fd56ebfd12c18954faddaf945d6750b1627a7a110f4f7ca2dd7fda6c9abef0d1",
+    "rows": 53356
+  },
+  "d092_q4_BRST": {
+    "sha256": "e3a16a7ce0d39a005c7d8fc80fe6be9cf43577a200bddb82bc7441bbe5b8877f",
+    "rows": 51401
+  },
+  "d092_q4_CEDU": {
+    "sha256": "78b852ff4a81976191c672fd8b7b48b5bd3cc1473d24b6cf321267cb96158103",
+    "rows": 85931
+  },
+  "d092_q4_KIRU": {
+    "sha256": "c1320f6816cfa30dffc2970a030588b61f68406286c7233614fd2b101eb55890",
+    "rows": 84185
+  },
+  "d092_q4_MIZU": {
+    "sha256": "943be21fe6628239c390845947a938c197188b0de4568f105ef972ca00e552b8",
+    "rows": 86769
+  },
+  "d092_q5_ABMF": {
+    "sha256": "572edee9a11fd26661a68b321be0cc6c26c31fb8a7623df6f55adb26da759a74",
+    "rows": 124721
+  },
+  "d092_q5_ALGO": {
+    "sha256": "497b75ecb4964700d65718a102d230e31ded8b845dcbe1133ce28f0d907d7d24",
+    "rows": 71460
+  },
+  "d092_q5_BRST": {
+    "sha256": "e12844c36f8dba03b2717197136e8a4a94de1e68962c7a5596f3d59079d49b70",
+    "rows": 117915
+  },
+  "d092_q5_CEDU": {
+    "sha256": "5a48ac39980f5936f19bca168943f859cba94cf87568096e06d46377969abf95",
+    "rows": 163081
+  },
+  "d092_q5_KIRU": {
+    "sha256": "5f05be46a44c722d68c3dbf5743a15feb3043b2a35bfa63d330408c6cfce4db4",
+    "rows": 155027
+  },
+  "d092_q5_MIZU": {
+    "sha256": "70c8b8eccd88c37b67052a109b497898e4cfd217c326a905de42ed8a5dde268b",
+    "rows": 203745
+  },
+  "d092_q6_ABMF": {
+    "sha256": "e42de6e8a871a718396365153e52ca45e5ed24440d3aff5e5b49c25bd3b7a975",
+    "rows": 2814
+  },
+  "d092_q6_ALGO": {
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9",
+    "rows": 0
+  },
+  "d092_q6_BRST": {
+    "sha256": "0079d441deffb69ffca8e90b6a43815e4ea8fae6bd1e0464135ebb2f2b40540f",
+    "rows": 3842
+  },
+  "d092_q6_CEDU": {
+    "sha256": "dfd5027fbfb9c90640c13fcb379fbe944d2f31bd03c762cb2f8befd8942e161c",
+    "rows": 8829
+  },
+  "d092_q6_KIRU": {
+    "sha256": "e24daf0e7aac6fcef82519b524d7760dea57d5534916a838e4f1a3d8723322b9",
+    "rows": 4714
+  },
+  "d092_q6_MIZU": {
+    "sha256": "328516ce0dbd87f737692a09fddcf530129e16e5a63afeb9c0db0b067f1515c6",
+    "rows": 7979
+  },
+  "d183_q1_ABMF": {
+    "sha256": "896d0044c61e335f5506e2295e2284e871a21cb594eb5c49b276f66ef5bd7c51",
+    "rows": 2725
+  },
+  "d183_q1_ALGO": {
+    "sha256": "18ad64dfb27358e84c95580b9d5cb9769aac4ea1d402cce04e4329bad5766b9b",
+    "rows": 1439
+  },
+  "d183_q1_BRST": {
+    "sha256": "ea69d5c2ef6eff3a1e6eb761ae5e9646b5ab2f476385a2587cbc795760fb8b7a",
+    "rows": 2410
+  },
+  "d183_q1_CEDU": {
+    "sha256": "ae3860d1c63adba3dea0c0666d0855f9b377ad33fb28f925dbcfdb9b537d3d80",
+    "rows": 2845
+  },
+  "d183_q1_KIRU": {
+    "sha256": "cd229ed010771fbf0c7674c19e9040085ac87eef3e75b9ff22ee2d4b3709dc7c",
+    "rows": 3284
+  },
+  "d183_q1_MIZU": {
+    "sha256": "3f88fbd45d3ac3c5e5c7c86788011692f95fd894c4e08fd9b4467d7f489f5fc3",
+    "rows": 4279
+  },
+  "d183_q2_ABMF": {
+    "sha256": "7d2521287c0cb6dd0c56f5d16093e974cb310ad815331253f8c832bfe4649dac",
+    "rows": 974
+  },
+  "d183_q2_ALGO": {
+    "sha256": "a1f3720f372f9a2bf3ffd928d416134947b45eec3cf016f10aebb64e1983a2ef",
+    "rows": 902
+  },
+  "d183_q2_BRST": {
+    "sha256": "afe1f3ede3de49661a4f195d93980646ac949f02fcc67f4415e0ccdd7b828df6",
+    "rows": 985
+  },
+  "d183_q2_CEDU": {
+    "sha256": "ae62f9219ee3a83e6d6b8b3c04c2bc449e50465d1a1db9d9e52a7bd301205933",
+    "rows": 951
+  },
+  "d183_q2_KIRU": {
+    "sha256": "2167ef926611cc17a1f6e86e5b1c6fb6adacae346d6f10afe51e2b99c3317911",
+    "rows": 1006
+  },
+  "d183_q2_MIZU": {
+    "sha256": "0964ca5375e179f0f54407aa848c103fb54efc0a828dc6deb3f99002de7423d9",
+    "rows": 955
+  },
+  "d183_q3_ABMF": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d183_q3_ALGO": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d183_q3_BRST": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d183_q3_CEDU": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d183_q3_KIRU": {
+    "sha256": "bf1a66b051a10d33de7a063078fe2047100fcca295358f853af2ab0cc2e94e9b",
+    "rows": 55
+  },
+  "d183_q3_MIZU": {
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f",
+    "rows": 0
+  },
+  "d183_q4_ABMF": {
+    "sha256": "1357cfbcd5ca724531827b43f1578bdbeb929d9ba557c896eb9e8829a66e5810",
+    "rows": 51302
+  },
+  "d183_q4_ALGO": {
+    "sha256": "b350cdbc52a9fb16dbf64071211684f8fa2af74d407212b711cb6625710c5431",
+    "rows": 52149
+  },
+  "d183_q4_BRST": {
+    "sha256": "998324ffe9d5261fac3ef0a80371a4a7ee689086de6ef875bd5f4406fc63bb69",
+    "rows": 53862
+  },
+  "d183_q4_CEDU": {
+    "sha256": "8ecfe07368de6429c58aa73dc364225d335380d775591d4988c5e04debc37cf4",
+    "rows": 82429
+  },
+  "d183_q4_KIRU": {
+    "sha256": "c9d5a2b13b517bd3711f090aad915861cbb23594a5a60f03374f5774c6b35f39",
+    "rows": 82882
+  },
+  "d183_q4_MIZU": {
+    "sha256": "1d968650acefcda58d33662e341ebe3473f7e2e308bfb73492b0898e6621a3ba",
+    "rows": 84864
+  },
+  "d183_q5_ABMF": {
+    "sha256": "5e1027ac27d06824c6e62fe60474bdc2ba21d8faaa159ccfa578506c5cfd5896",
+    "rows": 123534
+  },
+  "d183_q5_ALGO": {
+    "sha256": "fd3db749c6c9fdf69163e5652ca32d0d6d31e8bf56be621e645d470965b522b9",
+    "rows": 72814
+  },
+  "d183_q5_BRST": {
+    "sha256": "c0a6ff51d88b5b12cc825c6f66c1f733f3fc3fbbab56cd00061377f605be17e9",
+    "rows": 120803
+  },
+  "d183_q5_CEDU": {
+    "sha256": "03c31311b9195c4625e976a0523ad4d6fbb8518eeec232369cf9d80c0bce5d0f",
+    "rows": 159395
+  },
+  "d183_q5_KIRU": {
+    "sha256": "21befdadadfcc8aaba5e4bbb030f09f2c78033857a1d877ad13ac8fcd22a867f",
+    "rows": 148591
+  },
+  "d183_q5_MIZU": {
+    "sha256": "3948a29e02f26265c50f553b8bcb1cb0c4ebb06ccd5583ac1e4cda16667afd9d",
+    "rows": 197337
+  },
+  "d183_q6_ABMF": {
+    "sha256": "98001eb67438b711203b24a9fd51f5becc2cc97faa52f0a49711dd7236784c85",
+    "rows": 2469
+  },
+  "d183_q6_ALGO": {
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9",
+    "rows": 0
+  },
+  "d183_q6_BRST": {
+    "sha256": "7eaa44786af552ff509af697360a469ae4b8d029a455c39803a794ddfa3814a5",
+    "rows": 4150
+  },
+  "d183_q6_CEDU": {
+    "sha256": "1e6feee6b68d8f2b3b09433b3ca43d63feb3e1dcf851126a45308c2e3ca14e50",
+    "rows": 7823
+  },
+  "d183_q6_KIRU": {
+    "sha256": "5b90ecb9ab34b9edcc3c01dd45585d99d5f26aed23d17b996320536ad6787694",
+    "rows": 6080
+  },
+  "d183_q6_MIZU": {
+    "sha256": "2c1115c318d44283b3cbcea8b1819d8fdebc99a1d88cf86b3125e0fed4f211f0",
+    "rows": 8911
+  }
+}

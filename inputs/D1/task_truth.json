@@ -1,0 +1,290 @@
+{
+  "signal_series_ALIC_2024-10-01_30m": {
+    "rows": 91540,
+    "sha256": "0dce484d7f4d145d04a7f950a2ddd14a7c049f532730efe12a248ee4cffd7e61"
+  },
+  "signal_series_ALIC_2024-10-01_240m": {
+    "rows": 688229,
+    "sha256": "fea30f8d2a2bf559bf44cf9fcc5d00fcb2ca1b07536a8724af1d27a82c2943d1"
+  },
+  "signal_series_ALIC_2024-10-01_1440m": {
+    "rows": 4271721,
+    "sha256": "cf83029d8a8b3979dcbc968bc5e4dd0cdfd8de1590995c95396022bc9ed6925b"
+  },
+  "signal_series_ALIC_2024-10-04_30m": {
+    "rows": 91724,
+    "sha256": "30d67c8ec973f6aed13bf4ce61153a8a79dc6169870a83dfe87b9ebe9bd6571c"
+  },
+  "signal_series_ALIC_2024-10-04_240m": {
+    "rows": 676545,
+    "sha256": "ae1fab8d1820aae5dd2d9cd41b3b4deef2361400dc7ceae50f3f64dfcd6d751b"
+  },
+  "signal_series_ALIC_2024-10-04_1440m": {
+    "rows": 4303691,
+    "sha256": "51ab2b401f8949242d06819e3e21d307799fdabe22864faf78fcb2d1b7603b86"
+  },
+  "signal_series_HOB2_2024-10-01_30m": {
+    "rows": 84709,
+    "sha256": "371097f0b11b9822a092a3737ace47bf7f946701fbf5f590c3908389827e47bd"
+  },
+  "signal_series_HOB2_2024-10-01_240m": {
+    "rows": 711712,
+    "sha256": "7f18a58bc3bedfe66007f4c226c24ea266cd8d7f4b223171a9d4e030d3002e55"
+  },
+  "signal_series_HOB2_2024-10-01_1440m": {
+    "rows": 4036155,
+    "sha256": "093256cb1a727c90e0ae8731fad688a09820a385041ac6c0d2c2b717f7e5ac3c"
+  },
+  "signal_series_HOB2_2024-10-04_30m": {
+    "rows": 85468,
+    "sha256": "9e23d6c921294f458e0a8b76ae43b21791b8eda62fb91ff1c244bbcc02901ff5"
+  },
+  "signal_series_HOB2_2024-10-04_240m": {
+    "rows": 714771,
+    "sha256": "b78cd2633d1033d33b378cd1bd2dc633ee3d535d3e3f47bcb8dd6e7b97750f37"
+  },
+  "signal_series_HOB2_2024-10-04_1440m": {
+    "rows": 4060742,
+    "sha256": "58505492f50978d424599f627f7c2d5106ab041931d82209cac7be45783f4cdd"
+  },
+  "signal_series_DRAO_2024-10-01_30m": {
+    "rows": 36754,
+    "sha256": "30060dda06e5abdc3f31c8f82e459dbb2c104c529808bdbbad28e9084bfdc5cf"
+  },
+  "signal_series_DRAO_2024-10-01_240m": {
+    "rows": 289294,
+    "sha256": "664ac6a2530060783754efec017c922d4c99c141fed70e08f9bc3eeba874feb3"
+  },
+  "signal_series_DRAO_2024-10-01_1440m": {
+    "rows": 1763594,
+    "sha256": "1c3d4e31b52bd7e4d17a7aa849f24e823bf5e6f1e5f24fa537613aa96ca13bda"
+  },
+  "signal_series_DRAO_2024-10-04_30m": {
+    "rows": 36754,
+    "sha256": "d2f40f68f93b6ad375ac0909ff5858d1779ca1ce5bf7858f255a257f35669b68"
+  },
+  "signal_series_DRAO_2024-10-04_240m": {
+    "rows": 287040,
+    "sha256": "36b5ebbfcb1b16fd8fd772cd120415b5567436b0850d5851006d8cfe6b65400b"
+  },
+  "signal_series_DRAO_2024-10-04_1440m": {
+    "rows": 1759868,
+    "sha256": "625c5a8580d2cddfae1bdd6253b7596ba3e085f7fe7675855800be771b62756e"
+  },
+  "signal_series_GRAZ_2024-10-01_30m": {
+    "rows": 65688,
+    "sha256": "0fd5284d27cf34fee934a573f5258c432a53778c26f307d37675abdc26d248df"
+  },
+  "signal_series_GRAZ_2024-10-01_240m": {
+    "rows": 534819,
+    "sha256": "1af53e6e8669c641d30c63cb195362117c02f2586ad308724173229af14d5370"
+  },
+  "signal_series_GRAZ_2024-10-01_1440m": {
+    "rows": 3002719,
+    "sha256": "242765f0de6ab341f45a93e712b770076a448b55b9d0bb19520e66c878480f6f"
+  },
+  "signal_series_GRAZ_2024-10-04_30m": {
+    "rows": 64469,
+    "sha256": "d53b862c175fdf26daeaf5b79ad2960cbdea4233a23539bc7c4084bd0f3a0192"
+  },
+  "signal_series_GRAZ_2024-10-04_240m": {
+    "rows": 511106,
+    "sha256": "6b4611e28f89c3e0106eaa324c45f97a78460e8aa27ea79bdd4871a9456bae44"
+  },
+  "signal_series_GRAZ_2024-10-04_1440m": {
+    "rows": 2954074,
+    "sha256": "71e998e27d89d50465c7cc74144c22bd81c8a5bbfc077a7cc8b55133a8bc1207"
+  },
+  "signal_series_ZIMM_2024-10-01_30m": {
+    "rows": 13110,
+    "sha256": "677136dd0ba4b45ecf6047f2f73d0f105de0104c6e835fbe841753fff5edfcb2"
+  },
+  "signal_series_ZIMM_2024-10-01_240m": {
+    "rows": 111895,
+    "sha256": "48819ef3faa30ede379f1453b6ce42b4150b190b5c92015729a0426c91bed1fb"
+  },
+  "signal_series_ZIMM_2024-10-01_1440m": {
+    "rows": 653177,
+    "sha256": "f47743a3b0d80837e1d7a5f95efb788d2d78141e122f0c2a369a82555756ca19"
+  },
+  "signal_series_ZIMM_2024-10-04_30m": {
+    "rows": 12098,
+    "sha256": "72934a68cb08561b939645ed57960cef57423a0118e0639afae8c460e53fa1b9"
+  },
+  "signal_series_ZIMM_2024-10-04_240m": {
+    "rows": 112907,
+    "sha256": "f0205ff1dd3981f8090b5a38960b57f0ab3dc28e39316c8337c80b1e81c22fbe"
+  },
+  "signal_series_ZIMM_2024-10-04_1440m": {
+    "rows": 652763,
+    "sha256": "f9eee6ee9c687b8e6e8e6fbf748f556e86ff2aa2f15e838feb809f9caa3e6f14"
+  },
+  "signal_series_ONSA_2024-10-01_30m": {
+    "rows": 69483,
+    "sha256": "747423adf40e106f1eff99954e13e4719da02019c72efeca870cb3ea417e697b"
+  },
+  "signal_series_ONSA_2024-10-01_240m": {
+    "rows": 562925,
+    "sha256": "6584c84f568c5cc250343ec7d13883b1e819176da1a5009514ea9c078b20cf12"
+  },
+  "signal_series_ONSA_2024-10-01_1440m": {
+    "rows": 3398848,
+    "sha256": "54a763fd86b19a53407503dbc63ba2f4b5299abd1dc637c01687c3ab9ecd3521"
+  },
+  "signal_series_ONSA_2024-10-04_30m": {
+    "rows": 66861,
+    "sha256": "ebb7567e3869a066fb585cf95a0e8819a0af18ec368f159955752e78a224237f"
+  },
+  "signal_series_ONSA_2024-10-04_240m": {
+    "rows": 541719,
+    "sha256": "65249a03b039f2c2d6201dc1196fe520a1f9738f4ec368222fa4be4859f01452"
+  },
+  "signal_series_ONSA_2024-10-04_1440m": {
+    "rows": 3398848,
+    "sha256": "6315b7b89a2460421c27c5776b16908d432d1eebe9c5626bc7c6ede017d39c50"
+  },
+  "missingness_ALIC_2024-10-01_30m": {
+    "rows": 10764,
+    "sha256": "420777a5b28433ced4097545804be850bd60c1dcb660fd93f059bf6a02eb2222"
+  },
+  "missingness_ALIC_2024-10-01_240m": {
+    "rows": 69529,
+    "sha256": "4b159086e6c41d8459b0406f399edab04023e85bd667a7b0ee6a49fbfd7bfee3"
+  },
+  "missingness_ALIC_2024-10-01_1440m": {
+    "rows": 432055,
+    "sha256": "1e633d0e625c965be4f5839bc59cc15cd0e802763121ae57e99933b65aaca3ef"
+  },
+  "missingness_ALIC_2024-10-04_30m": {
+    "rows": 10833,
+    "sha256": "63fd76d36604db3516c13ffa14e8268c0055890ad4a70c18a49ca8c9f484c20f"
+  },
+  "missingness_ALIC_2024-10-04_240m": {
+    "rows": 68471,
+    "sha256": "c220b6bda78df2e1290a20f983b3d52327155922f93754865b9e40c0938b0e76"
+  },
+  "missingness_ALIC_2024-10-04_1440m": {
+    "rows": 435459,
+    "sha256": "59093dcf85f5ef4897c41d7fe47f7a58a830fa1bfa405b283b822e2bff673b31"
+  },
+  "missingness_HOB2_2024-10-01_30m": {
+    "rows": 10097,
+    "sha256": "1f021cff865af5fac285f088181257232ce814b16c516013c788cc8f333c8d86"
+  },
+  "missingness_HOB2_2024-10-01_240m": {
+    "rows": 72496,
+    "sha256": "3944a765c680f83d7b97d1a3c2bcfbb4f2d654d07ff11ca9389efff624ce63c3"
+  },
+  "missingness_HOB2_2024-10-01_1440m": {
+    "rows": 409791,
+    "sha256": "bf84280610d3ab3a6d5e21c36cd3ddc791edd856ad6cd77b3111573e7bd2d13b"
+  },
+  "missingness_HOB2_2024-10-04_30m": {
+    "rows": 10120,
+    "sha256": "3daa05c0a6198f89f15b5831dc8a8eb0348ccffb3e9a55b621becc20cb1971ab"
+  },
+  "missingness_HOB2_2024-10-04_240m": {
+    "rows": 72450,
+    "sha256": "2c26862374856a1de564c6cc97aea9b987fc404aee0376e9cf4c1ef43d73f5dc"
+  },
+  "missingness_HOB2_2024-10-04_1440m": {
+    "rows": 411723,
+    "sha256": "3214a2f50bc4c2b1e13ccf816b897d60bdfe8fb7f65e11ce4555d6cea293e8d3"
+  },
+  "missingness_DRAO_2024-10-01_30m": {
+    "rows": 4393,
+    "sha256": "8bf16933dd11c5eb153f387955e720f548318a98fab4fcfe7fe7a69ab8055d92"
+  },
+  "missingness_DRAO_2024-10-01_240m": {
+    "rows": 29440,
+    "sha256": "c3e10df7ed8754632092b371d4f05dfc079848e7ddac97d8de74cc20353a6de8"
+  },
+  "missingness_DRAO_2024-10-01_1440m": {
+    "rows": 179400,
+    "sha256": "0501a5616fd6d60cd4cbc196c9cd2a9d71efa86f46531033c66e5a9a3e6dd148"
+  },
+  "missingness_DRAO_2024-10-04_30m": {
+    "rows": 4324,
+    "sha256": "b7518ab3cfafb60b0c5b1b3ef523220c740ae48e0b40dc69750631d3696d792d"
+  },
+  "missingness_DRAO_2024-10-04_240m": {
+    "rows": 29072,
+    "sha256": "d0683e32dea162c533f32283c566cbfd843bb5a89065459543d17a229e702a8c"
+  },
+  "missingness_DRAO_2024-10-04_1440m": {
+    "rows": 179170,
+    "sha256": "47e1edaeae194d4d60f9e8374da491dff015824b099b5996687cf3bdb1cdc27a"
+  },
+  "missingness_GRAZ_2024-10-01_30m": {
+    "rows": 7774,
+    "sha256": "2cd19a09de209c476b95c275320eaafdd1e1a90e703ede82fc063cca9ef94001"
+  },
+  "missingness_GRAZ_2024-10-01_240m": {
+    "rows": 54234,
+    "sha256": "1d0dbd269e37d75bbbe0dad42db3d316987b7fd02d3d74dbd7e443d117bedc2a"
+  },
+  "missingness_GRAZ_2024-10-01_1440m": {
+    "rows": 304359,
+    "sha256": "3d1faceb61de153812d8c1ab7b2ea34bee877a7544bf35f95a03116aa6ddbfde"
+  },
+  "missingness_GRAZ_2024-10-04_30m": {
+    "rows": 7659,
+    "sha256": "d83523f942ede1b76f4d3b8a5efcd4c9d4552020616c5af84760dfcf7acda5c7"
+  },
+  "missingness_GRAZ_2024-10-04_240m": {
+    "rows": 51865,
+    "sha256": "f1eb103d34c8fe62802da5ca1c36fbf0fdc95fbfd55a773c950556a3ab56f942"
+  },
+  "missingness_GRAZ_2024-10-04_1440m": {
+    "rows": 299989,
+    "sha256": "17a2c765a902c7d8a70549387526639a32e7d268da713ddc3bb456588e301fbd"
+  },
+  "missingness_ZIMM_2024-10-01_30m": {
+    "rows": 1564,
+    "sha256": "2e194134c50a9fa5cfc2919bae83726ab8af8f82a09479ac9dd9b3723d20f39f"
+  },
+  "missingness_ZIMM_2024-10-01_240m": {
+    "rows": 11454,
+    "sha256": "468b98992209f31af85f73b98b62394153492b0597eba7dce62b3c27f035e959"
+  },
+  "missingness_ZIMM_2024-10-01_1440m": {
+    "rows": 66700,
+    "sha256": "d76ea2454a3244deca2a606bc4d7a89440b4063744d1a63ec326ce881b913665"
+  },
+  "missingness_ZIMM_2024-10-04_30m": {
+    "rows": 1403,
+    "sha256": "92a6985888862a3a07be234d69c07333d042d1fd41f7c5a12c5f559726bd7c02"
+  },
+  "missingness_ZIMM_2024-10-04_240m": {
+    "rows": 11477,
+    "sha256": "f04b8aeb326336dfdcb9f674c8e0b117e38c34f3edcae64ff67e8718e3506b25"
+  },
+  "missingness_ZIMM_2024-10-04_1440m": {
+    "rows": 66585,
+    "sha256": "8ec3a0d9e9dc9f1cc9db52e8be311eafc72632f5f494c69851a82bcbfcc0606a"
+  },
+  "missingness_ONSA_2024-10-01_30m": {
+    "rows": 8211,
+    "sha256": "4fda56a09256a76387e6e25c7e2388e3023c5abcf7ce415f28e61b6feb02073e"
+  },
+  "missingness_ONSA_2024-10-01_240m": {
+    "rows": 57247,
+    "sha256": "863a67606ec9563ea19901b7c0eb340344b88197c072b5b054fbd7423e25e06b"
+  },
+  "missingness_ONSA_2024-10-01_1440m": {
+    "rows": 345115,
+    "sha256": "0ca0624db2e231fde63f4effb3f36f890fd12486529dc0642a031765b938e87e"
+  },
+  "missingness_ONSA_2024-10-04_30m": {
+    "rows": 8004,
+    "sha256": "7f8aaf6e6d22b62f03eacac85440bfc26c0a0e37ae924f1aa75423efbc2b4545"
+  },
+  "missingness_ONSA_2024-10-04_240m": {
+    "rows": 55177,
+    "sha256": "27487e1d00dfcf2ae08ca67ded6d0e7566a1ca7d5cd53b3dc65265ec9e266c73"
+  },
+  "missingness_ONSA_2024-10-04_1440m": {
+    "rows": 345506,
+    "sha256": "53242460c2a16487ead81708990b078cb86e1a118c99f1d6e69339c26380667d"
+  }
+}

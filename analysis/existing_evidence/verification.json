@@ -1,0 +1,105 @@
+{
+  "created": "2026-11-12T09:37:44.589939+00:00",
+  "all_passed": true,
+  "role_checks": true,
+  "candidate_settings": 12,
+  "rule": {
+    "checks": 44820,
+    "predictions": 4260,
+    "simplex_scenarios": 3036,
+    "summary": [
+      {
+        "grid": "simplex",
+        "threshold": 0.01,
+        "scenarios": 3036,
+        "mean_penalty": 0.007623459155766076,
+        "maximum_penalty": 0.1542482177299367,
+        "changed": 759,
+        "within01": 2486,
+        "within03": 2761,
+        "within05": 2896
+      },
+      {
+        "grid": "simplex",
+        "threshold": 0.03,
+        "scenarios": 3036,
+        "mean_penalty": 0.013932492255487119,
+        "maximum_penalty": 0.1643921886646793,
+        "changed": 0,
+        "within01": 2083,
+        "within03": 2489,
+        "within05": 2723
+      },
+      {
+        "grid": "simplex",
+        "threshold": 0.05,
+        "scenarios": 3036,
+        "mean_penalty": 0.017741500418627456,
+        "maximum_penalty": 0.19118253323898382,
+        "changed": 613,
+        "within01": 1852,
+        "within03": 2381,
+        "within05": 2616
+      },
+      {
+        "grid": "alpha",
+        "threshold": 0.01,
+        "scenarios": 1224,
+        "mean_penalty": 0.006034785291502507,
+        "maximum_penalty": 0.10394834770477335,
+        "changed": 359,
+        "within01": 1054,
+        "within03": 1118,
+        "within05": 1172
+      },
+      {
+        "grid": "alpha",
+        "threshold": 0.03,
+        "scenarios": 1224,
+        "mean_penalty": 0.013417474627758838,
+        "maximum_penalty": 0.13695251953050436,
+        "changed": 0,
+        "within01": 874,
+        "within03": 1003,
+        "within05": 1095
+      },
+      {
+        "grid": "alpha",
+        "threshold": 0.05,
+        "scenarios": 1224,
+        "mean_penalty": 0.021800071070147305,
+        "maximum_penalty": 0.16711699944773106,
+        "changed": 223,
+        "within01": 735,
+        "within03": 909,
+        "within05": 989
+      }
+    ]
+  },
+  "inputs": {
+    "evidence\\d2_combined_20261110\\block_metrics.csv": "ce70b3391a7d44ac17c0181b72508a63422b23c9483286b9edb9b90030bd7715",
+    "evidence\\d2_combined_20261110\\request_medians.csv": "64dd8b1ca0e8fd39d3d52d24d9180f879ea0184f5ebf089aef3513887d89419b",
+    "evidence\\development_combined_20261109\\block_metrics.csv": "3e38aa204c34b114adf70c4869fb49f98be16bf08766da31a7ce8ac352ed6834",
+    "evidence\\development_combined_20261109\\qualification.csv": "6c24156cd3fd65b43ebaaff82b0d1388ce9ddb3cd41fadc46e8344c72a98bf24",
+    "evidence\\development_combined_20261109\\request_medians.csv": "78531e0f224e1efcd91613e725658e3b3a300f8965934a67394b9658d480c179",
+    "evidence\\synthesis_20261110\\costs.csv": "ae879f91ef5bffa9be0a0a843cbbbe9be6e3822e5b58f90417b10a94a1f5e472",
+    "evidence\\synthesis_20261110\\frozen_rule_weights.csv": "c928f2683f1f85184dfbcd0188a1201215e9cfdae5ae1af955fcbf6087d20863",
+    "evidence\\synthesis_20261110\\frozen_threshold_scenarios.csv": "b06d20946d99e85d39c52885dd1f4e48e4707b4627d78aa2fa886b8b3ba91915",
+    "evidence\\synthesis_20261110\\frozen_threshold_summary.csv": "542f474c6d11f0cb68d883fd2a3655e958b6106627835e8818b8f1ac91f5b67c",
+    "evidence\\synthesis_20261110\\layout_storage.csv": "524f13f19d2eb161b6e4ce46a959b6c0f420eabe15e6750e88bd6adf657525aa",
+    "evidence\\synthesis_20261110\\mechanism_contrasts.csv": "f7ad0b77707e7fb42543bfbfb8e76f8c37fd63a513468f0bbc24b2fccd61febd",
+    "evidence\\synthesis_20261110\\phases.csv": "a93e82ab3f9a024f7ff51d01e621be5842605739e800b472cfe0ba9a89f85d98",
+    "evidence\\synthesis_20261110\\policy_context_comparison.csv": "284de5f836246da2c9a6f8c234c6d411f03065309872d68d0e260c0f46eed188",
+    "evidence\\synthesis_20261110\\task_layout_effects.csv": "c2d0d28f575fa072b77c514116fca8f9cb7ca550af358c9d8f8ac05150a1db8a"
+  },
+  "outputs": {
+    "candidate_sensitivity_cells.csv": "f5621ef69397022d5d97549cda8794b957968dc23027c2e2e36edb2f1cd22638",
+    "candidate_sensitivity_summary.csv": "9eb1ae47d3eaefe34b14f32e4c6e8a0cd50ffb20fa6fcf9412920bd18e895f7c",
+    "D1_thread_costs.csv": "1032e70b29b2ddc7cd6b621125c9b833e9add58d7f66b025c400a0d94b013231",
+    "dataset_roles.csv": "cb265923669e02a75edd8bde96c4906ca86352ca468ea30cec3fde55ae957d0e",
+    "layout_storage.csv": "7c640800b200f3ff49844778ed93c59320c0dce1d4b3c37913589177a149375b",
+    "rule_replay.csv": "e28c16f2938a4137e08a27fac9e1ae9d5fe16d570db5f40aa2a76422dfd6d3ea",
+    "rule_sensitivity.csv": "e6ee1c4afd17dc60910da3d3d964ca22621388547938f55a535b65a94cab75e8",
+    "source_inventory.csv": "b13ad07120f0c23f2491ab0bdb4daf05fa2558364ecde1d3037edd991a18dc43"
+  }
+}

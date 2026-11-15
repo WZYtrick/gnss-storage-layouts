@@ -1,0 +1,12 @@
+{
+  "started_utc": "2026-11-13T06:39:43.661560+00:00",
+  "ended_utc": "2026-11-13T10:39:13.349919+00:00",
+  "process": {
+    "pid": 83108,
+    "created": 1794551983.1145144,
+    "executable": "external/python.exe"
+  },
+  "returncode": 75,
+  "paused": true,
+  "next_group": 469
+}

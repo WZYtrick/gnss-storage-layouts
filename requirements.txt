@@ -1,0 +1,11 @@
+numpy==2.3.5
+pyarrow==25.0.1
+georinex==1.16.2
+xarray==2026.9.0
+hatanaka==2.8.1
+psutil==7.2.2
+matplotlib==3.11.2
+pandas==3.0.1
+ncompress==1.0.2
+python-dateutil==4.0.0
+packaging==26.3

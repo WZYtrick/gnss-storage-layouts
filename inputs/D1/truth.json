@@ -1,0 +1,866 @@
+{
+  "d275_q1_ALIC": {
+    "rows": 3980,
+    "sha256": "a80694d692bc3778cba8689689d6530275769c6f5246655c2602fa1d3fc3d81c"
+  },
+  "d275_q1_HOB2": {
+    "rows": 3683,
+    "sha256": "ad363f54785d5bf97385e464ee901675d67a6d1f687688a545d63a82a834a1ff"
+  },
+  "d275_q1_DRAO": {
+    "rows": 1598,
+    "sha256": "79d4546dd4c8b16f30a0ae4623b404ebbaa845a5e04078b94ff437748573db8b"
+  },
+  "d275_q1_GRAZ": {
+    "rows": 2856,
+    "sha256": "c5e9d801482bc71d6cc396e6f1d65628556b53b628d7ca99accf755565539ea1"
+  },
+  "d275_q1_ZIMM": {
+    "rows": 570,
+    "sha256": "430907c78b147014aa5ab28c73e6410059733d9006938945d586894253a1b481"
+  },
+  "d275_q1_ONSA": {
+    "rows": 3021,
+    "sha256": "5cb1cbd71016d16ce821fef3f1815894d74eb389df104274bc67a89021bfb6c0"
+  },
+  "d275_q2_ALIC": {
+    "rows": 897,
+    "sha256": "5f04aa9f23997a8a3209dd0b05fb334ffef13cf40fe667c541fcd3a4cd2d3991"
+  },
+  "d275_q2_HOB2": {
+    "rows": 886,
+    "sha256": "fc2b79b4b2f2adf21be1725dea722c6e8b4b9384e39c275b20a2d4d74c45601f"
+  },
+  "d275_q2_DRAO": {
+    "rows": 939,
+    "sha256": "d77b843fb30be7add8953324d11f0f4b4ca965950624405c82b0b3483137c774"
+  },
+  "d275_q2_GRAZ": {
+    "rows": 1021,
+    "sha256": "77cab5873dccade6ce8782ecc3a957dd1540c6c3e59cef18ff34024fa12742d6"
+  },
+  "d275_q2_ZIMM": {
+    "rows": 951,
+    "sha256": "cd35ccc7df57264cf8386b3d17d1870bb6071017d417deafbd43c70b4860cf2d"
+  },
+  "d275_q2_ONSA": {
+    "rows": 1042,
+    "sha256": "b88b8ee2ca5efcf97a3bbdd1c2b6ddb4ff9d40b7c7d99d2582ae817b8bfda614"
+  },
+  "d275_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d275_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d275_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d275_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "3d08fb765be4a115f59b8c8a1887e4e6048d68c462f41a47596c4eb90884d014"
+  },
+  "d275_q3_ZIMM": {
+    "rows": 28,
+    "sha256": "b67557e839e72dd0f6d75cd66db3d2a996eedeac101d3cbde16a5e00d557e480"
+  },
+  "d275_q3_ONSA": {
+    "rows": 240,
+    "sha256": "7154520e02d39b759191eecc4e6914aa59fc7caa63a6bc6bd95b12e0691bafa2"
+  },
+  "d275_q4_ALIC": {
+    "rows": 71276,
+    "sha256": "e44174f625024583944669bfee524e05096f266e45d655eea6a5af0549378c20"
+  },
+  "d275_q4_HOB2": {
+    "rows": 76008,
+    "sha256": "f16c4ec9e588dba6da9a41529d517255a88b17c6e03d72f34dd91ebdba1019eb"
+  },
+  "d275_q4_DRAO": {
+    "rows": 73574,
+    "sha256": "77c8e75e924369f07a2f8d77c2a1dca88e57c21639af52b5bc65e6bbe0e12ea8"
+  },
+  "d275_q4_GRAZ": {
+    "rows": 53469,
+    "sha256": "9f6a076b6c883fabedb7485354e2d0f11c5105a5cca2883e047ba772105bdfcf"
+  },
+  "d275_q4_ZIMM": {
+    "rows": 51787,
+    "sha256": "011046656c30f213b757dd856f1d565dd960a43ede141e3041c1fad15e15dd26"
+  },
+  "d275_q4_ONSA": {
+    "rows": 51861,
+    "sha256": "e9cad94be4e6876ceaf119dd8c5fa8a348dc660f8161f22705b1127896730b49"
+  },
+  "d275_q5_ALIC": {
+    "rows": 185727,
+    "sha256": "28f712a8c23a88e45f7b79fc551a46d881745ba61f0476c78ea1fd2319e99523"
+  },
+  "d275_q5_HOB2": {
+    "rows": 175485,
+    "sha256": "f352c1c41afc9c647044b6bf3014880f19ad7540fea68e992104ee58570237a4"
+  },
+  "d275_q5_DRAO": {
+    "rows": 76678,
+    "sha256": "2ef41305eff733cd94efde5a6a18952ea2a204166a7107745b40151dd636aea4"
+  },
+  "d275_q5_GRAZ": {
+    "rows": 130553,
+    "sha256": "bb5a3b06f3a975717c54aa16bc3d22de3c64982af732f91ada82068f576f0dd2"
+  },
+  "d275_q5_ZIMM": {
+    "rows": 28399,
+    "sha256": "17c2eb241abe2ba71aea4a9a773ab5d8c5e15045c6add4d3895fc41a8e335225"
+  },
+  "d275_q5_ONSA": {
+    "rows": 147776,
+    "sha256": "61934373136e243bdda4cec38cf6af55e6f116bb05ccc34d8170c2b8ba73360d"
+  },
+  "d275_q6_ALIC": {
+    "rows": 9044,
+    "sha256": "6736364f9074595bcdf4f38c11b2afdb9d47fd00aadb1629d95e87717dd03fee"
+  },
+  "d275_q6_HOB2": {
+    "rows": 9450,
+    "sha256": "ea35fcd72ab2a4b4157e51ce22f93a6c22dd9d7501947f5c397d0725cfa98361"
+  },
+  "d275_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d275_q6_GRAZ": {
+    "rows": 6360,
+    "sha256": "730e92791173ea6979d2587a933d34f911d4dad5b6130c9c388573c50c8d1070"
+  },
+  "d275_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d275_q6_ONSA": {
+    "rows": 5354,
+    "sha256": "4a2081c29f93611e21b46f61f0cc6a3896eb1a8df234030902b7a18cb01ac976"
+  },
+  "d276_q1_ALIC": {
+    "rows": 4034,
+    "sha256": "fef2e528eaf2581e96e0471101d0de3231ba32c6233bb7b13c6b9938a6a65b60"
+  },
+  "d276_q1_HOB2": {
+    "rows": 3583,
+    "sha256": "3f78ac5cbaec2320cc622b40cdbe9696e2cc31b895ccecc17a59c3b7ed25210d"
+  },
+  "d276_q1_DRAO": {
+    "rows": 1552,
+    "sha256": "83128e8b175e93b20fe596bc4dc13a1d51b0912d1722292b84ae9b697df7d2dc"
+  },
+  "d276_q1_GRAZ": {
+    "rows": 2757,
+    "sha256": "22feadab158fbaf8f72d9870a78dbcf86b784f03497fd34024d5295850c0a7b4"
+  },
+  "d276_q1_ZIMM": {
+    "rows": 560,
+    "sha256": "17f5146f2732b598522680502c8323b93611f8f96e297c88490c73e2c4705fbe"
+  },
+  "d276_q1_ONSA": {
+    "rows": 3089,
+    "sha256": "7424e6a1738ef54815e955a483938357610509a95ac4a9ba8a9b1e163788014b"
+  },
+  "d276_q2_ALIC": {
+    "rows": 895,
+    "sha256": "1401e850af2bdd187c50b7114ff70f249eddc828628aafeb61c3873eb7bf7897"
+  },
+  "d276_q2_HOB2": {
+    "rows": 891,
+    "sha256": "62ddb254f8d21fa7c234630139e2b5ae302e0543f5ace0ecf9e326001846bec1"
+  },
+  "d276_q2_DRAO": {
+    "rows": 955,
+    "sha256": "ffbd543204a5cd9c62926e4b04bb50ace942372e17c063a71960e1ee32ca6b56"
+  },
+  "d276_q2_GRAZ": {
+    "rows": 1007,
+    "sha256": "154ab1890a8a9b008eef84afa6a03ff6a89475e160da7d922cfe03d296501665"
+  },
+  "d276_q2_ZIMM": {
+    "rows": 932,
+    "sha256": "3d6f6e136fa28a4161712fe0ccf34fccbf491da71f269c1750afdbb70d6ad6ad"
+  },
+  "d276_q2_ONSA": {
+    "rows": 1021,
+    "sha256": "9ef80a8da5f186fc72436b8a61af9e05ff2caafb30a63639f628131570fcd4aa"
+  },
+  "d276_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d276_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d276_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d276_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "66bc03fcb4e85d638b40e591e4340e97dc5c00d7a3cd2b7f0f4016cd3d044325"
+  },
+  "d276_q3_ZIMM": {
+    "rows": 36,
+    "sha256": "02de7154195a17a78a8ff50612605a57e4548904f3a6c110173ff612aa499334"
+  },
+  "d276_q3_ONSA": {
+    "rows": 240,
+    "sha256": "e82a02595c53e1d3d9f08cd9180ec419b98d8dce5f05668145498fe1a1e1cb54"
+  },
+  "d276_q4_ALIC": {
+    "rows": 71336,
+    "sha256": "1161d5cebafbe11c8b56fd1f7e777202f11a197fcb41f76ab9dc779a924dd7cd"
+  },
+  "d276_q4_HOB2": {
+    "rows": 77736,
+    "sha256": "518900fb96e4823e05b74c0985d6a45348d5ca55b05188dcfd02fa2ca79018a5"
+  },
+  "d276_q4_DRAO": {
+    "rows": 74698,
+    "sha256": "6d5506b66a4f5e5d945f1bc7a0fc0ebc26a9d20a6e1a5e73b93a8d42a82456c4"
+  },
+  "d276_q4_GRAZ": {
+    "rows": 51176,
+    "sha256": "b92e126482eecb865c6a4888d3101147dad876666892cef5e5df9fa7438b668c"
+  },
+  "d276_q4_ZIMM": {
+    "rows": 51023,
+    "sha256": "dc807df64f3ec3f954647140c9c1700d269f9d6d317a324aacb464ef32102cc9"
+  },
+  "d276_q4_ONSA": {
+    "rows": 51148,
+    "sha256": "7611f28cf54458696e20faf9eeeb856f78f5e81aad3d3315300a4556aec58804"
+  },
+  "d276_q5_ALIC": {
+    "rows": 188206,
+    "sha256": "9d80a5309fef00749f64f9ff213844f42cdeb4791aabe403ee21291647d17552"
+  },
+  "d276_q5_HOB2": {
+    "rows": 176480,
+    "sha256": "05c7c1bd66490e679503b5790e2132d05fdacec0db868af9f127291b67414b2f"
+  },
+  "d276_q5_DRAO": {
+    "rows": 76132,
+    "sha256": "e3204d9f5d3ba4316ae0d63abcebd956a5778e08b12c2955150377e0d4151597"
+  },
+  "d276_q5_GRAZ": {
+    "rows": 129493,
+    "sha256": "06620b6055c907e447070764fae9afbd80687d33869b7975dfdcc6c64602fd9d"
+  },
+  "d276_q5_ZIMM": {
+    "rows": 28359,
+    "sha256": "5c8be19ac637448119b3ee0b618b41824b04fcf316cd6f9a19523db2587d514d"
+  },
+  "d276_q5_ONSA": {
+    "rows": 147295,
+    "sha256": "e4a8140953fd3691777a1d1c8e43b07d313fa8a519007f9b33fc1110b346c570"
+  },
+  "d276_q6_ALIC": {
+    "rows": 9312,
+    "sha256": "c64d4188fb21801819789ee90c32ac235060737b767a80547079139c38901027"
+  },
+  "d276_q6_HOB2": {
+    "rows": 9908,
+    "sha256": "f596f178324cd8cd3e8e2968fdab1dfdce12140eec55e7de8e4ebc9dff55c035"
+  },
+  "d276_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d276_q6_GRAZ": {
+    "rows": 6035,
+    "sha256": "b84f8c991914a98cb7ebd46e3f32dfbbe6eb0abd3a46b25381bd74befc2143fc"
+  },
+  "d276_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d276_q6_ONSA": {
+    "rows": 5284,
+    "sha256": "93d78561d7412c9743346bc47f374b1c99b0dfad50f4304feb4d9e7bbbba1cdb"
+  },
+  "d277_q1_ALIC": {
+    "rows": 4017,
+    "sha256": "ef3621f9f8ed55b5a088e6000a1e0bbe357f25b751a9f14db8c275b6aab95902"
+  },
+  "d277_q1_HOB2": {
+    "rows": 3538,
+    "sha256": "42903a427f2582360395964b7fb46a041744e20a6036638c30aa80c5fa057577"
+  },
+  "d277_q1_DRAO": {
+    "rows": 1609,
+    "sha256": "da5f27e9e75dca361ef272798614bd46d7d7d1a6cf3f78c864b6b82f2ebe8e41"
+  },
+  "d277_q1_GRAZ": {
+    "rows": 2683,
+    "sha256": "889c37d6f143ec31b5747f6fca3074e12754504c85c78197a32f20b735678193"
+  },
+  "d277_q1_ZIMM": {
+    "rows": 539,
+    "sha256": "37db575a15020ad4184ac6e2362ceba16374f0880cac0366d4a9cc1b42541ba1"
+  },
+  "d277_q1_ONSA": {
+    "rows": 2935,
+    "sha256": "664a7204766e8b402364af2ef50b8da6469d67bc40e7b1d2a6ab88e34b999d55"
+  },
+  "d277_q2_ALIC": {
+    "rows": 901,
+    "sha256": "a87c0be468e9513c203380c70fc26bf8e6bf1a91a645b89457c1f1d2656ba82c"
+  },
+  "d277_q2_HOB2": {
+    "rows": 902,
+    "sha256": "7d7b94a5c24bc41b8ccb8801d04782ec3f5fb40fd3a300806559044396505dd1"
+  },
+  "d277_q2_DRAO": {
+    "rows": 966,
+    "sha256": "622d12d4af85b81cc29dafb01a5fd575d18360ec86fdb51108f828279dbbcd42"
+  },
+  "d277_q2_GRAZ": {
+    "rows": 988,
+    "sha256": "eb05de2709467bdb4f64925f8fd7e6732820311053229499edbbea82488f72cb"
+  },
+  "d277_q2_ZIMM": {
+    "rows": 913,
+    "sha256": "c3b59db5ad01ac97a852649ee20821c68311740d594c0e15ce59e9a47bde9942"
+  },
+  "d277_q2_ONSA": {
+    "rows": 994,
+    "sha256": "47cfa14a808cfca2c8ab52536544d9bc69893ce77c98cf4f6aa32a3c785e4f9e"
+  },
+  "d277_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d277_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d277_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d277_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "9f3bb7b2db8bcf849e67c45277b5e3848912890f81cd85677e2b32402e1bde26"
+  },
+  "d277_q3_ZIMM": {
+    "rows": 46,
+    "sha256": "423bf57114f5c5a4e451ec61c1f66065c92d6a5e25599ed37447ef86d0674f9b"
+  },
+  "d277_q3_ONSA": {
+    "rows": 240,
+    "sha256": "d85770b15e22c7634b11038c4793a2e7cf11506c21914fc4684eaa04c549b276"
+  },
+  "d277_q4_ALIC": {
+    "rows": 70530,
+    "sha256": "0f43031d436e6a959463f855ed865010fcc2899133a23797af396f98a2c68f8b"
+  },
+  "d277_q4_HOB2": {
+    "rows": 76775,
+    "sha256": "25727ede735b9bcd33e2d847948579566daa0fefff1a67196aa31ce7a2d30046"
+  },
+  "d277_q4_DRAO": {
+    "rows": 73760,
+    "sha256": "a4d7250e8c7939fb24324244734487cb8f164ee5350dbdb976388ef308f806e6"
+  },
+  "d277_q4_GRAZ": {
+    "rows": 50125,
+    "sha256": "a7e6faed105404dc0c9d98caefac7e1d42a2b3eff53258bf1a4c836ddd94ff79"
+  },
+  "d277_q4_ZIMM": {
+    "rows": 49952,
+    "sha256": "f0dcc892e67648639fa145525bda507e37335cfff497b97e53332012b0ab8c3b"
+  },
+  "d277_q4_ONSA": {
+    "rows": 51281,
+    "sha256": "a20942a70c06f702e5a20081d8ee71105752cb9557641e26857756157b5cec39"
+  },
+  "d277_q5_ALIC": {
+    "rows": 187287,
+    "sha256": "63f83ca4bd98869aaf5c6f48c38dd48df9a625169cf5cb677b72ba10c58b9512"
+  },
+  "d277_q5_HOB2": {
+    "rows": 175864,
+    "sha256": "d71bb3c1df8f1aa5034add2adc80490ceda777b3fa7d1b3b0a9963c010507638"
+  },
+  "d277_q5_DRAO": {
+    "rows": 75535,
+    "sha256": "05e77e2a8c67d9f958212f3fa7a18ec9142cbb1bf0fe4af0d337918dcc321145"
+  },
+  "d277_q5_GRAZ": {
+    "rows": 128948,
+    "sha256": "67e41af654039e0e799ba5a1e9bff27bb4f20513254cd736b0e363fc5c7c02eb"
+  },
+  "d277_q5_ZIMM": {
+    "rows": 28369,
+    "sha256": "49d8c0ef96616572862a292e17df500c18c757802441c7cdd8a1834bd3d70ca6"
+  },
+  "d277_q5_ONSA": {
+    "rows": 147682,
+    "sha256": "8c38c092b19afa005ea6d57d173d4a15e4be0cdf4777436bd86054be04a49b3c"
+  },
+  "d277_q6_ALIC": {
+    "rows": 9141,
+    "sha256": "10958a0c294f22372621768617216b057d65d8dc9a450d5fcd89acabc4a81d74"
+  },
+  "d277_q6_HOB2": {
+    "rows": 9851,
+    "sha256": "548bb14452e2fe7b45f52791b7e2ea3eda89e0580fb6e77385558a439f7c8436"
+  },
+  "d277_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d277_q6_GRAZ": {
+    "rows": 5595,
+    "sha256": "9f7845f5287c0e1ada0fe863382fbbf6b670dcc48be2d726189c8ffcde9e15b6"
+  },
+  "d277_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d277_q6_ONSA": {
+    "rows": 5136,
+    "sha256": "de470800f8beafe0a22ae06844ce48d77f906ea4592fb58e92969a7f6c1a572c"
+  },
+  "d278_q1_ALIC": {
+    "rows": 3988,
+    "sha256": "967d48c1955c1a2fa13deccee58eb396f6316f341d64a0128686ada2f18f8a6d"
+  },
+  "d278_q1_HOB2": {
+    "rows": 3716,
+    "sha256": "fcd344661fb600c7bec5e9438c13fc3f1b35123201733468bdd6b8bcbd8f09fb"
+  },
+  "d278_q1_DRAO": {
+    "rows": 1598,
+    "sha256": "4c670c771e229487ef1b116e1e6ce3f7f45fb89183c27759324304a4c8aa63f7"
+  },
+  "d278_q1_GRAZ": {
+    "rows": 2803,
+    "sha256": "f41e87e128600ca49cec5e668913903d3780c7424c5d3d59b4844200ae69f26e"
+  },
+  "d278_q1_ZIMM": {
+    "rows": 526,
+    "sha256": "62c4e716edd062ff2640a24ad7b6c559df39f0bb370e35b836b3804e1a37ffe0"
+  },
+  "d278_q1_ONSA": {
+    "rows": 2907,
+    "sha256": "7b45b17dd9440638a41ea7d850bad1e885522f774ab148d8b88d267283323a00"
+  },
+  "d278_q2_ALIC": {
+    "rows": 895,
+    "sha256": "3ec1087f5decb00f900608db55221e85f773d042c46e6955b70f0d29ec620f66"
+  },
+  "d278_q2_HOB2": {
+    "rows": 916,
+    "sha256": "faf65b94bb70138167041e9c819a8c61e0f13203a20b982b3aef2deb600b05f3"
+  },
+  "d278_q2_DRAO": {
+    "rows": 942,
+    "sha256": "3e9b146b5c0a66557a92f44e990af2460c33449ede19df34c80bde4cae8d0f7a"
+  },
+  "d278_q2_GRAZ": {
+    "rows": 966,
+    "sha256": "62b557de1d33cff3993bf7aaca28859f0d008f048c6924d160791d53ae682b7f"
+  },
+  "d278_q2_ZIMM": {
+    "rows": 915,
+    "sha256": "424af5c29bffb5204489c328b63196406c0c0b747bf5de0f76f62924a3dd1d59"
+  },
+  "d278_q2_ONSA": {
+    "rows": 970,
+    "sha256": "d2428e4847088d84fb0ba6198a651ce2415e106657a90d9c208cebadfdda9d4d"
+  },
+  "d278_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d278_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d278_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d278_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "b63feaa3c3855c8b493266875a6904c0b015c0d58bc4e263e310c909b6a1dce1"
+  },
+  "d278_q3_ZIMM": {
+    "rows": 59,
+    "sha256": "3ea9ede1a54907f72ce5e4adf91222e8cfa9383f44697b1c711892d53d01e5c8"
+  },
+  "d278_q3_ONSA": {
+    "rows": 240,
+    "sha256": "7226feeabfbb83fdbfcbdcd745618a98d02036b60b9bdbe71398c58690a2ed92"
+  },
+  "d278_q4_ALIC": {
+    "rows": 70588,
+    "sha256": "5d18fe7379874437e18859916bf868fc5022c208463f2383bd959da38d17860e"
+  },
+  "d278_q4_HOB2": {
+    "rows": 76971,
+    "sha256": "0f2f67cae8308e346f959ea966d9090c68f0eeacc6f6a83987f00f1e60e8ce93"
+  },
+  "d278_q4_DRAO": {
+    "rows": 74361,
+    "sha256": "26ea3f832587ee19f92cf5b509f33d137035b823be19c7406158737e5138c2de"
+  },
+  "d278_q4_GRAZ": {
+    "rows": 52021,
+    "sha256": "392e65b7831ba9827c340910fed1a3853dbc4b084d6cde07432d33ee407310fa"
+  },
+  "d278_q4_ZIMM": {
+    "rows": 49905,
+    "sha256": "0eb36037a6fe46fe69072568ce27824d0a384395cae51c7a451ad6f3d0b2535d"
+  },
+  "d278_q4_ONSA": {
+    "rows": 50008,
+    "sha256": "f77abb4a031d74ca5265ca99431b7758e0cae947304adaf901c0fb186466ce21"
+  },
+  "d278_q5_ALIC": {
+    "rows": 187117,
+    "sha256": "07479098202acb8e585556cf3d70f109b8b99bc5921239f777d29050df3467e2"
+  },
+  "d278_q5_HOB2": {
+    "rows": 176554,
+    "sha256": "5d60e5466c8e88afb522bed5c28c7860b7ca1e2723b60e541e7588ec05736a61"
+  },
+  "d278_q5_DRAO": {
+    "rows": 76516,
+    "sha256": "35f7468c1dfdd9f795140e15d0bcc7476b76ccf915bc91533c014fac325c5ef1"
+  },
+  "d278_q5_GRAZ": {
+    "rows": 128438,
+    "sha256": "6a07b22a880a6d97b03c8fb1983efd326a892eea6ad7c01d5f623a36817865b6"
+  },
+  "d278_q5_ZIMM": {
+    "rows": 28381,
+    "sha256": "c463eeab85446ba03443f0b43cc22cd741aa5ed2309b11eac7f1490e1f869fa4"
+  },
+  "d278_q5_ONSA": {
+    "rows": 147776,
+    "sha256": "f7c4180508dca7ab6fdba6c78383d722defd099c585091da46590ebba015df6c"
+  },
+  "d278_q6_ALIC": {
+    "rows": 8586,
+    "sha256": "ef9ac975ce4d999b83d66921c0aadbaac347df3d9a8abbf7b3db0b7fb0b0dab3"
+  },
+  "d278_q6_HOB2": {
+    "rows": 9451,
+    "sha256": "03d5dea23b5f70dce511539b66a90adad4b92b3bebd71c56d9297a5dc0a575d1"
+  },
+  "d278_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d278_q6_GRAZ": {
+    "rows": 5790,
+    "sha256": "f7a91122b47a52ab860fb868ddddf6d3453fad36f84bf936bffc84ed8abb5e0a"
+  },
+  "d278_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d278_q6_ONSA": {
+    "rows": 4648,
+    "sha256": "0fb0fb1de1e55a94858143198c46211ce5c208f3ae00dae2d37d8b57ac41dcc0"
+  },
+  "d279_q1_ALIC": {
+    "rows": 3863,
+    "sha256": "555b6e92177f56858662046e80bd85abd1b8943191f811e85abf5882fc530329"
+  },
+  "d279_q1_HOB2": {
+    "rows": 3615,
+    "sha256": "69c05058c2530b49cb2d10798a9e785532d2226e5d5035acf3f2d8dba7112007"
+  },
+  "d279_q1_DRAO": {
+    "rows": 1536,
+    "sha256": "bb2d242c6996d6fee63daff9a229fc45aaf7e75224bf4d5bd4e6888a7b7d48ab"
+  },
+  "d279_q1_GRAZ": {
+    "rows": 2906,
+    "sha256": "8cb17d1e0475073f3ddda6e3ab1ef3f63427be7d58bc3bdb68a80456b6ee1a2b"
+  },
+  "d279_q1_ZIMM": {
+    "rows": 519,
+    "sha256": "267c41928da12ff0bec27f640a3c02f08d0bf5eef22c0cdf5f78cfe7558a69a4"
+  },
+  "d279_q1_ONSA": {
+    "rows": 2880,
+    "sha256": "53187f11bb0e053b31834477f64f7b4e057507925851cfc98212a60455ca33ee"
+  },
+  "d279_q2_ALIC": {
+    "rows": 908,
+    "sha256": "05fb4e6ab9ee74319b8967879b42e023eb4daca795fff7590e7e7e8d9039a5c2"
+  },
+  "d279_q2_HOB2": {
+    "rows": 929,
+    "sha256": "70ae1705c2138d5166ab92dbfe1c2cbd7b111b2ff39dcde4c0064739dfaed600"
+  },
+  "d279_q2_DRAO": {
+    "rows": 996,
+    "sha256": "b45d1c03578bf7246b2d2b3d2fb72a2ec3bb8bfa8364747980b2a72fa2fe393d"
+  },
+  "d279_q2_GRAZ": {
+    "rows": 949,
+    "sha256": "27c6e2d4d4036fc4c897444a5c9ba5da7e135a12edd2f79f7ba8638074e4c4dc"
+  },
+  "d279_q2_ZIMM": {
+    "rows": 932,
+    "sha256": "1160b453b7a01b7077ace1e43f07e42b28820bac27bea15e68833b783aadf816"
+  },
+  "d279_q2_ONSA": {
+    "rows": 941,
+    "sha256": "863590c5a82379791ba6636c7b7a1660d9957f3d07c1f2ad0e503d199d134c4a"
+  },
+  "d279_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d279_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d279_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d279_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "b9878d7865fcfe33564bebabb1398f222479866966f1bf2b7c056ee5f4e46e6e"
+  },
+  "d279_q3_ZIMM": {
+    "rows": 62,
+    "sha256": "9abf0badc2f2b649c57508faeeb8f19990fbbfe3296c815047282c8121cd1d01"
+  },
+  "d279_q3_ONSA": {
+    "rows": 240,
+    "sha256": "bdf00045fcf8ee84c28491452e7934bb83c245a97e18b1e161946e57d8846eef"
+  },
+  "d279_q4_ALIC": {
+    "rows": 69307,
+    "sha256": "58f4c5df92c87024053df0d6d34c93568ff9a267ad6bf2ba51b7e9ae5a2720c4"
+  },
+  "d279_q4_HOB2": {
+    "rows": 76225,
+    "sha256": "51ed3085ae7002ccd5c1bdefe5e60b2c4b2c1ee476f3298f3e5548a2f78db68c"
+  },
+  "d279_q4_DRAO": {
+    "rows": 73786,
+    "sha256": "e9809ca2f578ac2acdb0bda263ca1b378494e07ef23acbc3bdf5db07610c3892"
+  },
+  "d279_q4_GRAZ": {
+    "rows": 51966,
+    "sha256": "21b5db8034d9cc671bffc07baa8a5b5a0b578287cdc58d1f240782d02ca9a20c"
+  },
+  "d279_q4_ZIMM": {
+    "rows": 50567,
+    "sha256": "8fcf8c8ae0aa1037f88cc39ede662469297150342ea23b039fa38146bfb3466e"
+  },
+  "d279_q4_ONSA": {
+    "rows": 49799,
+    "sha256": "6a30d875914bb3bd2c9ffa0de8e34923ecc88bc0210db0f0abcd6c7fe8bd46c0"
+  },
+  "d279_q5_ALIC": {
+    "rows": 188750,
+    "sha256": "452489657c3ff402f0f2c7bd38bc52fa1ff164f15f2a724316c064f047a41599"
+  },
+  "d279_q5_HOB2": {
+    "rows": 178203,
+    "sha256": "02e3270360a9043ddc4b05043f9b9274870c9a02f0a9946c836e12055164c578"
+  },
+  "d279_q5_DRAO": {
+    "rows": 76312,
+    "sha256": "89660407d040b4bdaa830753bdaebd654daafa77b48b013b04d67f7e3bbd8020"
+  },
+  "d279_q5_GRAZ": {
+    "rows": 129541,
+    "sha256": "47c033285f9f0bf5bb550158ac560930f1ecb60ea65b5a723c05836ea201f05b"
+  },
+  "d279_q5_ZIMM": {
+    "rows": 28400,
+    "sha256": "d2ba6682fd8638e91ea2c97334baf64c86d9709f814d1bc2577f2c39b7f5bc18"
+  },
+  "d279_q5_ONSA": {
+    "rows": 147805,
+    "sha256": "6ec075d68d9064ee2f76cc05da7d14b47b820ee21bdf4c73fa02c74cc7cd5a8a"
+  },
+  "d279_q6_ALIC": {
+    "rows": 8152,
+    "sha256": "89680659669322f8b85a678a83b11c8ed2aeba6b1405865b141ee77149289798"
+  },
+  "d279_q6_HOB2": {
+    "rows": 9031,
+    "sha256": "5fff0201d275b37f34486e7d8e951689a855f50af3613e80fbdf02b57122b6f9"
+  },
+  "d279_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d279_q6_GRAZ": {
+    "rows": 6023,
+    "sha256": "edcd2b4d3b00fc810351d5e169a0f1dc3a0f94cd258e4d70c50caf3734ff75bf"
+  },
+  "d279_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d279_q6_ONSA": {
+    "rows": 4970,
+    "sha256": "e2f47a99ee8aa4191bb90feea23567f1041ee366674dcf989a584a6c339e3962"
+  },
+  "d280_q1_ALIC": {
+    "rows": 3728,
+    "sha256": "e79df61b546e2002134cbb8b37d022fc5b4b87f9ceed5dc79166b4dad54f5f6b"
+  },
+  "d280_q1_HOB2": {
+    "rows": 3515,
+    "sha256": "31ab0f233b67671533919bfa36cdba16b02c288667f5934fb41d5a68a8e5eb1f"
+  },
+  "d280_q1_DRAO": {
+    "rows": 1592,
+    "sha256": "9eaa33b53a57aa100a52ac62d41f3484dcf9f1d25c2ba3773d7836b96d08e13e"
+  },
+  "d280_q1_GRAZ": {
+    "rows": 2933,
+    "sha256": "d7931833c1e23b6c92be14639610eb90db4ea9dce39aa9ffac852565099d49c4"
+  },
+  "d280_q1_ZIMM": {
+    "rows": 519,
+    "sha256": "b81d0108f470f0914f41289bb9532e9a3d620649f02b0f648ab9264d9cc6a693"
+  },
+  "d280_q1_ONSA": {
+    "rows": 2926,
+    "sha256": "f3cfa1128f34c762d0237dca0db99bfa8f8f3d1dddc537f28d008737286cc362"
+  },
+  "d280_q2_ALIC": {
+    "rows": 916,
+    "sha256": "42a9bca0b1285c2dd4d9a8e83a0fb6781eb1b663469d2a5347127c4f6da4b011"
+  },
+  "d280_q2_HOB2": {
+    "rows": 928,
+    "sha256": "6b242399a3b8a544cfd89be655472729ec1a5d5a0fa8359f2d08bff8bdf9ff29"
+  },
+  "d280_q2_DRAO": {
+    "rows": 1017,
+    "sha256": "1010eaf0a332bd7b994df652968f85d0f5b9eafb60448024dced6489cc9258eb"
+  },
+  "d280_q2_GRAZ": {
+    "rows": 942,
+    "sha256": "8016510951dfc9ff270f16eb0c0df16edd79a035f8a9243f0447ec1a29966d2a"
+  },
+  "d280_q2_ZIMM": {
+    "rows": 937,
+    "sha256": "d794d573db790af907aaaf9f96de0d1624db55984ff401b9bd3364fa9d5f48f9"
+  },
+  "d280_q2_ONSA": {
+    "rows": 929,
+    "sha256": "486404c8a97e87ab057941fa234c8274c29b76b483331291046c62166dbbf4fe"
+  },
+  "d280_q3_ALIC": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d280_q3_HOB2": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d280_q3_DRAO": {
+    "rows": 0,
+    "sha256": "05bb12ef5fb8cce9fbd3e060b40e2dc483c015d0138a17ecc5bf02898262ef5f"
+  },
+  "d280_q3_GRAZ": {
+    "rows": 240,
+    "sha256": "2f28908757e044db907a908728c9f8406b103c1973947a85970e0af31f0a6fd0"
+  },
+  "d280_q3_ZIMM": {
+    "rows": 67,
+    "sha256": "88f2229e09a7635c0227e5257ca918137f6e787ffd690d85b37fe59c84a5621e"
+  },
+  "d280_q3_ONSA": {
+    "rows": 240,
+    "sha256": "38871a923e758942d749d654e79025cb46f705fe97c1ab169c2c97ae35ef08f6"
+  },
+  "d280_q4_ALIC": {
+    "rows": 66752,
+    "sha256": "03dcfdd2a08b48010c65d25717f3debaa77b6cc0dc485d23d25b46245c2325ac"
+  },
+  "d280_q4_HOB2": {
+    "rows": 73510,
+    "sha256": "454fb411839fdaf377b0d9282eb42ba1b9189d4ee9d59dc68cead2e781448fec"
+  },
+  "d280_q4_DRAO": {
+    "rows": 71241,
+    "sha256": "e95c50c5067dabb3a800ce25e4fe6799cf7667cc50732316ab5529793736de8a"
+  },
+  "d280_q4_GRAZ": {
+    "rows": 52339,
+    "sha256": "62da6e7d206ea21d1206539904616941ecc2069aa4c05d8e1fe0997c4beab811"
+  },
+  "d280_q4_ZIMM": {
+    "rows": 50903,
+    "sha256": "062e7df371e99943049bb40d05ac26dafcba07f144f2cb7f5fe061a2d2e17c40"
+  },
+  "d280_q4_ONSA": {
+    "rows": 50520,
+    "sha256": "7f2c0690a57fe6d22e32c8af3c2b3a62a3b00969eb32afb702d816a262fd00ad"
+  },
+  "d280_q5_ALIC": {
+    "rows": 186657,
+    "sha256": "99abf64ecda701d772d99e30d4a94e74f9b7597e5ef3ffb1b44d4058b0b8746e"
+  },
+  "d280_q5_HOB2": {
+    "rows": 175066,
+    "sha256": "2fb1b9b05b13e75afe53d6d512db0050e3d016dfedb04d31f8fbae8d9278ecae"
+  },
+  "d280_q5_DRAO": {
+    "rows": 75492,
+    "sha256": "1620405d9284e775771071768323b509a33b66e515dded5d67bc407b4e79dc1f"
+  },
+  "d280_q5_GRAZ": {
+    "rows": 131087,
+    "sha256": "3653a4d7cc18c89cc006a3e67341fbe6af49ceeb32349eed999f7ab152da1729"
+  },
+  "d280_q5_ZIMM": {
+    "rows": 28374,
+    "sha256": "cd394fa390a60eb16a260bad510c8072b1c70f75a4d7e2464e5885e82bd3c196"
+  },
+  "d280_q5_ONSA": {
+    "rows": 147547,
+    "sha256": "1c15f19b17cb3dbc79636d77c1a26093148630715bbda35b83140ae1ccf51e3d"
+  },
+  "d280_q6_ALIC": {
+    "rows": 8324,
+    "sha256": "324697f0719c57c3c0e27c56b587af0586baec89de21ea9a5bd1d3e4ad1fea5a"
+  },
+  "d280_q6_HOB2": {
+    "rows": 8675,
+    "sha256": "fa8f897ac5ef762a6930939bc552209211999259c2f6971b7b9d09a1b19603ea"
+  },
+  "d280_q6_DRAO": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d280_q6_GRAZ": {
+    "rows": 6450,
+    "sha256": "e53508d2ca74fa2e399fc3297e7d7963230cee55dfa37baa86f2ab36f7f2e796"
+  },
+  "d280_q6_ZIMM": {
+    "rows": 0,
+    "sha256": "1ebce483f7167c805d97809d61750644a33039006c49287063a27792c9678fe9"
+  },
+  "d280_q6_ONSA": {
+    "rows": 4852,
+    "sha256": "b286e95661418aa6398c28782977f1b63fdc4486d859a6e38b6851ca164d3e72"
+  }
+}

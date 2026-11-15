@@ -1,0 +1,10 @@
+{
+  "started_utc": "2026-11-13T21:56:15.635080+00:00",
+  "process": {
+    "pid": 73808,
+    "created": 1794606974.3573077,
+    "executable": "external/python.exe"
+  },
+  "next_group": 0,
+  "design_sha256": "8fadf1fc60164c6edcef1d0605e4c04b465735055b352102345872490481813d"
+}

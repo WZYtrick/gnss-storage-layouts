@@ -1,0 +1,1 @@
+Original timing and derived result tables are provided under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Original GNSS files are not redistributed; their source URLs, checksums, and provenance are supplied. Third-party software retains its original license.
